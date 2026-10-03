@@ -15,7 +15,7 @@ interface RecentPrediction {
   timestamp: number
 }
 
-const API_BASE = '/api'
+const API_BASE = 'https://car-price-prediction-ai-production.up.railway.app'
 const STORAGE_KEY = 'autoprice_recent'
 const MAX_RECENT = 5
 
