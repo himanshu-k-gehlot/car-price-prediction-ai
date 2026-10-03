@@ -1,0 +1,3001 @@
+brand,model_year,kilometers_driven,fuel_type,transmission,engine_cc,owner_count,mileage,price
+Mahindra,2013,96623,Hybrid,Automatic,1497,1,21.9,11.6642
+Kia,2011,122326,Petrol,Manual,1197,1,17.5,7.0514
+Renault,2021,90970,Hybrid,Manual,998,2,21.8,8.9198
+Skoda,2016,79875,Petrol,Automatic,1497,1,12.7,12.5942
+Mahindra,2021,55736,Petrol,Manual,2179,1,18.9,11.1709
+Hyundai,2019,73350,Petrol,Manual,2179,2,12.3,8.0384
+Volkswagen,2014,136614,Petrol,Manual,1968,1,13.1,9.1136
+Mahindra,2018,95169,CNG,Manual,1197,2,30.8,8.2975
+Toyota,2019,59799,Petrol,Manual,1968,2,15.0,12.2681
+Volkswagen,2015,122911,Electric,Manual,0,1,3.8,13.5649
+Mahindra,2020,70351,Diesel,Manual,796,1,14.7,10.7082
+Honda,2023,79725,Petrol,Automatic,1497,1,23.9,12.3872
+Skoda,2014,111252,Electric,Automatic,0,1,4.2,16.1718
+Skoda,2016,85042,Electric,Manual,0,2,2.0,13.8175
+Kia,2017,69528,Diesel,Manual,1497,1,18.7,10.661
+Volkswagen,2018,238778,Petrol,Manual,1197,1,17.8,8.9951
+Hyundai,2011,134710,Petrol,Manual,1197,2,19.5,4.5401
+Kia,2016,95021,Diesel,Automatic,998,2,20.8,9.2841
+Maruti Suzuki,2018,56501,Petrol,Manual,796,2,20.9,5.6553
+Tata,2013,99613,Diesel,Manual,1497,1,23.8,6.6917
+Renault,2012,271609,Petrol,Manual,2494,1,13.3,4.7262
+Toyota,2014,144253,Electric,Manual,0,1,3.8,11.916
+Kia,2017,97168,Electric,Automatic,0,3,4.0,12.1805
+Skoda,2012,109910,Hybrid,Manual,1197,1,22.5,11.3238
+Volkswagen,2016,80648,Diesel,Manual,1497,1,20.8,13.2185
+Kia,2022,31848,Petrol,Automatic,1197,1,19.7,13.8908
+Honda,2012,117868,CNG,Manual,998,4,34.3,3.8994
+Volkswagen,2022,35434,Petrol,Automatic,2494,3,16.5,14.8104
+Skoda,2019,186317,Hybrid,Automatic,1497,1,23.6,14.799
+Renault,2011,120879,Petrol,Automatic,998,2,16.5,4.7249
+Renault,2016,138219,Diesel,Automatic,1497,2,20.4,6.5023
+Hyundai,2011,120640,Petrol,Automatic,1197,1,22.0,4.9386
+Kia,2020,42676,Petrol,Manual,1598,1,18.4,10.7438
+Honda,2023,25475,Diesel,Automatic,1598,4,21.7,11.385
+Mahindra,2019,53709,Petrol,Automatic,1968,2,15.1,10.353
+Hyundai,2023,55284,Petrol,Manual,2179,2,16.0,8.4463
+Renault,2012,115193,CNG,Manual,998,1,24.3,4.8098
+Toyota,2021,121363,Petrol,Automatic,1968,1,16.0,14.8528
+Honda,2024,36701,Petrol,Automatic,1497,1,19.0,14.58
+Hyundai,2010,145554,Electric,Automatic,0,2,3.7,5.6598
+Tata,2020,51524,Hybrid,Manual,2494,3,19.2,10.0137
+Renault,2023,78982,CNG,Manual,998,2,29.7,7.0912
+Toyota,2022,68938,Petrol,Manual,1598,2,19.2,11.9199
+Toyota,2021,53111,Petrol,Automatic,1598,1,19.2,15.5862
+Kia,2022,26871,Electric,Manual,0,1,4.3,16.1002
+Honda,2012,184178,Petrol,Manual,998,2,17.0,5.8037
+Renault,2014,142413,Diesel,Manual,1598,4,22.3,5.1996
+Kia,2016,98118,Petrol,Manual,1197,3,11.1,8.5317
+Kia,2013,115714,Petrol,Automatic,1497,1,19.2,8.4848
+Mahindra,2020,83726,Petrol,Manual,1197,1,18.4,11.0175
+Mahindra,2010,142546,Diesel,Manual,1197,1,16.5,6.4696
+Renault,2021,67663,Hybrid,Manual,1197,1,27.0,8.6978
+Skoda,2010,121395,Diesel,Manual,1497,2,24.4,8.3477
+Volkswagen,2015,82427,Petrol,Automatic,1197,1,18.2,13.1116
+Kia,2024,80549,Diesel,Manual,1968,2,13.9,15.2756
+Hyundai,2012,234928,Diesel,Automatic,1197,3,25.4,4.3064
+Toyota,2019,64075,Petrol,Automatic,1968,3,16.0,11.1196
+Mahindra,2015,94237,Diesel,Manual,1598,3,22.2,7.6858
+Skoda,2023,17440,Petrol,Manual,998,3,20.8,13.4331
+Mahindra,2019,67620,Petrol,Manual,1968,1,20.8,10.6177
+Toyota,2014,116101,Diesel,Automatic,2179,2,26.8,11.2182
+Tata,2024,55758,Diesel,Manual,1197,3,20.8,8.3242
+Maruti Suzuki,2019,59958,CNG,Manual,796,4,27.7,4.6079
+Tata,2024,76129,Petrol,Manual,998,1,17.6,8.2708
+Hyundai,2022,26786,Petrol,Manual,998,1,12.2,8.3091
+Skoda,2021,34558,Petrol,Manual,1497,2,13.2,16.0507
+Maruti Suzuki,2019,71074,Electric,Manual,0,2,4.5,8.7344
+Renault,2021,69484,Petrol,Manual,1598,1,16.3,8.7942
+Hyundai,2019,50803,Petrol,Manual,998,2,15.6,7.4379
+Skoda,2010,146326,Petrol,Manual,1197,2,17.1,7.7796
+Volkswagen,2017,193185,Petrol,Manual,1197,1,15.6,10.1358
+Maruti Suzuki,2014,98068,Petrol,Manual,998,1,15.3,4.5113
+Mahindra,2018,116187,Petrol,Manual,1197,4,13.7,7.6764
+Maruti Suzuki,2023,25854,Petrol,Automatic,2179,2,17.6,9.4376
+Kia,2019,74113,Petrol,Manual,1497,1,10.9,10.0883
+Honda,2022,162036,Diesel,Manual,1197,1,16.8,9.748
+Hyundai,2013,175576,Petrol,Automatic,1598,2,14.1,5.9278
+Hyundai,2023,54360,Hybrid,Automatic,998,1,25.7,11.1836
+Volkswagen,2020,111535,CNG,Manual,998,2,23.8,9.9129
+Renault,2018,79281,Diesel,Manual,1598,3,19.3,6.7053
+Maruti Suzuki,2018,68140,Petrol,Manual,1497,1,10.9,6.7494
+Renault,2013,100934,CNG,Automatic,998,3,34.0,4.1903
+Toyota,2020,43517,Diesel,Manual,1497,2,25.3,14.3342
+Volkswagen,2013,134192,Petrol,Automatic,998,1,18.5,10.0498
+Tata,2013,114597,Diesel,Manual,1197,1,21.4,6.3927
+Renault,2022,27234,Petrol,Manual,1197,2,20.2,8.6697
+Toyota,2017,69428,Petrol,Automatic,1598,1,12.2,11.1835
+Mahindra,2018,96906,Petrol,Manual,998,2,15.1,7.8678
+Skoda,2014,163197,Diesel,Manual,1197,3,21.9,9.4022
+Tata,2015,106067,Petrol,Manual,1197,3,11.4,5.1013
+Hyundai,2014,98682,Diesel,Automatic,1197,2,21.6,6.6665
+Mahindra,2012,123163,Petrol,Automatic,998,1,12.6,7.4084
+Hyundai,2010,123260,CNG,Manual,998,1,29.6,4.0201
+Mahindra,2016,72771,CNG,Manual,1197,2,26.1,6.7766
+Hyundai,2016,103730,Diesel,Manual,998,1,20.9,6.8318
+Hyundai,2012,137086,Petrol,Automatic,1968,3,16.7,4.9212
+Mahindra,2011,178955,Petrol,Manual,998,1,11.3,6.1978
+Honda,2020,55799,Petrol,Manual,1497,1,20.9,10.2823
+Hyundai,2014,136261,Petrol,Automatic,1598,1,22.1,6.478
+Tata,2010,174041,Petrol,Manual,1497,1,13.3,4.5841
+Renault,2022,48235,Petrol,Manual,796,3,10.7,7.0557
+Renault,2021,59295,Petrol,Manual,998,3,21.6,6.767
+Skoda,2014,115726,Petrol,Automatic,1197,1,16.7,10.6111
+Toyota,2020,59390,Petrol,Manual,1598,1,18.0,13.0517
+Kia,2015,107252,Diesel,Manual,796,1,20.9,8.8946
+Renault,2011,129118,Petrol,Manual,1598,1,17.9,4.4237
+Tata,2011,210183,CNG,Automatic,998,1,23.0,4.1369
+Skoda,2016,114693,Diesel,Manual,2494,2,20.5,13.9631
+Kia,2017,65036,Petrol,Manual,998,4,22.7,8.0941
+Skoda,2012,163424,Electric,Automatic,0,3,3.2,11.7066
+Hyundai,2020,59679,CNG,Manual,1197,1,28.6,8.1641
+Volkswagen,2019,113140,Diesel,Manual,1197,1,24.5,13.9683
+Hyundai,2016,152908,Petrol,Automatic,796,1,13.6,5.8468
+Honda,2022,26885,CNG,Manual,796,1,27.7,9.1514
+Honda,2014,125716,Diesel,Manual,1197,1,21.2,7.9244
+Maruti Suzuki,2014,151388,Hybrid,Manual,1197,2,19.9,5.9352
+Hyundai,2018,109272,Diesel,Manual,1197,3,16.1,6.2739
+Hyundai,2018,98594,Petrol,Manual,1598,1,12.0,7.9194
+Volkswagen,2012,130031,CNG,Manual,796,1,27.1,6.7128
+Skoda,2017,88012,Petrol,Manual,1968,4,21.4,9.3716
+Volkswagen,2021,39460,Petrol,Manual,1598,1,14.4,15.7145
+Toyota,2022,76234,Electric,Manual,0,1,3.5,16.192
+Hyundai,2017,99867,Diesel,Manual,1968,2,22.8,8.1461
+Kia,2021,36138,Petrol,Automatic,1968,1,21.0,13.7746
+Mahindra,2024,32618,Petrol,Manual,1598,1,13.6,11.8865
+Hyundai,2021,48981,Petrol,Automatic,998,1,11.3,10.1957
+Toyota,2022,43249,CNG,Manual,998,3,23.6,9.0038
+Volkswagen,2020,71287,Electric,Automatic,0,2,3.1,18.5254
+Mahindra,2022,41712,Petrol,Manual,1197,2,20.3,10.2345
+Honda,2010,127843,Petrol,Automatic,1497,2,15.7,5.3457
+Tata,2010,220163,Hybrid,Manual,1598,3,27.4,4.3865
+Toyota,2012,128817,Petrol,Manual,1598,2,14.6,7.3585
+Volkswagen,2021,74941,Petrol,Automatic,1598,2,21.5,15.125
+Toyota,2017,67743,Electric,Automatic,0,2,3.2,13.0684
+Honda,2013,220721,Diesel,Manual,998,2,16.1,5.2973
+Toyota,2011,154448,Diesel,Manual,2494,2,24.5,9.0823
+Skoda,2017,71084,Diesel,Automatic,998,1,20.7,14.5804
+Volkswagen,2011,114455,Petrol,Manual,998,1,11.8,7.9713
+Hyundai,2015,116773,Diesel,Automatic,1968,1,17.1,7.3236
+Kia,2018,104543,Petrol,Manual,1598,3,17.9,8.4559
+Mahindra,2020,70949,Electric,Manual,0,2,3.1,12.8957
+Renault,2023,62776,Petrol,Manual,998,1,19.2,8.5123
+Tata,2021,63522,Diesel,Automatic,998,4,24.0,6.8991
+Tata,2022,40627,Petrol,Manual,1197,1,22.1,8.0163
+Honda,2021,52005,Petrol,Automatic,1497,1,20.6,12.693
+Hyundai,2013,135627,Petrol,Manual,1497,3,16.3,4.4353
+Volkswagen,2013,101989,Electric,Manual,0,1,4.4,13.5732
+Skoda,2023,19003,Petrol,Manual,1497,2,20.7,16.7042
+Skoda,2018,64023,Petrol,Automatic,796,2,15.9,14.1561
+Kia,2023,42593,Petrol,Manual,1497,1,15.7,14.6958
+Skoda,2015,106409,Petrol,Manual,1598,2,17.3,11.486
+Honda,2011,119635,Hybrid,Manual,998,1,25.0,6.7607
+Toyota,2010,138194,Diesel,Manual,998,4,26.0,5.8764
+Hyundai,2016,78763,Diesel,Manual,796,1,22.6,7.7067
+Hyundai,2014,174802,Petrol,Automatic,1197,3,15.1,5.3674
+Hyundai,2011,147089,Diesel,Automatic,1497,1,25.1,6.414
+Tata,2024,69381,Diesel,Manual,1497,1,21.5,10.5475
+Skoda,2020,89483,Electric,Manual,0,1,3.7,19.372
+Skoda,2016,83772,Petrol,Automatic,998,1,12.6,12.3135
+Mahindra,2024,36987,Diesel,Manual,1197,1,21.2,13.9068
+Tata,2014,100522,Electric,Manual,0,1,2.1,7.1079
+Hyundai,2014,125709,Petrol,Manual,1197,1,21.0,5.8914
+Toyota,2016,91570,Petrol,Automatic,998,4,16.7,7.7572
+Honda,2014,116273,Petrol,Manual,1968,1,14.4,7.9473
+Maruti Suzuki,2022,27390,Petrol,Manual,998,2,16.6,7.0626
+Renault,2017,94084,Hybrid,Manual,1968,2,18.8,8.8535
+Mahindra,2015,150899,CNG,Automatic,796,2,29.0,7.0908
+Maruti Suzuki,2019,97747,Petrol,Manual,1598,3,17.1,5.8993
+Renault,2010,131230,Petrol,Manual,998,3,14.8,3.3612
+Mahindra,2020,44400,Petrol,Manual,1497,1,22.1,11.6242
+Tata,2019,73910,Petrol,Automatic,1497,4,13.7,6.0294
+Honda,2017,92803,Diesel,Manual,1197,1,17.6,9.1896
+Hyundai,2021,50311,CNG,Manual,796,1,27.2,6.9825
+Hyundai,2016,98058,Petrol,Manual,2494,1,16.4,6.7992
+Toyota,2022,27829,Diesel,Automatic,998,1,15.7,18.221
+Kia,2014,96913,Diesel,Automatic,998,2,15.2,10.0098
+Maruti Suzuki,2014,102385,CNG,Automatic,998,1,20.7,4.6386
+Skoda,2018,61293,Diesel,Automatic,1197,3,22.0,14.9902
+Kia,2021,83021,Electric,Manual,0,3,2.3,12.5833
+Volkswagen,2019,50531,Electric,Automatic,0,2,2.8,17.5148
+Hyundai,2020,67961,Diesel,Manual,2494,2,23.2,10.2532
+Honda,2012,125163,Hybrid,Automatic,1497,1,24.0,8.2946
+Honda,2011,136933,Petrol,Automatic,796,1,16.1,5.6984
+Skoda,2011,117613,Petrol,Automatic,1497,1,14.0,8.9056
+Tata,2016,101336,Diesel,Manual,1497,4,20.8,5.5515
+Mahindra,2011,128039,Petrol,Automatic,1197,1,17.0,7.5403
+Toyota,2022,58274,CNG,Manual,998,1,26.9,10.6247
+Toyota,2010,121307,Petrol,Automatic,1497,1,14.7,7.5948
+Maruti Suzuki,2021,63641,Diesel,Manual,1197,1,15.7,8.4381
+Honda,2022,35367,Petrol,Automatic,1968,4,20.7,10.6447
+Maruti Suzuki,2019,55722,Hybrid,Manual,1598,2,21.5,8.6855
+Mahindra,2017,65470,Electric,Manual,0,4,3.1,8.6543
+Mahindra,2020,54710,Diesel,Automatic,998,1,16.8,12.7348
+Honda,2020,42135,Hybrid,Automatic,1598,1,24.0,14.0961
+Maruti Suzuki,2024,11882,CNG,Manual,796,1,23.4,7.3901
+Skoda,2018,75966,Hybrid,Manual,1968,1,17.7,19.2056
+Hyundai,2020,63961,Petrol,Manual,1497,1,15.7,8.2717
+Hyundai,2015,88969,Petrol,Automatic,1497,1,13.2,7.4153
+Toyota,2022,25660,Petrol,Automatic,1598,2,13.3,13.8162
+Kia,2020,52574,Petrol,Manual,1598,1,17.1,11.6349
+Toyota,2022,49823,Diesel,Automatic,998,1,15.9,17.3319
+Toyota,2024,71562,Petrol,Manual,1968,2,19.5,14.1886
+Skoda,2019,71210,Diesel,Automatic,1497,2,17.8,16.1223
+Renault,2019,90648,Electric,Automatic,0,1,3.9,10.5729
+Tata,2024,34971,Petrol,Automatic,2494,1,17.4,10.8339
+Toyota,2015,82928,Diesel,Manual,1497,1,23.5,11.1915
+Honda,2022,73040,Diesel,Manual,1497,2,23.1,10.4942
+Tata,2010,127065,Diesel,Manual,1497,2,26.3,4.9574
+Tata,2022,216164,Petrol,Manual,1197,1,16.5,7.0651
+Maruti Suzuki,2010,161257,Diesel,Manual,998,2,25.9,3.9572
+Renault,2014,109899,Petrol,Manual,1197,1,11.5,5.1902
+Toyota,2012,152682,Petrol,Manual,1968,3,15.0,6.7699
+Toyota,2013,101191,Petrol,Manual,1598,1,17.7,8.9702
+Skoda,2024,9368,Electric,Manual,0,1,2.7,20.7262
+Mahindra,2012,159889,Petrol,Automatic,2494,1,17.5,7.49
+Skoda,2022,36735,Electric,Manual,0,2,3.4,18.7047
+Mahindra,2015,104640,Electric,Manual,0,2,4.4,10.9718
+Renault,2019,72995,Petrol,Manual,1598,4,12.9,5.8078
+Skoda,2014,96669,Diesel,Manual,998,1,18.1,12.5729
+Mahindra,2010,122557,Diesel,Manual,1968,2,16.2,6.7041
+Maruti Suzuki,2019,63918,Petrol,Automatic,1968,2,19.3,7.4136
+Kia,2021,40977,Petrol,Manual,1968,1,11.6,11.9132
+Honda,2023,24851,CNG,Manual,796,2,23.3,10.1771
+Volkswagen,2019,68663,CNG,Manual,998,1,27.1,10.3216
+Honda,2016,78200,CNG,Manual,1197,1,24.3,6.6065
+Skoda,2013,120481,Petrol,Manual,1497,1,16.8,9.1939
+Tata,2022,30769,Electric,Manual,0,4,2.4,8.1508
+Toyota,2021,96218,CNG,Manual,998,2,22.8,10.4889
+Mahindra,2010,125310,Petrol,Automatic,1497,2,13.4,5.5979
+Skoda,2012,110225,Diesel,Automatic,1968,1,23.8,13.4621
+Honda,2015,100449,Diesel,Automatic,1197,1,20.0,10.0139
+Renault,2014,128374,Petrol,Manual,1598,1,20.1,5.1076
+Skoda,2016,105826,Diesel,Manual,1968,1,23.4,13.1936
+Volkswagen,2017,73824,Petrol,Manual,1968,1,20.9,13.1599
+Honda,2019,109485,Diesel,Manual,998,1,18.8,10.2927
+Tata,2021,35529,Diesel,Manual,2179,2,20.9,9.118
+Kia,2023,19520,Electric,Manual,0,1,4.4,17.2559
+Skoda,2017,113028,Diesel,Automatic,1197,3,18.2,11.0676
+Mahindra,2023,19583,Diesel,Manual,1968,1,24.2,15.6613
+Honda,2017,65999,Petrol,Manual,1497,1,21.2,9.6942
+Hyundai,2018,110632,Petrol,Manual,2494,2,19.6,7.1115
+Tata,2020,42956,Hybrid,Automatic,1497,1,24.9,12.0009
+Honda,2012,106573,CNG,Automatic,796,1,30.8,6.7228
+Skoda,2012,130872,Electric,Manual,0,2,3.6,11.7166
+Honda,2016,112829,Diesel,Manual,1197,1,21.7,8.685
+Mahindra,2015,84525,Petrol,Manual,1197,1,13.3,7.8543
+Maruti Suzuki,2018,56165,Petrol,Manual,998,2,14.9,5.0775
+Volkswagen,2020,47396,Electric,Manual,0,1,3.1,17.8353
+Kia,2023,79573,Petrol,Automatic,1197,2,15.1,12.766
+Mahindra,2022,88177,Diesel,Manual,1197,3,18.9,10.9537
+Maruti Suzuki,2022,61929,Diesel,Automatic,1598,3,14.0,8.6526
+Maruti Suzuki,2024,40600,Electric,Manual,0,2,4.0,8.9024
+Volkswagen,2013,111965,Electric,Manual,0,1,3.9,12.7628
+Renault,2011,115690,Electric,Manual,0,1,2.3,5.6125
+Tata,2013,118810,Diesel,Automatic,1497,2,25.8,5.9679
+Mahindra,2022,74902,Petrol,Automatic,1968,1,18.0,11.799
+Toyota,2015,139359,Electric,Manual,0,1,3.4,11.8455
+Hyundai,2012,126384,Petrol,Manual,1598,1,20.8,5.5124
+Toyota,2016,103138,Petrol,Automatic,1197,1,11.7,10.9797
+Maruti Suzuki,2010,124543,Diesel,Automatic,1197,1,27.7,4.7566
+Volkswagen,2017,78730,Diesel,Automatic,1197,1,14.6,13.294
+Hyundai,2015,99273,CNG,Manual,998,1,30.4,5.5598
+Hyundai,2021,137948,Diesel,Manual,1497,1,13.1,9.4661
+Toyota,2014,125034,Petrol,Manual,998,1,22.0,7.7196
+Toyota,2023,42238,Diesel,Manual,1968,1,16.0,18.5562
+Hyundai,2020,79371,Petrol,Automatic,1598,1,15.0,8.4603
+Toyota,2010,133083,Diesel,Automatic,998,2,23.2,7.5636
+Kia,2014,90950,Diesel,Manual,998,2,19.7,9.1084
+Kia,2024,35923,Petrol,Manual,1497,2,17.4,14.16
+Tata,2011,131415,Diesel,Automatic,1197,1,22.9,6.2271
+Volkswagen,2013,104873,Petrol,Automatic,1197,1,15.7,9.185
+Mahindra,2011,160956,Petrol,Automatic,1598,2,11.9,6.0848
+Volkswagen,2023,26470,Hybrid,Manual,2494,2,24.2,18.2847
+Maruti Suzuki,2013,139950,Electric,Automatic,0,1,3.9,6.7535
+Maruti Suzuki,2013,125997,Diesel,Manual,1197,2,18.5,4.8395
+Hyundai,2022,71471,Hybrid,Manual,1197,1,20.2,11.5265
+Hyundai,2011,121284,Diesel,Automatic,998,3,17.8,4.6384
+Mahindra,2014,95247,Electric,Manual,0,1,2.1,10.1151
+Skoda,2015,104267,Petrol,Automatic,1968,1,19.5,13.3844
+Hyundai,2023,21181,Petrol,Manual,1197,1,16.6,10.6095
+Volkswagen,2011,157838,Diesel,Manual,1197,1,19.2,9.197
+Kia,2015,164627,Electric,Manual,0,1,2.9,9.4069
+Skoda,2010,134211,Petrol,Manual,1968,2,20.9,8.9091
+Tata,2014,121796,Petrol,Manual,1497,3,21.4,4.3339
+Toyota,2014,121820,Electric,Manual,0,1,2.3,12.5624
+Skoda,2014,107386,Petrol,Automatic,2494,1,18.5,11.6908
+Tata,2021,70151,Petrol,Automatic,998,2,15.7,7.5053
+Kia,2020,44030,Diesel,Automatic,1598,2,16.4,14.5529
+Kia,2021,33318,Petrol,Automatic,1197,2,12.6,12.9448
+Maruti Suzuki,2015,80585,CNG,Manual,1197,3,17.9,3.7777
+Renault,2012,122713,Petrol,Manual,1497,2,10.4,5.1431
+Renault,2015,82383,CNG,Manual,1197,1,22.3,5.2002
+Skoda,2011,119579,Petrol,Manual,1197,1,21.0,9.0309
+Toyota,2013,102961,Diesel,Automatic,1497,1,21.0,9.7493
+Volkswagen,2012,137409,Diesel,Automatic,1497,1,16.8,11.0097
+Volkswagen,2018,94798,Petrol,Manual,1497,2,16.6,11.7918
+Skoda,2019,70476,Electric,Manual,0,1,4.5,19.7674
+Maruti Suzuki,2010,155135,Hybrid,Manual,1598,1,19.6,5.0246
+Hyundai,2014,177319,Petrol,Manual,796,1,14.0,5.777
+Kia,2015,98407,Electric,Automatic,0,1,2.5,12.8832
+Kia,2022,46474,Petrol,Automatic,1497,1,23.8,13.6658
+Kia,2018,73234,Petrol,Automatic,2494,2,19.4,12.1232
+Mahindra,2015,166312,Diesel,Automatic,998,2,24.8,9.1691
+Toyota,2011,157608,Hybrid,Manual,1968,2,20.7,9.641
+Hyundai,2015,94195,Electric,Automatic,0,3,4.0,8.1566
+Toyota,2017,80795,CNG,Manual,1197,2,19.1,7.7315
+Tata,2021,46950,Diesel,Manual,1197,1,23.2,9.4673
+Tata,2012,128908,Hybrid,Manual,1197,2,22.5,5.3796
+Honda,2010,210148,Petrol,Manual,2179,1,16.4,5.4625
+Volkswagen,2012,174226,Petrol,Manual,1968,1,17.3,9.3658
+Toyota,2014,115027,CNG,Automatic,1197,1,21.8,7.613
+Skoda,2020,94204,Petrol,Automatic,1497,1,18.6,14.8607
+Hyundai,2022,47736,CNG,Automatic,1197,1,26.7,9.0491
+Skoda,2021,42869,Diesel,Manual,2494,1,19.0,17.9702
+Tata,2015,90826,Diesel,Automatic,998,2,22.0,6.3238
+Skoda,2020,47472,Petrol,Manual,1197,4,17.8,12.2436
+Kia,2014,97393,Petrol,Manual,1197,2,12.4,7.9845
+Kia,2018,101523,Petrol,Automatic,1497,1,15.0,11.7503
+Tata,2013,100010,Hybrid,Manual,998,1,18.6,6.9944
+Skoda,2010,125135,Petrol,Manual,998,1,19.0,7.2795
+Maruti Suzuki,2021,103116,Diesel,Manual,1497,1,16.2,6.7617
+Honda,2012,140610,Petrol,Automatic,2494,1,14.6,8.164
+Skoda,2010,144136,Hybrid,Manual,1497,2,27.4,9.268
+Renault,2018,103789,Petrol,Manual,1197,3,17.9,5.3093
+Volkswagen,2016,82174,Diesel,Automatic,2179,1,21.8,14.4246
+Maruti Suzuki,2015,90096,Petrol,Automatic,1197,1,18.9,5.7288
+Tata,2015,86656,Petrol,Manual,1197,3,20.1,4.9831
+Kia,2022,26096,Petrol,Manual,1197,1,24.0,12.7822
+Maruti Suzuki,2011,127205,Hybrid,Manual,1197,2,22.3,4.4863
+Renault,2011,139762,Petrol,Manual,1197,2,20.3,3.7269
+Kia,2013,124248,Petrol,Manual,1497,2,20.3,6.9701
+Honda,2020,126869,Diesel,Automatic,2179,1,18.1,12.7361
+Toyota,2020,48754,CNG,Automatic,998,2,26.2,10.9324
+Maruti Suzuki,2019,51223,Petrol,Automatic,998,2,21.4,5.8513
+Kia,2011,112272,Petrol,Automatic,2179,1,17.1,8.5845
+Maruti Suzuki,2020,102981,Diesel,Manual,1598,1,16.3,7.8727
+Maruti Suzuki,2018,83101,Petrol,Manual,2179,1,16.9,6.4672
+Mahindra,2019,94361,Electric,Manual,0,1,2.7,12.5205
+Kia,2010,126928,Petrol,Automatic,1197,2,14.3,7.0558
+Mahindra,2010,166446,Electric,Automatic,0,3,2.1,6.9291
+Renault,2020,60799,Diesel,Automatic,1197,1,15.8,9.9218
+Renault,2018,63072,Petrol,Manual,1197,1,14.4,6.5856
+Tata,2023,68545,Petrol,Manual,2179,1,18.4,8.9794
+Honda,2014,128705,Petrol,Automatic,1197,2,16.0,6.3383
+Volkswagen,2018,140968,CNG,Manual,1197,4,25.0,8.6739
+Toyota,2022,57897,Petrol,Manual,1497,1,17.3,14.4851
+Mahindra,2012,124163,Petrol,Manual,1197,1,15.0,6.6396
+Mahindra,2017,87385,Electric,Manual,0,2,2.7,10.7036
+Renault,2012,132075,Petrol,Manual,998,1,19.4,4.3889
+Mahindra,2024,24808,Petrol,Manual,998,4,15.0,9.9545
+Renault,2017,93942,Diesel,Manual,1497,1,25.8,7.4245
+Maruti Suzuki,2014,94856,Petrol,Manual,998,2,15.4,4.5817
+Toyota,2010,149700,Petrol,Automatic,998,1,17.3,7.4756
+Skoda,2015,127042,Diesel,Manual,1968,2,20.3,11.7297
+Tata,2012,118722,Electric,Automatic,0,1,2.2,7.5978
+Tata,2011,114066,Petrol,Automatic,1197,1,21.4,5.2787
+Hyundai,2011,151195,Diesel,Automatic,998,3,14.3,5.1389
+Mahindra,2023,30303,Petrol,Manual,796,1,21.2,12.6774
+Maruti Suzuki,2018,101692,Petrol,Automatic,1598,1,13.4,7.1866
+Mahindra,2019,53585,CNG,Manual,1197,2,33.3,7.9559
+Kia,2022,66597,Petrol,Manual,1497,1,19.9,11.8386
+Kia,2017,102658,Diesel,Manual,1497,3,25.4,9.9397
+Maruti Suzuki,2019,57198,Diesel,Manual,1968,2,24.4,8.1256
+Maruti Suzuki,2023,25221,Petrol,Manual,1497,1,16.3,8.4596
+Honda,2016,81195,Hybrid,Automatic,1598,2,19.2,10.5453
+Tata,2024,73709,Diesel,Manual,1497,1,21.7,9.4078
+Mahindra,2017,64172,Diesel,Manual,1598,2,23.0,10.0097
+Maruti Suzuki,2012,135869,Petrol,Manual,1598,2,16.7,3.8586
+Kia,2024,67948,CNG,Automatic,1197,3,32.3,11.1919
+Skoda,2013,103797,Hybrid,Automatic,1197,2,23.4,13.0163
+Volkswagen,2020,202997,Electric,Manual,0,1,2.5,16.1823
+Honda,2015,139774,CNG,Automatic,796,1,33.6,6.1301
+Toyota,2021,37095,Diesel,Automatic,1497,2,19.3,15.7282
+Honda,2010,156083,Petrol,Automatic,1197,2,21.2,5.9005
+Kia,2013,121501,Hybrid,Manual,1197,1,21.5,9.0552
+Honda,2015,108006,Diesel,Manual,1197,1,14.1,9.1108
+Mahindra,2022,28013,Hybrid,Automatic,1197,2,26.6,14.0609
+Toyota,2019,65148,Diesel,Automatic,1497,3,22.2,12.2719
+Maruti Suzuki,2019,55816,Hybrid,Manual,1197,1,18.8,8.1559
+Kia,2017,73787,Petrol,Manual,998,4,19.5,8.1826
+Volkswagen,2022,25938,Petrol,Manual,1197,1,19.5,14.212
+Kia,2013,120862,Petrol,Manual,1968,1,10.0,8.841
+Toyota,2015,142480,CNG,Manual,1197,1,22.4,7.7349
+Renault,2018,88737,Diesel,Manual,1197,1,18.8,6.9715
+Mahindra,2016,91095,Diesel,Automatic,2179,1,20.3,12.0536
+Kia,2012,174083,Diesel,Manual,1598,1,22.6,8.5309
+Maruti Suzuki,2014,193433,Diesel,Automatic,1497,3,15.1,5.1936
+Kia,2024,86569,Diesel,Manual,1197,1,16.0,15.6402
+Volkswagen,2023,40411,Petrol,Manual,1598,1,14.1,17.4556
+Toyota,2023,45303,Hybrid,Manual,1197,1,25.5,17.5349
+Maruti Suzuki,2013,106442,Petrol,Manual,1197,2,14.8,4.0901
+Mahindra,2023,44655,Diesel,Automatic,1598,2,16.2,15.1782
+Maruti Suzuki,2023,16928,Hybrid,Automatic,1197,2,21.2,9.4984
+Mahindra,2010,174824,Diesel,Automatic,2179,1,16.9,6.9204
+Tata,2020,68119,Petrol,Manual,796,2,15.7,6.3173
+Maruti Suzuki,2020,98241,CNG,Manual,1197,2,30.2,5.824
+Volkswagen,2015,89972,Petrol,Manual,1598,1,10.7,10.7901
+Volkswagen,2010,130514,Petrol,Manual,796,2,16.3,7.0586
+Toyota,2012,138006,Diesel,Manual,2179,1,20.4,9.3789
+Honda,2016,197684,Petrol,Automatic,1197,1,15.2,8.2519
+Hyundai,2013,108530,Petrol,Manual,998,2,15.1,5.1517
+Hyundai,2012,155015,Petrol,Manual,1497,2,20.8,5.1474
+Maruti Suzuki,2024,21237,Petrol,Automatic,998,2,20.8,8.7533
+Honda,2016,123862,Petrol,Manual,1197,2,22.9,6.5298
+Maruti Suzuki,2013,101388,Petrol,Manual,1197,2,16.8,3.9928
+Toyota,2015,160451,Electric,Manual,0,2,3.6,11.2425
+Kia,2017,67309,Diesel,Automatic,1197,1,15.8,12.4796
+Mahindra,2014,128281,Petrol,Automatic,998,1,18.7,7.1159
+Mahindra,2019,52675,CNG,Automatic,796,1,25.3,8.8654
+Skoda,2021,67015,Diesel,Manual,2494,2,17.5,18.9498
+Maruti Suzuki,2015,135148,Petrol,Manual,1197,2,13.0,4.302
+Volkswagen,2022,24506,Diesel,Automatic,1598,1,12.8,20.4353
+Renault,2010,132108,Petrol,Automatic,2179,1,16.3,5.6605
+Mahindra,2021,45139,Petrol,Automatic,2179,2,15.1,12.6914
+Renault,2021,54756,CNG,Automatic,796,3,36.8,6.5071
+Toyota,2024,24299,Petrol,Manual,998,2,11.9,12.2143
+Hyundai,2024,19419,Petrol,Manual,2494,1,11.7,10.7658
+Renault,2015,84750,Diesel,Automatic,1197,2,22.2,7.3322
+Kia,2017,72677,Electric,Manual,0,1,4.3,14.1512
+Volkswagen,2019,60730,Diesel,Manual,1497,1,17.7,15.676
+Kia,2012,104783,Hybrid,Manual,1598,1,26.9,9.9107
+Mahindra,2023,39720,Diesel,Manual,2179,1,20.2,14.5313
+Hyundai,2022,36490,Diesel,Manual,1598,2,20.4,10.6959
+Skoda,2023,25216,Petrol,Manual,998,1,20.1,15.5088
+Hyundai,2021,90548,Petrol,Automatic,998,1,12.5,9.3985
+Kia,2018,65657,CNG,Manual,998,2,26.0,8.9551
+Volkswagen,2016,77350,Petrol,Manual,998,1,16.8,10.3162
+Maruti Suzuki,2017,73844,Petrol,Manual,998,1,10.3,5.5652
+Mahindra,2022,59506,Electric,Automatic,0,2,3.2,15.5859
+Renault,2014,101439,CNG,Automatic,796,1,25.3,5.135
+Hyundai,2014,153169,CNG,Manual,1197,2,20.9,5.1533
+Honda,2018,89542,Petrol,Manual,998,2,21.4,8.562
+Hyundai,2014,148320,Petrol,Automatic,1197,2,16.0,5.5024
+Toyota,2011,143057,Petrol,Manual,1497,2,19.8,6.0206
+Volkswagen,2010,126507,Petrol,Manual,1497,1,13.2,8.2437
+Toyota,2019,81610,CNG,Automatic,1197,1,29.8,12.0981
+Tata,2019,48040,Electric,Automatic,0,2,2.0,9.7031
+Skoda,2022,31160,Petrol,Automatic,1197,2,19.7,14.8951
+Hyundai,2020,44053,Petrol,Automatic,998,2,14.2,7.5412
+Renault,2018,88703,Petrol,Manual,1497,1,16.7,7.6778
+Toyota,2021,36091,Petrol,Manual,1197,1,19.1,13.8624
+Renault,2021,60595,Petrol,Automatic,2494,2,21.2,9.196
+Mahindra,2022,24491,Petrol,Manual,1497,2,17.2,12.0195
+Maruti Suzuki,2022,101411,Electric,Manual,0,1,4.0,9.0383
+Hyundai,2014,88389,Petrol,Manual,1598,2,11.2,6.037
+Volkswagen,2022,38340,Hybrid,Manual,1497,1,22.4,19.8355
+Skoda,2017,126053,Petrol,Manual,998,1,24.0,12.7135
+Tata,2010,146916,Petrol,Manual,1197,1,16.9,4.3566
+Maruti Suzuki,2012,261111,Diesel,Automatic,998,2,17.1,3.5087
+Skoda,2015,104025,Petrol,Manual,1598,1,16.3,11.451
+Tata,2019,50070,Petrol,Manual,1598,2,20.3,6.3426
+Renault,2020,71748,Hybrid,Manual,1197,1,24.6,8.5115
+Tata,2017,149201,Diesel,Manual,1968,1,23.0,7.1457
+Toyota,2017,165928,Electric,Automatic,0,3,2.8,11.8524
+Maruti Suzuki,2016,98351,Petrol,Manual,2179,1,14.9,6.6763
+Renault,2018,59669,Petrol,Manual,1497,1,16.9,7.8496
+Tata,2015,130415,Petrol,Automatic,1197,2,10.1,6.2751
+Kia,2010,124068,Hybrid,Manual,1197,2,21.3,7.3166
+Hyundai,2013,157651,Diesel,Manual,998,2,19.4,5.527
+Volkswagen,2012,117934,Petrol,Manual,1497,2,15.1,8.62
+Mahindra,2023,45835,CNG,Manual,998,1,27.4,11.4031
+Hyundai,2019,49233,Petrol,Automatic,998,3,22.5,7.3474
+Toyota,2011,202193,Diesel,Automatic,1497,1,21.9,7.2549
+Skoda,2015,81683,Petrol,Automatic,1197,1,14.5,12.7351
+Hyundai,2021,38672,CNG,Automatic,1197,1,28.9,8.2754
+Hyundai,2022,40090,Petrol,Manual,2179,1,16.3,8.8745
+Maruti Suzuki,2018,110463,Petrol,Automatic,1968,2,15.0,6.5073
+Renault,2024,65890,Diesel,Manual,998,2,14.9,9.7463
+Tata,2017,88175,Petrol,Manual,1197,1,14.4,6.4735
+Tata,2018,87117,Diesel,Automatic,796,1,15.7,7.0904
+Volkswagen,2017,98235,Petrol,Automatic,2494,2,17.6,12.1255
+Mahindra,2020,45585,Diesel,Automatic,796,3,17.4,9.7925
+Volkswagen,2020,41269,CNG,Manual,796,1,33.0,13.3925
+Kia,2017,87751,Petrol,Manual,998,1,14.7,9.4232
+Hyundai,2024,61268,Petrol,Automatic,2494,1,22.3,11.0344
+Skoda,2010,145908,Petrol,Automatic,998,2,14.5,8.5786
+Honda,2022,57788,Petrol,Automatic,1968,2,19.0,11.9694
+Kia,2015,113188,Petrol,Automatic,1197,1,12.7,9.3525
+Mahindra,2023,27350,Hybrid,Manual,998,2,18.2,13.0623
+Volkswagen,2012,129137,CNG,Manual,1197,2,29.8,7.7274
+Renault,2017,91436,Diesel,Manual,998,1,17.6,7.0649
+Skoda,2019,53749,Petrol,Manual,1197,2,13.2,12.8537
+Volkswagen,2012,110555,Diesel,Manual,1197,1,24.2,8.7843
+Hyundai,2018,61396,Petrol,Automatic,1968,2,13.7,7.7871
+Volkswagen,2016,125431,Petrol,Manual,1497,2,10.9,9.2952
+Renault,2019,128981,Diesel,Manual,1197,1,24.7,6.5266
+Tata,2018,90095,Electric,Manual,0,2,3.7,9.0987
+Renault,2022,92303,Diesel,Manual,1968,1,18.2,8.7986
+Tata,2014,99245,Petrol,Automatic,1497,2,15.6,5.7069
+Mahindra,2016,115554,Hybrid,Automatic,2179,1,27.0,13.0955
+Hyundai,2013,107227,Petrol,Manual,1497,2,17.8,5.391
+Kia,2013,141889,Diesel,Manual,1197,1,14.8,9.1313
+Honda,2024,54530,CNG,Automatic,1197,1,29.6,12.3395
+Kia,2017,122705,CNG,Manual,1197,3,24.6,7.7264
+Hyundai,2013,117435,Petrol,Automatic,2179,2,18.6,5.7549
+Hyundai,2021,66432,CNG,Automatic,998,1,21.3,7.7607
+Volkswagen,2012,112723,Hybrid,Manual,1968,1,26.3,12.9354
+Kia,2022,29527,Petrol,Automatic,1197,3,17.6,12.9522
+Toyota,2010,157073,Petrol,Automatic,1497,2,17.2,6.2502
+Honda,2023,19583,Diesel,Automatic,1197,3,22.8,11.9243
+Hyundai,2024,12256,Petrol,Manual,1968,1,20.4,12.1823
+Honda,2010,125498,Petrol,Manual,1197,1,14.2,5.5381
+Mahindra,2024,30654,Petrol,Manual,998,1,18.4,12.2888
+Toyota,2015,88897,Petrol,Automatic,1497,1,16.4,11.32
+Toyota,2016,78853,Petrol,Manual,2494,1,20.5,11.0529
+Skoda,2011,115847,Petrol,Automatic,1968,2,13.4,8.6599
+Hyundai,2016,84869,Electric,Manual,0,1,3.3,8.7556
+Maruti Suzuki,2021,61398,Petrol,Automatic,2179,1,13.1,7.6283
+Kia,2022,57404,Diesel,Automatic,1968,3,24.1,12.3513
+Hyundai,2019,63256,Petrol,Automatic,1197,2,15.3,8.8456
+Toyota,2019,60344,Petrol,Manual,1197,1,20.6,12.5281
+Kia,2017,80207,Petrol,Manual,998,1,11.2,9.2972
+Kia,2020,131986,Electric,Manual,0,1,2.3,12.0995
+Mahindra,2019,78228,Petrol,Manual,998,2,13.9,8.2269
+Hyundai,2012,161712,CNG,Manual,796,1,20.9,3.8269
+Maruti Suzuki,2013,106029,Hybrid,Automatic,1968,3,20.3,5.6716
+Honda,2023,56351,Diesel,Manual,1497,1,20.3,13.0859
+Kia,2024,17605,Diesel,Manual,1197,1,15.4,17.0992
+Renault,2010,239308,Petrol,Manual,1197,3,12.8,2.9858
+Renault,2012,169535,Diesel,Manual,998,3,24.6,4.3779
+Hyundai,2020,90522,Petrol,Manual,1197,2,16.0,7.1916
+Maruti Suzuki,2010,155729,Petrol,Manual,1197,2,16.4,3.3233
+Maruti Suzuki,2023,18250,Petrol,Manual,1197,1,15.6,8.1266
+Renault,2018,66613,Diesel,Manual,1197,1,14.5,6.9848
+Toyota,2018,79734,Petrol,Manual,998,1,22.3,11.6413
+Volkswagen,2019,61960,Diesel,Manual,998,3,17.1,13.0814
+Honda,2011,173818,Diesel,Manual,1497,1,15.9,5.7121
+Renault,2018,130747,Diesel,Manual,1497,2,16.9,6.8556
+Maruti Suzuki,2021,55597,CNG,Manual,1197,2,30.0,5.2791
+Kia,2023,34720,Petrol,Manual,998,1,19.4,13.1333
+Honda,2016,174584,Diesel,Manual,998,1,20.2,8.1381
+Hyundai,2023,24717,CNG,Manual,998,1,30.5,8.4279
+Renault,2014,111999,Petrol,Manual,796,4,15.9,3.7829
+Tata,2016,103363,Diesel,Automatic,2494,2,19.1,6.9904
+Honda,2015,86957,Petrol,Automatic,1497,1,17.1,9.4298
+Toyota,2016,108786,Electric,Manual,0,1,2.4,12.7984
+Tata,2022,103182,Petrol,Manual,1598,3,21.1,7.2185
+Mahindra,2023,35749,Petrol,Automatic,998,1,18.2,11.7001
+Renault,2022,27883,Diesel,Automatic,1968,2,17.1,10.9843
+Kia,2017,103059,Petrol,Manual,796,1,15.0,9.7718
+Volkswagen,2013,120504,Petrol,Manual,1497,1,14.1,9.1209
+Mahindra,2013,97122,Electric,Manual,0,1,3.8,9.7379
+Renault,2016,77938,Petrol,Manual,1497,1,13.5,6.1045
+Mahindra,2017,67639,Petrol,Automatic,1598,1,22.3,9.9853
+Skoda,2013,134090,Petrol,Automatic,1197,2,13.2,9.8447
+Maruti Suzuki,2014,100748,Petrol,Manual,1197,2,18.8,4.7959
+Volkswagen,2017,74072,Petrol,Manual,998,2,24.1,11.1212
+Toyota,2023,17736,Petrol,Automatic,1197,1,22.4,15.5646
+Skoda,2014,159008,Petrol,Manual,1197,1,17.5,10.1869
+Hyundai,2022,81104,Electric,Automatic,0,1,3.0,12.1569
+Mahindra,2017,102107,Diesel,Automatic,998,1,16.3,10.0953
+Hyundai,2024,27282,Petrol,Automatic,1598,2,15.9,9.9002
+Renault,2022,31037,Petrol,Manual,1197,1,20.8,7.6814
+Honda,2017,78729,Diesel,Manual,796,1,24.5,9.8523
+Toyota,2011,195506,Hybrid,Automatic,2179,2,21.8,8.6664
+Maruti Suzuki,2016,86692,Diesel,Automatic,2179,1,22.8,7.1236
+Kia,2013,104194,Electric,Manual,0,1,3.0,10.7128
+Skoda,2022,33605,Electric,Automatic,0,1,3.6,23.7648
+Skoda,2024,27291,Petrol,Automatic,998,1,15.1,17.0889
+Renault,2010,136307,Petrol,Manual,1497,3,16.0,3.9254
+Skoda,2013,109777,Diesel,Manual,1497,2,16.9,11.7905
+Tata,2020,59336,Diesel,Automatic,1598,2,22.8,8.7478
+Honda,2012,127936,Diesel,Manual,1968,1,17.3,7.3634
+Renault,2016,103566,Petrol,Manual,1968,1,17.9,6.672
+Honda,2013,110141,Diesel,Automatic,998,1,15.8,8.7736
+Mahindra,2019,70116,Petrol,Manual,998,1,16.6,8.9474
+Maruti Suzuki,2016,78276,Diesel,Automatic,998,1,13.7,6.661
+Volkswagen,2015,209571,Petrol,Manual,1497,1,20.2,8.5222
+Kia,2018,154151,Electric,Manual,0,2,4.3,11.2749
+Honda,2015,89813,Petrol,Automatic,998,2,15.3,7.4974
+Maruti Suzuki,2022,35413,Petrol,Manual,998,1,13.8,6.6628
+Toyota,2017,64186,Hybrid,Automatic,1197,2,27.2,14.6402
+Tata,2017,99418,Petrol,Manual,2494,1,11.6,7.5465
+Mahindra,2011,225769,Petrol,Manual,1497,1,11.2,6.0648
+Honda,2017,121285,Petrol,Manual,998,1,11.6,8.4251
+Mahindra,2010,132277,Electric,Manual,0,1,2.1,7.9137
+Tata,2022,28648,CNG,Manual,796,2,24.1,6.2855
+Mahindra,2021,49941,Diesel,Automatic,998,2,21.0,13.7556
+Hyundai,2016,75986,Petrol,Manual,1197,2,20.0,6.5731
+Hyundai,2014,97308,Diesel,Automatic,1968,1,23.4,7.3555
+Kia,2016,83602,Petrol,Manual,1197,1,16.4,8.6261
+Kia,2021,69761,Hybrid,Manual,1197,2,29.0,13.8183
+Mahindra,2016,127283,Diesel,Manual,1497,2,15.4,7.7662
+Hyundai,2014,117046,Petrol,Manual,998,4,11.9,4.648
+Honda,2019,55356,Petrol,Manual,998,1,17.4,9.0174
+Volkswagen,2015,101152,Hybrid,Automatic,1968,1,17.0,16.4412
+Honda,2023,17885,Electric,Manual,0,2,2.8,14.8884
+Skoda,2022,74079,Petrol,Manual,1497,2,13.7,13.7585
+Renault,2021,37100,Diesel,Automatic,2494,1,22.8,11.8856
+Tata,2012,141601,Petrol,Manual,1598,1,17.8,4.8195
+Mahindra,2022,102826,Petrol,Manual,1497,1,12.9,11.9859
+Mahindra,2020,41185,Diesel,Manual,1968,2,19.2,12.1352
+Maruti Suzuki,2013,106552,Petrol,Automatic,1197,2,12.8,4.5307
+Hyundai,2016,90891,Petrol,Manual,998,3,19.0,5.1627
+Mahindra,2021,35576,Electric,Automatic,0,2,2.2,13.6755
+Mahindra,2019,152691,Electric,Manual,0,1,4.1,11.6452
+Tata,2018,87858,Hybrid,Automatic,998,1,23.3,10.1385
+Maruti Suzuki,2014,151439,Petrol,Manual,796,1,20.8,4.4466
+Tata,2024,66627,Petrol,Automatic,1598,2,15.9,9.0639
+Kia,2022,97559,Hybrid,Manual,1197,3,21.9,13.8497
+Toyota,2023,47970,CNG,Automatic,998,2,22.9,10.9612
+Toyota,2012,106402,Electric,Automatic,0,1,3.1,12.0087
+Kia,2019,71993,Petrol,Manual,1968,3,13.9,9.1824
+Toyota,2017,119684,Electric,Automatic,0,2,2.1,13.1432
+Skoda,2022,25760,Diesel,Manual,1598,2,16.1,17.8246
+Volkswagen,2022,36905,Petrol,Manual,1497,2,14.5,14.7481
+Volkswagen,2022,37038,Petrol,Automatic,1497,2,17.8,14.4309
+Hyundai,2018,59349,CNG,Automatic,1197,2,23.7,7.6064
+Renault,2015,90111,CNG,Manual,998,3,21.8,4.6139
+Maruti Suzuki,2020,45803,Hybrid,Manual,1497,1,25.8,8.3408
+Renault,2022,31953,Petrol,Manual,1598,1,21.7,8.0294
+Skoda,2011,236223,Diesel,Automatic,1197,1,17.6,8.4707
+Mahindra,2018,61544,Petrol,Manual,1197,3,15.7,9.3288
+Hyundai,2014,90928,Hybrid,Automatic,1197,1,21.4,7.751
+Skoda,2019,50723,Diesel,Manual,1197,1,22.6,14.6607
+Hyundai,2011,112534,Petrol,Manual,998,1,14.4,4.5314
+Renault,2014,95696,Petrol,Manual,998,1,18.3,4.975
+Tata,2013,116155,Petrol,Manual,1968,2,16.0,4.7959
+Tata,2014,107277,CNG,Automatic,998,3,35.2,4.982
+Skoda,2022,38115,Diesel,Automatic,1197,2,13.3,18.7341
+Skoda,2010,125856,CNG,Manual,998,4,34.3,5.0175
+Skoda,2015,124093,Petrol,Manual,1497,1,13.1,11.2951
+Toyota,2024,17059,Petrol,Manual,1598,1,13.2,13.7745
+Hyundai,2023,17676,Petrol,Manual,1598,3,14.3,7.7174
+Kia,2018,84336,Diesel,Automatic,1598,1,17.0,14.4703
+Skoda,2011,131304,Diesel,Manual,1197,1,24.9,10.3422
+Toyota,2015,85031,CNG,Manual,998,2,31.2,8.0147
+Honda,2023,45184,Diesel,Manual,1197,1,16.4,13.6103
+Skoda,2012,108660,Electric,Automatic,0,1,3.9,12.044
+Volkswagen,2019,61002,Petrol,Manual,998,2,17.7,11.7336
+Toyota,2014,89630,Diesel,Manual,1598,1,19.8,10.9603
+Toyota,2023,20201,Electric,Automatic,0,1,3.1,19.5785
+Kia,2023,44928,Electric,Manual,0,2,3.8,14.2314
+Renault,2015,110407,Electric,Manual,0,1,4.3,8.2877
+Mahindra,2017,142348,Petrol,Automatic,1197,2,13.7,8.9544
+Hyundai,2012,130442,Diesel,Manual,2494,2,16.1,5.5939
+Mahindra,2018,122899,Petrol,Automatic,998,2,21.3,8.0614
+Hyundai,2014,95150,Petrol,Automatic,1197,2,21.2,5.8755
+Kia,2024,8213,Petrol,Manual,796,3,19.7,12.0043
+Tata,2017,93229,Petrol,Manual,1598,2,10.6,5.8988
+Skoda,2015,82523,CNG,Automatic,796,3,21.3,9.6199
+Volkswagen,2019,104940,Hybrid,Automatic,1598,1,26.1,16.6598
+Toyota,2012,124952,Diesel,Manual,2494,1,19.0,9.1671
+Volkswagen,2018,126050,Petrol,Manual,1497,1,22.1,12.3831
+Kia,2013,157764,Diesel,Manual,1598,1,14.9,8.6621
+Skoda,2018,104842,Hybrid,Manual,998,2,21.2,15.283
+Toyota,2013,112237,Diesel,Manual,1598,1,19.2,10.4498
+Mahindra,2018,94188,Petrol,Manual,1197,3,13.4,7.2482
+Hyundai,2024,24734,Petrol,Automatic,998,2,19.2,9.2142
+Hyundai,2022,43304,CNG,Manual,796,1,23.2,7.6266
+Renault,2023,40235,Diesel,Manual,1598,1,22.4,10.2444
+Kia,2010,144455,Electric,Automatic,0,2,3.3,9.4619
+Volkswagen,2014,123095,Petrol,Automatic,998,1,13.9,11.3254
+Volkswagen,2023,58753,Petrol,Manual,2494,1,14.2,15.8572
+Toyota,2022,98695,Petrol,Manual,1197,2,19.1,11.6681
+Renault,2018,58564,Petrol,Automatic,1197,2,15.1,6.6322
+Kia,2020,72267,Petrol,Automatic,1497,1,17.0,14.084
+Honda,2015,101383,Diesel,Manual,998,1,25.9,7.8665
+Toyota,2014,118512,CNG,Manual,998,1,30.2,7.9677
+Kia,2016,112455,Electric,Manual,0,1,4.5,10.7494
+Hyundai,2016,110706,Petrol,Manual,1197,4,12.3,5.1984
+Mahindra,2018,66750,Diesel,Automatic,998,3,17.3,9.4528
+Toyota,2013,105827,Petrol,Manual,998,2,17.9,7.3776
+Hyundai,2015,107004,Diesel,Manual,998,1,15.4,6.453
+Mahindra,2023,61800,Hybrid,Manual,1968,2,22.5,16.1988
+Kia,2015,80038,Petrol,Automatic,998,4,20.2,8.3444
+Kia,2019,51948,Petrol,Automatic,1197,1,16.0,11.8261
+Honda,2014,133502,Petrol,Manual,1497,2,11.2,6.3376
+Volkswagen,2021,104689,CNG,Manual,1197,2,23.8,11.2264
+Renault,2019,115321,Electric,Automatic,0,2,4.2,10.0181
+Hyundai,2019,48318,Diesel,Manual,1197,1,14.1,8.1978
+Skoda,2012,118761,Electric,Manual,0,1,2.3,10.8731
+Toyota,2020,45109,Electric,Manual,0,1,4.1,18.1636
+Hyundai,2021,63729,Hybrid,Manual,1197,2,24.8,9.3765
+Maruti Suzuki,2024,9934,Electric,Manual,0,2,3.3,9.9805
+Volkswagen,2014,188089,Petrol,Manual,998,1,21.2,8.9807
+Kia,2013,101360,Diesel,Manual,1497,2,18.8,8.5834
+Toyota,2020,59840,Petrol,Manual,1497,3,20.6,11.2769
+Skoda,2010,143673,Hybrid,Automatic,1497,2,18.6,10.1088
+Volkswagen,2019,163782,Diesel,Manual,1497,3,21.0,10.8406
+Honda,2016,75335,Petrol,Manual,998,1,20.1,8.3365
+Kia,2020,67209,CNG,Automatic,1197,1,35.8,11.6549
+Mahindra,2021,88611,Petrol,Manual,1598,1,15.0,12.0179
+Hyundai,2022,25859,Diesel,Manual,1968,2,19.0,11.502
+Toyota,2018,57655,Petrol,Automatic,1497,1,20.1,11.4872
+Skoda,2012,113845,Petrol,Manual,1497,2,19.6,9.0477
+Volkswagen,2010,195305,Diesel,Automatic,998,1,20.3,8.2595
+Hyundai,2013,106668,Hybrid,Automatic,1497,1,23.9,8.6017
+Mahindra,2010,185528,Petrol,Manual,1968,2,18.4,5.0069
+Hyundai,2015,100371,Diesel,Manual,1598,1,24.1,6.8536
+Renault,2017,72726,Petrol,Manual,1497,2,17.3,6.5382
+Mahindra,2014,143183,Diesel,Automatic,1197,1,22.0,10.0203
+Maruti Suzuki,2015,89245,Petrol,Automatic,998,2,15.9,5.5533
+Maruti Suzuki,2020,121558,Petrol,Automatic,998,1,12.2,7.1445
+Mahindra,2019,89542,Petrol,Automatic,1497,2,20.6,10.8418
+Tata,2011,132341,Petrol,Manual,2494,1,18.0,5.4949
+Maruti Suzuki,2010,120785,Diesel,Manual,1197,1,24.2,4.072
+Maruti Suzuki,2022,73449,Petrol,Manual,1197,1,11.4,7.6349
+Skoda,2022,80028,Electric,Automatic,0,1,4.0,23.4051
+Hyundai,2016,127281,Hybrid,Manual,998,1,25.3,7.9639
+Volkswagen,2015,98482,Petrol,Manual,1197,2,22.5,9.9793
+Renault,2015,84679,CNG,Automatic,998,1,21.5,5.6727
+Maruti Suzuki,2010,133684,Diesel,Manual,796,2,26.5,3.414
+Honda,2014,121854,Electric,Manual,0,2,3.0,7.9396
+Kia,2013,126385,Petrol,Automatic,1197,2,15.6,8.6592
+Volkswagen,2013,158095,Petrol,Automatic,1497,2,20.9,9.1545
+Kia,2023,44732,Petrol,Automatic,1197,1,16.4,14.0789
+Tata,2024,35219,Petrol,Manual,2179,2,16.0,8.8497
+Skoda,2018,89517,Petrol,Manual,1968,3,18.9,11.8641
+Skoda,2017,95655,Diesel,Manual,998,1,20.5,14.1917
+Maruti Suzuki,2021,55910,Hybrid,Manual,998,1,27.4,9.5789
+Skoda,2019,81966,Petrol,Manual,1497,1,15.7,12.8797
+Kia,2012,110619,Petrol,Manual,1197,2,13.6,6.7623
+Skoda,2017,103215,Petrol,Manual,1497,1,14.1,12.5103
+Volkswagen,2010,124945,CNG,Manual,796,3,33.1,5.2472
+Maruti Suzuki,2017,86217,CNG,Manual,1197,2,27.9,5.3034
+Hyundai,2015,82265,Diesel,Manual,1968,1,22.9,8.4287
+Renault,2023,30461,Petrol,Manual,1598,1,15.0,8.6474
+Volkswagen,2016,79736,Petrol,Manual,1197,3,18.6,9.2911
+Skoda,2018,92659,Petrol,Manual,998,1,12.3,11.6643
+Toyota,2010,145674,Electric,Automatic,0,2,2.1,9.6581
+Volkswagen,2022,56759,Diesel,Automatic,1197,1,13.4,18.9727
+Hyundai,2022,83381,Petrol,Automatic,998,1,17.3,9.2684
+Maruti Suzuki,2019,50712,Diesel,Manual,2494,1,15.2,7.3559
+Skoda,2020,49874,Electric,Manual,0,4,2.7,13.9589
+Kia,2014,151934,Petrol,Automatic,2179,4,15.1,7.017
+Toyota,2021,33689,CNG,Manual,1197,1,31.4,11.268
+Mahindra,2014,137057,Diesel,Manual,1598,3,24.3,7.9603
+Hyundai,2016,261516,CNG,Manual,796,1,29.0,4.1064
+Maruti Suzuki,2010,166591,Petrol,Manual,1497,1,16.1,4.0255
+Skoda,2019,56058,CNG,Manual,998,2,19.1,12.5667
+Skoda,2012,111272,Diesel,Manual,1497,4,24.6,9.1429
+Hyundai,2019,61544,Petrol,Automatic,1197,3,16.6,7.3433
+Kia,2020,81023,Diesel,Manual,1497,2,21.9,11.8325
+Tata,2024,17655,Petrol,Manual,1497,1,15.9,10.3725
+Mahindra,2019,85672,Petrol,Automatic,1968,1,11.8,11.0973
+Hyundai,2018,62426,Hybrid,Manual,998,2,21.1,8.076
+Volkswagen,2019,134044,Petrol,Automatic,998,1,18.3,14.0037
+Kia,2021,52302,Petrol,Manual,1497,1,20.7,13.3759
+Renault,2017,65155,Petrol,Manual,1197,1,15.0,6.8791
+Tata,2021,38715,Petrol,Manual,1968,3,17.3,6.9411
+Honda,2017,69668,Diesel,Manual,998,2,23.6,9.5132
+Honda,2020,56711,Petrol,Manual,1497,2,17.4,8.5925
+Tata,2010,170134,Petrol,Manual,1598,1,14.7,4.5397
+Honda,2024,8213,Diesel,Automatic,998,1,19.9,15.6982
+Toyota,2010,150825,Diesel,Automatic,1497,1,22.6,7.9886
+Mahindra,2023,18359,Electric,Automatic,0,1,2.3,18.4128
+Volkswagen,2018,110046,Diesel,Manual,1598,2,23.8,13.7237
+Mahindra,2014,96261,Petrol,Manual,998,1,21.6,7.1576
+Kia,2015,92722,Electric,Manual,0,2,4.3,11.1379
+Skoda,2020,40468,Petrol,Manual,1497,1,13.7,13.9368
+Renault,2011,179381,Diesel,Manual,796,3,16.9,3.6264
+Honda,2010,120087,Petrol,Automatic,1598,1,13.9,5.6819
+Skoda,2019,220410,Petrol,Automatic,1197,3,23.3,9.3746
+Honda,2018,56616,CNG,Manual,796,1,36.2,7.3235
+Skoda,2020,60226,Electric,Manual,0,3,3.2,14.8294
+Maruti Suzuki,2011,145911,Petrol,Automatic,2179,3,16.1,4.4001
+Volkswagen,2024,37279,Diesel,Manual,1197,1,15.4,16.1896
+Renault,2022,36266,Petrol,Manual,1497,2,16.4,8.5249
+Hyundai,2021,74318,Petrol,Manual,1497,1,12.4,8.594
+Renault,2024,19637,Petrol,Automatic,1497,1,22.0,11.6013
+Mahindra,2019,82981,Petrol,Manual,1197,2,16.9,8.4115
+Toyota,2017,108468,Petrol,Manual,796,2,12.9,8.9286
+Kia,2017,136773,Diesel,Manual,1598,1,20.6,10.6162
+Mahindra,2016,76049,Petrol,Automatic,1968,2,17.7,10.7004
+Maruti Suzuki,2014,116855,CNG,Manual,796,2,30.9,4.16
+Maruti Suzuki,2021,50586,Hybrid,Automatic,1197,2,21.0,8.7182
+Toyota,2013,104302,Diesel,Manual,1497,2,19.6,8.9391
+Tata,2012,122269,CNG,Manual,998,4,29.3,3.2897
+Maruti Suzuki,2013,116910,Petrol,Automatic,1598,1,18.6,5.4189
+Tata,2020,44215,Petrol,Manual,998,2,19.4,7.4763
+Volkswagen,2015,94494,Hybrid,Manual,998,1,18.3,13.8069
+Volkswagen,2011,137023,Petrol,Manual,1497,1,15.9,8.7266
+Honda,2016,82797,Electric,Automatic,0,1,2.3,12.8847
+Volkswagen,2022,24280,Electric,Manual,0,3,3.1,17.1859
+Renault,2018,61394,Electric,Manual,0,1,3.7,9.7849
+Hyundai,2017,86995,CNG,Manual,998,2,32.3,5.3624
+Honda,2022,32792,Petrol,Automatic,2179,2,14.9,13.6803
+Renault,2014,107899,Petrol,Manual,998,2,11.3,4.8138
+Toyota,2019,58762,Hybrid,Automatic,796,1,24.9,13.8794
+Maruti Suzuki,2010,143615,Diesel,Manual,998,1,21.3,3.9196
+Volkswagen,2010,146579,Petrol,Automatic,1497,1,16.2,9.2942
+Tata,2021,34241,Petrol,Automatic,1968,2,17.2,8.3937
+Skoda,2011,121196,CNG,Manual,998,1,29.9,6.7758
+Volkswagen,2022,39458,Hybrid,Automatic,998,1,27.5,18.8126
+Tata,2020,64201,Diesel,Automatic,998,1,18.7,8.3854
+Tata,2014,100914,Petrol,Automatic,1598,3,15.9,5.3338
+Tata,2018,56408,Diesel,Automatic,1598,2,21.5,7.6749
+Toyota,2019,79906,Petrol,Automatic,998,2,17.9,11.043
+Hyundai,2010,155532,Diesel,Manual,1968,1,14.7,5.4678
+Volkswagen,2020,74548,Petrol,Manual,1197,1,16.9,13.3213
+Kia,2011,179576,Electric,Manual,0,2,2.7,6.8568
+Mahindra,2024,13319,Petrol,Automatic,1497,1,10.9,16.0111
+Kia,2020,73224,Petrol,Manual,1497,2,14.2,11.8446
+Mahindra,2018,75922,Diesel,Manual,1197,1,22.4,10.8205
+Honda,2012,122999,Petrol,Manual,1598,1,16.8,6.3218
+Maruti Suzuki,2021,38449,Petrol,Automatic,1497,1,13.9,7.6401
+Maruti Suzuki,2012,146025,Diesel,Automatic,796,1,23.7,5.5161
+Tata,2016,89242,Diesel,Manual,1497,1,22.6,6.707
+Volkswagen,2020,47654,Electric,Automatic,0,2,3.0,17.6122
+Maruti Suzuki,2015,108570,Petrol,Automatic,1197,1,16.5,5.4455
+Toyota,2015,84530,Petrol,Manual,1497,2,22.0,9.1762
+Tata,2020,137648,Petrol,Manual,1197,1,14.9,6.9149
+Mahindra,2017,71175,Electric,Automatic,0,1,2.7,13.782
+Maruti Suzuki,2014,194752,Electric,Automatic,0,1,3.3,5.9324
+Kia,2011,118171,Petrol,Automatic,1197,3,20.3,6.1037
+Mahindra,2017,88653,Petrol,Automatic,1968,1,14.5,11.2485
+Tata,2011,115810,Diesel,Manual,1497,1,12.4,4.9768
+Maruti Suzuki,2014,104233,CNG,Manual,998,3,24.9,3.9793
+Kia,2010,145506,CNG,Manual,998,2,22.3,5.1354
+Volkswagen,2010,152700,Diesel,Manual,998,1,21.2,7.3977
+Maruti Suzuki,2024,9152,Diesel,Automatic,2179,1,24.4,10.9138
+Honda,2017,100673,Petrol,Automatic,796,1,18.5,9.0527
+Toyota,2015,119355,Petrol,Manual,1497,2,16.5,8.6833
+Maruti Suzuki,2021,37832,Petrol,Automatic,1598,3,14.6,7.2724
+Maruti Suzuki,2024,15117,Petrol,Automatic,998,2,13.5,7.9362
+Skoda,2015,119226,Petrol,Manual,1497,1,20.3,10.6274
+Kia,2011,113254,Petrol,Manual,1197,1,18.2,7.0046
+Tata,2014,100135,Diesel,Manual,1197,2,15.5,5.6756
+Toyota,2022,50880,CNG,Automatic,998,1,24.2,11.4441
+Toyota,2020,70839,Petrol,Automatic,1598,2,18.7,11.2472
+Volkswagen,2024,46893,CNG,Manual,796,2,23.6,13.8122
+Toyota,2024,49506,CNG,Manual,1197,3,31.9,12.1143
+Maruti Suzuki,2016,112368,Electric,Manual,0,2,3.4,6.6032
+Hyundai,2020,44577,Petrol,Automatic,1598,2,20.3,9.8361
+Maruti Suzuki,2018,103657,Petrol,Automatic,1968,1,21.8,6.7258
+Kia,2013,105833,Petrol,Manual,998,1,17.2,7.8285
+Toyota,2016,76514,Petrol,Automatic,1197,4,18.1,7.8738
+Maruti Suzuki,2016,84536,Petrol,Automatic,998,4,16.2,5.1829
+Toyota,2014,225375,Diesel,Automatic,1497,1,22.2,8.9436
+Hyundai,2018,106679,Petrol,Manual,2179,1,16.0,8.6231
+Kia,2010,180452,Diesel,Automatic,2494,2,21.6,8.535
+Hyundai,2015,88588,Petrol,Manual,1598,1,19.3,6.4545
+Renault,2012,167409,Petrol,Manual,1968,3,16.5,3.6887
+Volkswagen,2016,95884,Petrol,Manual,2179,1,17.7,11.2318
+Honda,2019,49156,Diesel,Automatic,796,3,15.5,8.8689
+Skoda,2019,56909,Petrol,Manual,998,2,19.2,11.1826
+Skoda,2016,85128,Petrol,Manual,1197,1,17.4,11.4368
+Mahindra,2016,96676,Diesel,Manual,1968,3,19.7,7.9826
+Honda,2011,126489,CNG,Manual,796,1,29.2,5.5671
+Tata,2019,108393,Diesel,Manual,1497,3,18.6,5.9766
+Honda,2018,63893,Petrol,Automatic,1598,1,14.3,9.4186
+Mahindra,2019,54061,Petrol,Manual,1497,1,13.4,10.374
+Honda,2024,8467,Petrol,Manual,1598,2,16.7,11.4833
+Kia,2013,120916,Petrol,Manual,1598,1,17.6,7.9504
+Tata,2024,28236,Petrol,Manual,1197,1,16.6,9.8077
+Kia,2018,98688,Petrol,Manual,1197,1,21.9,9.8715
+Maruti Suzuki,2012,120980,Petrol,Manual,1968,1,21.9,4.8943
+Maruti Suzuki,2018,93351,Diesel,Manual,998,1,22.8,6.0791
+Honda,2016,115992,Hybrid,Manual,1968,3,26.3,9.1185
+Volkswagen,2024,27351,Petrol,Manual,1497,2,15.0,15.1021
+Renault,2015,109420,Electric,Manual,0,1,2.4,7.9909
+Mahindra,2012,137200,Petrol,Automatic,998,2,12.7,7.1722
+Renault,2023,43361,Electric,Manual,0,1,3.2,10.0846
+Renault,2012,174885,Electric,Automatic,0,2,2.4,6.0668
+Maruti Suzuki,2018,98045,Petrol,Manual,1197,2,19.6,5.4716
+Honda,2019,76139,Petrol,Automatic,1197,2,14.2,9.5839
+Hyundai,2011,122850,Diesel,Manual,1197,2,22.7,5.0467
+Maruti Suzuki,2019,81520,Petrol,Manual,998,2,12.3,6.2634
+Honda,2012,142506,Diesel,Manual,1197,2,18.0,5.9068
+Mahindra,2012,151381,Petrol,Manual,1197,2,11.8,6.5696
+Toyota,2023,132964,CNG,Manual,998,1,36.7,10.0896
+Hyundai,2019,144766,Diesel,Manual,998,2,15.1,7.5594
+Maruti Suzuki,2012,112916,Petrol,Manual,1197,2,18.1,4.5469
+Toyota,2014,125703,Petrol,Manual,998,2,13.3,6.9706
+Mahindra,2018,67296,Petrol,Automatic,1497,1,16.3,10.0143
+Skoda,2011,138446,Petrol,Automatic,1497,4,19.0,8.464
+Volkswagen,2022,32533,Electric,Manual,0,2,2.3,20.0201
+Skoda,2017,93557,Hybrid,Automatic,2494,1,21.6,19.6615
+Renault,2015,102640,Hybrid,Automatic,1197,1,24.3,7.5439
+Toyota,2014,169368,Petrol,Automatic,1197,1,12.5,9.5446
+Tata,2011,140691,CNG,Automatic,796,1,31.3,4.4302
+Renault,2019,51645,Petrol,Manual,796,2,17.9,6.2556
+Skoda,2020,54581,Diesel,Automatic,998,3,23.8,14.6511
+Toyota,2012,105610,Petrol,Manual,1197,1,14.3,8.2835
+Tata,2022,32075,Petrol,Automatic,1968,1,12.9,10.5107
+Toyota,2017,74224,Petrol,Manual,998,1,23.3,9.4366
+Mahindra,2010,134234,Hybrid,Manual,1197,3,20.3,6.1048
+Volkswagen,2022,106914,Petrol,Manual,998,1,15.1,13.0135
+Toyota,2019,48478,Petrol,Manual,998,1,14.4,11.7317
+Maruti Suzuki,2013,144935,Petrol,Automatic,2494,2,20.3,4.6992
+Tata,2024,26037,Petrol,Manual,1197,1,15.7,9.7227
+Toyota,2020,51928,Electric,Manual,0,1,2.0,16.7803
+Hyundai,2022,38865,Petrol,Automatic,1197,2,12.6,10.0442
+Hyundai,2019,50684,Diesel,Manual,1968,1,26.7,9.0051
+Renault,2021,60363,Petrol,Automatic,796,2,16.4,8.0519
+Kia,2019,63229,Petrol,Manual,1497,1,15.4,9.8968
+Volkswagen,2018,126084,Petrol,Automatic,1968,2,13.8,13.1105
+Toyota,2019,48614,Petrol,Automatic,998,1,18.9,12.6631
+Kia,2024,55342,Petrol,Manual,1598,4,20.6,11.0553
+Hyundai,2019,68494,Petrol,Automatic,1197,1,21.6,7.9177
+Volkswagen,2017,88535,Diesel,Automatic,998,2,22.7,14.2809
+Kia,2014,116091,CNG,Manual,998,1,23.5,7.2841
+Mahindra,2019,79206,Hybrid,Automatic,1968,1,21.2,15.8079
+Honda,2018,300000,Petrol,Automatic,1968,1,24.2,7.8516
+Honda,2015,97871,Diesel,Automatic,1497,4,20.2,6.7819
+Honda,2024,24520,Petrol,Automatic,1497,1,14.3,13.4345
+Volkswagen,2012,114337,Petrol,Automatic,1497,2,16.9,9.2113
+Mahindra,2022,82636,Petrol,Automatic,1598,2,17.2,12.9885
+Toyota,2015,80111,Hybrid,Manual,1497,1,23.4,11.5178
+Mahindra,2021,74901,Petrol,Manual,2494,1,17.1,11.0883
+Toyota,2013,99728,Petrol,Manual,796,1,17.3,9.0385
+Maruti Suzuki,2022,24671,Petrol,Manual,998,3,21.1,6.6676
+Toyota,2022,82700,Diesel,Manual,998,2,18.3,11.6687
+Hyundai,2016,144869,Electric,Automatic,0,2,4.3,8.9447
+Renault,2012,146674,Electric,Manual,0,2,3.7,5.7868
+Toyota,2023,38180,Petrol,Manual,1497,4,14.4,12.0061
+Mahindra,2024,9086,Petrol,Manual,998,1,16.9,11.6212
+Volkswagen,2014,104682,Petrol,Automatic,998,2,19.5,9.062
+Maruti Suzuki,2018,88819,Electric,Manual,0,2,4.3,7.7738
+Kia,2022,42049,Petrol,Manual,2494,3,19.0,13.1169
+Mahindra,2014,135373,Petrol,Manual,1197,1,15.5,7.638
+Mahindra,2019,151865,Petrol,Automatic,1497,1,16.3,9.104
+Tata,2010,124094,Petrol,Manual,998,1,16.4,4.5878
+Volkswagen,2016,176564,Petrol,Automatic,1968,3,14.0,10.9887
+Maruti Suzuki,2014,104310,Petrol,Automatic,1497,1,16.1,6.2288
+Skoda,2017,81834,CNG,Manual,796,3,31.7,8.6849
+Skoda,2015,90442,Petrol,Manual,1197,4,16.5,8.2221
+Hyundai,2012,148880,Petrol,Manual,796,2,11.5,4.8937
+Tata,2012,104040,Petrol,Automatic,1497,2,10.2,5.2278
+Renault,2016,80625,CNG,Automatic,796,1,27.8,6.1297
+Honda,2018,112598,Petrol,Automatic,2494,1,14.3,9.2481
+Hyundai,2022,91499,Petrol,Manual,1197,1,12.4,8.6303
+Tata,2020,63731,Diesel,Automatic,1497,3,16.7,8.2937
+Maruti Suzuki,2011,155826,Petrol,Automatic,1497,1,15.8,4.9254
+Hyundai,2011,112246,Petrol,Manual,1968,1,22.2,6.0233
+Tata,2017,65971,Hybrid,Manual,998,2,18.2,7.0647
+Honda,2016,72278,Petrol,Manual,1197,1,17.4,8.8062
+Maruti Suzuki,2015,102254,Diesel,Manual,1497,1,21.2,5.314
+Maruti Suzuki,2021,50457,Petrol,Manual,796,1,12.4,6.609
+Kia,2015,82106,Petrol,Manual,1497,2,18.2,8.9996
+Hyundai,2021,96457,Petrol,Automatic,1197,3,23.4,7.7373
+Maruti Suzuki,2017,93296,CNG,Manual,796,3,32.9,4.4502
+Volkswagen,2017,67861,Diesel,Manual,998,2,15.9,11.9641
+Tata,2016,114896,Petrol,Manual,1598,1,16.6,6.1431
+Skoda,2024,22586,Diesel,Automatic,998,2,21.5,20.5775
+Kia,2016,120905,Petrol,Automatic,1497,3,12.8,9.2005
+Toyota,2023,28427,Diesel,Automatic,1968,1,18.1,16.8259
+Volkswagen,2023,41072,Petrol,Manual,1968,1,19.1,16.5557
+Toyota,2019,65249,Diesel,Manual,1497,3,16.2,11.1756
+Hyundai,2013,115663,Diesel,Manual,1197,2,16.5,6.5928
+Volkswagen,2017,65116,Petrol,Manual,1497,1,17.5,12.679
+Maruti Suzuki,2021,61610,Petrol,Automatic,1197,1,14.7,7.3651
+Volkswagen,2017,65905,Diesel,Manual,1197,1,20.8,13.8927
+Kia,2023,61882,CNG,Automatic,1197,1,33.7,11.9936
+Hyundai,2013,97377,Petrol,Automatic,796,2,20.2,6.2881
+Kia,2022,25999,Petrol,Automatic,1197,1,17.1,14.2489
+Skoda,2023,41010,Diesel,Automatic,1968,2,14.1,20.8823
+Mahindra,2011,189568,Electric,Manual,0,2,2.0,6.4473
+Renault,2024,19554,Petrol,Manual,1497,1,14.9,10.1231
+Renault,2017,68526,Diesel,Automatic,1197,1,17.3,7.8073
+Maruti Suzuki,2016,85555,Diesel,Manual,998,1,15.2,6.1664
+Volkswagen,2021,85014,Diesel,Automatic,1598,2,27.1,15.9947
+Tata,2021,59066,Diesel,Manual,1497,2,12.5,8.5938
+Kia,2018,86947,Petrol,Automatic,1197,1,15.3,10.0001
+Volkswagen,2017,113841,Petrol,Automatic,2494,1,17.5,13.0811
+Tata,2015,91688,CNG,Automatic,998,2,21.3,5.4818
+Toyota,2011,204434,Petrol,Automatic,998,2,19.7,6.8833
+Maruti Suzuki,2014,97249,Diesel,Manual,1197,1,19.5,5.1523
+Honda,2021,62437,Diesel,Automatic,1197,2,23.8,11.7715
+Tata,2021,35047,Diesel,Manual,1197,2,24.9,9.3433
+Maruti Suzuki,2017,81183,Petrol,Automatic,2179,1,20.7,7.2807
+Maruti Suzuki,2010,193762,Petrol,Manual,998,2,24.3,2.8588
+Kia,2020,43592,Diesel,Manual,1197,2,22.1,12.1479
+Tata,2019,52008,Electric,Manual,0,2,2.9,8.0442
+Honda,2019,78161,Petrol,Manual,796,1,18.5,9.8769
+Volkswagen,2014,113411,Hybrid,Manual,1197,1,22.9,13.5359
+Hyundai,2017,149230,CNG,Manual,998,3,33.6,5.1655
+Mahindra,2012,125058,Electric,Automatic,0,2,3.0,9.0567
+Hyundai,2015,96490,Diesel,Manual,998,3,20.5,6.0799
+Volkswagen,2016,113319,Diesel,Manual,796,3,23.2,9.7731
+Toyota,2018,58210,Petrol,Automatic,998,2,17.3,11.1961
+Volkswagen,2017,111106,Diesel,Automatic,1197,1,26.1,13.2424
+Renault,2016,109912,Petrol,Manual,998,2,11.4,6.0343
+Mahindra,2024,40139,Petrol,Manual,1197,2,21.7,12.7015
+Maruti Suzuki,2015,88415,Hybrid,Manual,1497,2,29.0,6.7247
+Mahindra,2023,31571,Petrol,Automatic,1497,2,18.8,11.9217
+Toyota,2019,63788,Diesel,Automatic,1197,1,18.5,14.3942
+Maruti Suzuki,2019,80319,Petrol,Manual,1197,1,13.5,6.2072
+Skoda,2015,137713,Diesel,Automatic,1197,4,24.2,9.3486
+Maruti Suzuki,2022,31913,Petrol,Manual,1968,1,11.5,8.7334
+Volkswagen,2022,60329,Petrol,Manual,1197,1,17.8,15.3683
+Tata,2022,111358,Petrol,Automatic,1968,3,13.2,7.5759
+Volkswagen,2023,42241,Hybrid,Manual,1497,2,28.6,20.3338
+Skoda,2010,129292,Petrol,Manual,796,1,18.7,8.5502
+Tata,2020,43923,Petrol,Automatic,1197,2,20.4,8.6971
+Tata,2019,103174,CNG,Manual,1197,1,21.5,6.1751
+Toyota,2023,27030,Electric,Manual,0,1,2.5,16.5343
+Mahindra,2024,21245,Electric,Manual,0,2,3.9,17.5908
+Volkswagen,2015,123487,Petrol,Automatic,1197,1,13.7,11.8604
+Toyota,2014,100291,Petrol,Manual,1197,1,20.8,8.402
+Volkswagen,2010,122767,Petrol,Manual,1197,3,18.0,7.2366
+Honda,2022,48977,Diesel,Automatic,1197,1,22.8,14.6052
+Skoda,2014,97241,Electric,Automatic,0,3,2.2,13.1999
+Volkswagen,2017,76986,Diesel,Manual,1197,2,20.1,11.5753
+Kia,2020,48625,Diesel,Automatic,1497,1,22.6,14.9821
+Hyundai,2014,100361,Petrol,Manual,2179,2,14.8,6.6618
+Maruti Suzuki,2020,52641,Diesel,Manual,1197,2,19.2,7.4765
+Skoda,2018,67776,CNG,Manual,1197,2,34.4,10.7099
+Tata,2020,97795,Petrol,Automatic,998,1,19.4,8.0689
+Mahindra,2012,153669,Diesel,Automatic,998,1,23.5,7.3251
+Renault,2021,63833,CNG,Manual,1197,1,35.9,7.7203
+Honda,2024,70769,Petrol,Manual,1497,1,16.9,12.5767
+Tata,2022,24244,Petrol,Manual,2179,4,13.2,6.4974
+Maruti Suzuki,2013,106739,Petrol,Manual,1497,1,19.8,4.4443
+Kia,2023,19509,Petrol,Manual,998,1,15.3,12.9212
+Tata,2011,138239,Petrol,Manual,1497,3,18.7,3.8644
+Skoda,2014,120510,Hybrid,Automatic,1497,1,20.4,16.1725
+Kia,2014,125575,Diesel,Manual,998,1,19.8,7.8722
+Honda,2022,28747,Petrol,Automatic,1598,1,18.4,11.627
+Renault,2018,56596,CNG,Manual,796,1,29.0,6.4055
+Honda,2019,86739,CNG,Automatic,1197,2,23.5,7.6167
+Maruti Suzuki,2016,86034,Petrol,Manual,1497,1,14.1,5.993
+Tata,2017,74532,Petrol,Manual,1598,1,16.2,7.1682
+Kia,2021,39252,Diesel,Manual,1197,1,24.6,13.5751
+Hyundai,2015,85241,Diesel,Automatic,1197,1,13.6,8.111
+Hyundai,2024,15355,CNG,Manual,998,2,25.3,7.8162
+Mahindra,2020,139680,Petrol,Manual,1197,4,15.7,6.8316
+Tata,2020,66979,Petrol,Manual,1497,2,11.1,6.6179
+Mahindra,2016,75094,CNG,Manual,1197,1,28.2,8.3042
+Hyundai,2011,147829,Diesel,Automatic,1968,1,19.8,6.5559
+Honda,2017,84176,Diesel,Manual,1497,2,16.9,8.6211
+Maruti Suzuki,2020,45148,Petrol,Manual,1497,1,18.8,6.7073
+Tata,2019,69445,Hybrid,Manual,1197,1,18.5,8.8659
+Volkswagen,2017,68992,Diesel,Manual,998,2,21.9,13.3718
+Toyota,2023,29308,Petrol,Manual,2179,1,19.8,16.5423
+Honda,2012,121906,Petrol,Manual,1968,1,13.7,7.5345
+Hyundai,2010,194975,Diesel,Manual,998,3,18.9,3.8971
+Tata,2012,139658,Diesel,Automatic,796,1,13.9,5.0507
+Mahindra,2019,59643,Petrol,Automatic,796,1,12.6,9.801
+Kia,2011,122162,Diesel,Automatic,1497,2,11.5,7.444
+Renault,2024,16831,Diesel,Manual,2179,1,21.8,10.6339
+Skoda,2017,109787,Petrol,Automatic,796,1,21.0,12.4069
+Tata,2022,35822,Diesel,Manual,1197,1,19.1,9.881
+Honda,2018,71965,Electric,Manual,0,4,3.2,8.791
+Maruti Suzuki,2019,54954,Petrol,Manual,1497,1,23.5,7.4255
+Honda,2013,116924,Petrol,Manual,998,1,18.0,7.2797
+Maruti Suzuki,2023,23702,Petrol,Manual,998,3,15.0,6.6522
+Toyota,2015,119946,Petrol,Manual,998,2,22.4,7.5066
+Renault,2021,41370,CNG,Manual,998,1,26.4,7.6636
+Toyota,2015,98344,Petrol,Automatic,1497,2,15.3,9.8366
+Toyota,2024,20701,Diesel,Automatic,1197,1,26.5,16.3125
+Tata,2019,125814,CNG,Manual,1197,1,35.4,5.4505
+Mahindra,2018,65321,Diesel,Manual,1968,1,20.6,11.6223
+Maruti Suzuki,2020,110930,Petrol,Manual,1497,1,15.8,5.7931
+Honda,2022,24033,Petrol,Manual,1497,2,12.0,9.5162
+Honda,2022,28379,Diesel,Manual,1197,2,23.4,10.7301
+Skoda,2023,24891,Hybrid,Manual,1197,1,21.8,21.3532
+Hyundai,2020,40672,Petrol,Automatic,796,1,15.4,9.0041
+Renault,2013,213339,Diesel,Automatic,1968,1,25.6,6.3826
+Renault,2021,33539,Petrol,Manual,796,1,20.3,7.1453
+Mahindra,2018,93161,Diesel,Automatic,1968,4,18.2,8.8694
+Maruti Suzuki,2014,119149,Electric,Manual,0,2,3.3,6.639
+Toyota,2021,88721,Diesel,Automatic,1197,1,19.2,14.91
+Skoda,2015,81053,CNG,Automatic,796,2,24.4,9.5011
+Renault,2011,151773,Diesel,Manual,998,1,22.1,4.895
+Volkswagen,2011,121812,Diesel,Automatic,998,2,18.1,8.5537
+Mahindra,2022,31463,Petrol,Automatic,1968,2,20.0,14.1061
+Honda,2018,111920,Petrol,Manual,1497,3,16.6,6.5735
+Honda,2017,74899,Petrol,Manual,1598,1,14.6,8.9581
+Maruti Suzuki,2017,98835,Diesel,Automatic,998,2,21.1,6.8412
+Honda,2021,34590,Diesel,Automatic,1968,4,19.7,11.8771
+Maruti Suzuki,2021,44054,Petrol,Manual,1497,1,16.4,7.0001
+Hyundai,2011,150536,Diesel,Automatic,1497,1,20.2,6.5639
+Skoda,2013,109502,Hybrid,Automatic,1598,3,17.1,12.8171
+Hyundai,2016,127535,Petrol,Manual,1197,2,20.4,5.9198
+Hyundai,2014,105336,Petrol,Automatic,998,2,18.7,6.7158
+Kia,2012,155234,Petrol,Manual,796,2,16.0,5.612
+Maruti Suzuki,2023,30034,Electric,Automatic,0,1,2.5,10.9892
+Toyota,2023,59184,CNG,Automatic,998,1,26.6,13.8649
+Kia,2013,197491,Diesel,Manual,796,2,16.2,6.9708
+Volkswagen,2016,144990,Electric,Manual,0,2,2.4,13.7683
+Kia,2018,62999,Diesel,Automatic,1497,3,27.1,10.8577
+Honda,2023,26682,Electric,Manual,0,4,2.0,12.2804
+Volkswagen,2022,46329,Petrol,Automatic,2494,2,16.3,17.0537
+Kia,2011,140135,Electric,Manual,0,2,2.3,8.6335
+Kia,2013,102402,CNG,Manual,1197,2,36.1,5.9333
+Honda,2015,123692,Petrol,Manual,1497,2,16.5,6.8332
+Kia,2023,28832,Diesel,Manual,998,2,16.8,13.3591
+Honda,2010,135727,Petrol,Manual,1197,1,16.9,5.1222
+Honda,2015,104361,Petrol,Manual,1497,2,20.3,6.8026
+Skoda,2023,16459,Petrol,Automatic,1598,3,23.2,18.0442
+Volkswagen,2011,119932,Electric,Automatic,0,2,4.5,11.5332
+Honda,2018,80184,Petrol,Manual,998,2,19.7,7.144
+Kia,2017,109963,Electric,Manual,0,2,3.9,11.5865
+Skoda,2013,103806,Petrol,Automatic,998,1,12.0,10.0382
+Maruti Suzuki,2018,70910,Electric,Manual,0,2,3.2,8.3803
+Maruti Suzuki,2013,103743,Petrol,Manual,1968,1,14.2,5.0391
+Tata,2014,96648,Diesel,Automatic,1197,1,21.0,7.4906
+Mahindra,2013,96656,Petrol,Manual,796,1,10.4,7.1481
+Hyundai,2017,91333,Petrol,Manual,1598,4,19.9,5.3917
+Tata,2019,67508,Petrol,Automatic,1598,2,17.8,7.6533
+Maruti Suzuki,2015,116662,Diesel,Automatic,1968,4,20.1,5.0673
+Renault,2012,137452,Petrol,Automatic,1968,2,16.7,5.3377
+Maruti Suzuki,2021,32511,Petrol,Manual,1497,2,15.1,6.7693
+Renault,2022,65596,Diesel,Manual,1598,1,13.6,8.4696
+Skoda,2011,132878,Diesel,Manual,796,1,24.4,10.0388
+Maruti Suzuki,2013,188615,Petrol,Manual,1598,3,12.6,4.0726
+Renault,2019,74331,Petrol,Automatic,1497,2,18.3,6.6877
+Toyota,2010,172970,CNG,Manual,998,1,33.9,5.1127
+Skoda,2017,178871,Petrol,Manual,1497,1,17.0,11.9815
+Kia,2015,265191,Electric,Automatic,0,2,2.3,8.4801
+Skoda,2011,185152,Petrol,Manual,1497,1,18.0,7.5251
+Toyota,2017,72782,Hybrid,Manual,1497,1,27.9,13.2976
+Kia,2019,58278,Hybrid,Manual,1968,1,23.0,15.0812
+Volkswagen,2023,20058,Diesel,Manual,1598,1,20.6,18.8307
+Skoda,2019,68059,CNG,Automatic,998,3,27.2,11.6082
+Mahindra,2013,126135,Petrol,Automatic,1197,1,18.6,8.5162
+Volkswagen,2012,117683,Hybrid,Automatic,796,1,25.8,11.8622
+Toyota,2021,40351,Hybrid,Manual,998,1,23.2,16.8771
+Hyundai,2010,120583,Electric,Automatic,0,1,2.9,7.4778
+Toyota,2014,107076,Petrol,Manual,998,1,20.3,9.5162
+Hyundai,2019,63294,Petrol,Manual,1197,2,15.0,7.6542
+Hyundai,2016,162078,Diesel,Manual,998,3,21.2,5.1545
+Honda,2017,83604,Petrol,Manual,1197,1,15.8,8.9253
+Toyota,2018,66555,Petrol,Manual,1598,3,16.2,10.8183
+Skoda,2023,51499,Petrol,Automatic,1197,1,13.9,18.8519
+Kia,2011,113484,Petrol,Manual,1197,2,20.6,5.6949
+Mahindra,2012,112702,Electric,Automatic,0,2,3.1,9.0126
+Skoda,2022,40547,Diesel,Manual,1497,4,23.5,13.9248
+Mahindra,2012,141543,Diesel,Manual,1968,2,14.7,7.2577
+Maruti Suzuki,2015,81521,Petrol,Manual,1197,1,17.8,5.8058
+Renault,2017,72054,Hybrid,Automatic,1197,1,19.3,8.2706
+Renault,2011,159733,Diesel,Manual,796,1,14.0,4.5776
+Skoda,2023,27879,Diesel,Automatic,1197,1,22.3,20.2202
+Mahindra,2010,182039,Petrol,Automatic,1497,2,22.0,5.7121
+Hyundai,2012,146663,Diesel,Manual,1968,1,23.0,6.8518
+Honda,2022,52440,Diesel,Manual,1197,1,19.2,12.6127
+Honda,2018,66550,Electric,Manual,0,4,4.2,8.6371
+Honda,2012,162619,Diesel,Manual,1598,1,16.0,6.5703
+Hyundai,2013,110919,Petrol,Manual,2179,1,25.9,5.9643
+Hyundai,2019,117368,Electric,Manual,0,1,4.3,10.8727
+Kia,2013,115454,Petrol,Manual,1968,1,21.0,7.6302
+Toyota,2015,80541,Petrol,Automatic,1197,2,17.8,9.3696
+Honda,2013,168660,Petrol,Manual,998,1,22.0,5.912
+Hyundai,2020,52843,Diesel,Automatic,1598,3,19.5,8.984
+Honda,2018,69278,Electric,Automatic,0,1,2.4,12.3933
+Volkswagen,2017,86345,Electric,Automatic,0,2,4.1,14.6427
+Hyundai,2017,160148,Diesel,Automatic,998,1,19.3,7.5907
+Skoda,2013,110455,Petrol,Manual,1968,1,21.8,11.7028
+Honda,2024,72124,Diesel,Manual,1497,1,17.2,12.6225
+Skoda,2016,78008,Petrol,Manual,1598,1,20.1,10.916
+Mahindra,2021,51383,Electric,Automatic,0,1,2.7,17.9081
+Mahindra,2017,112086,Diesel,Manual,1197,1,14.8,9.1602
+Kia,2021,70992,Petrol,Automatic,998,3,20.1,10.3974
+Renault,2013,125542,Petrol,Manual,2494,1,18.7,5.7695
+Maruti Suzuki,2017,153980,Diesel,Manual,1598,1,22.9,6.2403
+Hyundai,2023,21429,Petrol,Manual,2494,1,18.6,11.5593
+Maruti Suzuki,2024,27738,Hybrid,Manual,796,2,20.1,9.7209
+Honda,2012,106473,Petrol,Manual,1497,1,20.0,6.8735
+Kia,2021,70473,Electric,Manual,0,1,2.7,14.6698
+Honda,2022,33054,Petrol,Automatic,796,1,15.7,11.9535
+Toyota,2018,56065,Hybrid,Manual,2494,1,27.0,17.2949
+Kia,2024,44803,Petrol,Automatic,1598,1,22.9,15.9975
+Renault,2019,60417,Petrol,Manual,1598,1,19.9,8.1224
+Maruti Suzuki,2014,110376,Petrol,Automatic,1197,1,17.4,5.9744
+Mahindra,2016,103015,Petrol,Manual,1197,2,20.6,8.3516
+Tata,2012,140149,Electric,Automatic,0,2,4.2,5.9223
+Honda,2019,125607,Petrol,Manual,2494,1,18.3,10.518
+Toyota,2012,205805,Petrol,Manual,1197,1,17.1,6.9082
+Kia,2014,92258,CNG,Manual,796,2,26.5,7.0325
+Hyundai,2011,129896,Hybrid,Automatic,1197,3,19.2,5.5875
+Toyota,2010,141187,CNG,Manual,1197,2,33.1,5.0639
+Skoda,2011,141199,Petrol,Automatic,1497,1,12.2,9.7711
+Hyundai,2019,72347,Diesel,Manual,1968,1,24.4,9.2483
+Honda,2017,72907,Diesel,Automatic,1497,1,21.1,10.003
+Hyundai,2023,36473,Electric,Manual,0,1,2.8,11.4998
+Mahindra,2018,75262,CNG,Automatic,998,2,27.7,8.4621
+Toyota,2022,82779,Petrol,Manual,1497,1,23.5,11.6338
+Hyundai,2019,101958,Petrol,Automatic,1197,2,16.8,7.562
+Kia,2012,148769,Electric,Automatic,0,1,2.5,9.9912
+Mahindra,2011,141210,Electric,Manual,0,1,2.1,8.5689
+Mahindra,2011,182894,Electric,Automatic,0,2,2.9,8.8185
+Skoda,2013,120430,Petrol,Automatic,1968,1,20.1,12.4619
+Hyundai,2022,56144,Diesel,Manual,1197,3,17.0,8.0061
+Mahindra,2010,203190,Hybrid,Manual,1497,2,20.8,6.7343
+Renault,2013,124607,Diesel,Manual,1968,1,19.7,6.6316
+Honda,2018,64918,Electric,Manual,0,3,3.7,10.4203
+Tata,2018,86773,Petrol,Manual,1197,1,23.4,7.3359
+Tata,2011,127218,Petrol,Manual,1497,4,15.3,4.098
+Hyundai,2016,76853,Petrol,Automatic,1197,1,18.0,7.528
+Kia,2016,149369,Petrol,Manual,796,1,17.1,8.6633
+Renault,2013,116221,Petrol,Manual,2179,1,16.1,6.0064
+Volkswagen,2010,203007,Petrol,Manual,1497,2,23.5,6.0325
+Volkswagen,2010,151597,CNG,Manual,998,2,18.2,5.6962
+Toyota,2014,135555,Petrol,Manual,1497,1,21.6,7.6383
+Tata,2018,77179,Diesel,Manual,998,1,20.2,7.2729
+Kia,2013,115079,Petrol,Automatic,998,2,20.2,7.2129
+Tata,2017,126380,Diesel,Automatic,1598,4,19.1,6.5612
+Skoda,2024,15052,Diesel,Manual,1598,1,19.8,18.0635
+Toyota,2021,49357,Diesel,Automatic,2179,1,24.6,18.1751
+Tata,2014,132837,Diesel,Manual,1598,3,20.7,5.0097
+Tata,2019,82959,Diesel,Manual,998,1,23.7,8.6295
+Renault,2015,139503,Hybrid,Manual,1598,1,21.5,7.7138
+Toyota,2013,138426,Diesel,Manual,998,2,16.1,7.247
+Honda,2010,127664,Petrol,Manual,2179,1,18.5,5.4691
+Renault,2024,21971,Diesel,Manual,1197,2,18.2,9.0015
+Skoda,2024,31001,Petrol,Manual,1497,2,14.1,18.0522
+Mahindra,2018,62272,Diesel,Automatic,1197,1,20.1,12.2008
+Toyota,2020,109577,CNG,Manual,998,1,28.0,10.9313
+Volkswagen,2018,65649,Petrol,Automatic,2494,1,13.3,16.7014
+Maruti Suzuki,2010,155775,Petrol,Manual,2179,1,16.2,3.8285
+Renault,2022,34630,Electric,Manual,0,2,3.0,10.7206
+Tata,2012,111878,Diesel,Manual,1968,1,16.4,6.4486
+Tata,2021,69961,Petrol,Automatic,1197,1,15.9,9.3053
+Volkswagen,2016,81632,Petrol,Automatic,796,1,22.7,11.1985
+Maruti Suzuki,2012,106828,Diesel,Manual,1598,3,20.7,4.5256
+Mahindra,2016,115515,Electric,Manual,0,1,2.6,9.8592
+Hyundai,2012,132645,Diesel,Automatic,1497,1,14.8,5.9236
+Honda,2015,133923,Petrol,Automatic,1197,1,19.3,7.5293
+Kia,2010,129953,Petrol,Manual,796,2,16.8,5.4421
+Maruti Suzuki,2017,96749,Hybrid,Manual,1968,2,21.7,6.5272
+Maruti Suzuki,2017,75294,Diesel,Manual,998,1,25.6,6.3926
+Tata,2010,185295,Electric,Manual,0,3,2.4,4.7064
+Maruti Suzuki,2021,46489,Diesel,Manual,998,3,17.3,7.3799
+Honda,2012,118964,Hybrid,Automatic,998,1,26.1,7.5063
+Tata,2020,53429,CNG,Manual,1197,2,34.3,5.634
+Kia,2012,180426,Petrol,Automatic,1197,4,15.4,6.3637
+Kia,2019,62509,CNG,Manual,796,1,34.3,8.9669
+Renault,2011,129194,Petrol,Automatic,1197,1,18.6,5.5601
+Hyundai,2012,113408,Diesel,Manual,2494,1,21.9,6.7219
+Volkswagen,2018,85787,Hybrid,Manual,1968,1,25.6,16.2593
+Skoda,2016,123908,Electric,Manual,0,2,2.2,14.2859
+Volkswagen,2020,76530,Electric,Manual,0,2,3.3,15.4084
+Honda,2015,80233,Electric,Manual,0,1,3.7,10.2026
+Honda,2018,79624,Hybrid,Manual,1968,1,21.9,11.0893
+Tata,2010,179365,Petrol,Automatic,1968,1,13.6,4.3141
+Mahindra,2016,76615,Diesel,Manual,1497,1,21.1,10.2582
+Skoda,2018,112629,Petrol,Automatic,1497,1,16.6,13.6197
+Honda,2012,120228,Petrol,Automatic,1497,1,14.6,6.7365
+Toyota,2020,126064,Diesel,Automatic,1497,1,21.0,14.6909
+Mahindra,2018,275477,Petrol,Automatic,1497,1,10.3,7.4824
+Honda,2021,52108,Diesel,Automatic,1197,1,23.5,12.6807
+Mahindra,2020,88281,Petrol,Automatic,1197,1,15.6,12.3453
+Renault,2013,108314,Diesel,Manual,1968,2,18.0,5.4815
+Volkswagen,2024,21055,Hybrid,Manual,998,1,24.0,20.854
+Mahindra,2013,114611,Diesel,Manual,1197,1,14.8,7.6971
+Skoda,2014,116012,Hybrid,Manual,2494,1,26.1,14.6956
+Hyundai,2024,11931,CNG,Manual,1197,1,26.6,8.2369
+Kia,2013,134643,Petrol,Manual,1497,1,21.0,7.4785
+Tata,2023,19461,Petrol,Automatic,2179,2,22.2,9.3365
+Mahindra,2016,91205,Diesel,Automatic,1497,1,16.5,11.9545
+Volkswagen,2024,15264,Petrol,Automatic,1598,1,14.9,19.647
+Volkswagen,2018,64193,Hybrid,Automatic,1197,2,22.7,14.8496
+Skoda,2012,114416,Petrol,Automatic,1197,1,18.7,11.011
+Skoda,2013,112257,CNG,Automatic,998,1,28.2,10.5207
+Renault,2016,115841,Petrol,Automatic,796,3,18.6,5.8237
+Maruti Suzuki,2017,98029,CNG,Manual,1197,3,21.2,4.1982
+Skoda,2019,49676,Petrol,Manual,2494,2,12.8,13.5007
+Toyota,2018,81618,Petrol,Automatic,2494,2,19.0,13.5008
+Tata,2012,105127,Petrol,Manual,998,1,22.9,4.5361
+Mahindra,2020,128466,Diesel,Manual,998,1,14.7,10.4362
+Renault,2021,76372,Diesel,Manual,1497,1,20.7,9.7331
+Skoda,2016,75382,Petrol,Manual,2179,3,12.9,10.8338
+Hyundai,2022,27748,Hybrid,Automatic,1197,2,24.9,12.4492
+Skoda,2022,49279,Petrol,Manual,1497,1,19.3,15.7498
+Toyota,2020,50991,Diesel,Manual,998,2,16.7,12.406
+Toyota,2012,115021,Diesel,Automatic,1497,2,16.9,10.3007
+Maruti Suzuki,2017,86864,Petrol,Manual,796,1,10.3,6.0594
+Honda,2014,123552,Petrol,Manual,1497,2,20.4,6.0333
+Tata,2017,64672,Petrol,Automatic,1197,1,13.4,6.4563
+Renault,2023,23425,Petrol,Manual,1968,1,11.9,9.0328
+Maruti Suzuki,2013,128341,Diesel,Automatic,998,2,20.8,4.7741
+Skoda,2022,41912,Electric,Automatic,0,2,3.5,22.7136
+Renault,2011,113593,Petrol,Manual,998,1,16.2,4.0339
+Honda,2015,101742,Hybrid,Automatic,998,1,19.5,10.3087
+Toyota,2024,12199,CNG,Manual,998,2,34.4,11.3799
+Mahindra,2015,102855,Petrol,Manual,1968,2,20.4,7.3124
+Mahindra,2014,110443,CNG,Manual,796,1,26.4,6.3767
+Tata,2013,118771,Petrol,Automatic,2179,3,13.1,5.8922
+Honda,2024,8448,CNG,Manual,998,1,32.3,11.4381
+Maruti Suzuki,2017,194085,Petrol,Manual,796,2,18.6,4.3013
+Toyota,2019,68236,Diesel,Automatic,2179,2,20.7,13.4526
+Honda,2016,103028,Petrol,Automatic,2494,4,17.0,7.8766
+Volkswagen,2024,59092,Petrol,Manual,1598,1,20.7,17.0025
+Renault,2014,107495,Diesel,Manual,1598,2,21.5,5.8248
+Toyota,2020,47877,Petrol,Automatic,2179,4,21.2,10.5638
+Honda,2023,24182,Petrol,Automatic,796,1,17.2,12.6414
+Maruti Suzuki,2017,138269,Diesel,Manual,1197,2,21.1,5.3144
+Maruti Suzuki,2022,33542,Electric,Automatic,0,2,2.8,10.362
+Toyota,2015,136192,Hybrid,Manual,796,2,26.8,10.2481
+Honda,2022,42100,Diesel,Automatic,2494,3,18.4,14.0681
+Volkswagen,2010,175267,Petrol,Manual,1497,3,13.7,6.2397
+Hyundai,2015,95400,Petrol,Automatic,1968,2,13.8,6.9456
+Mahindra,2015,134556,Diesel,Manual,796,1,20.5,8.7188
+Kia,2016,80325,Petrol,Automatic,1197,3,14.2,9.4327
+Tata,2017,180253,Electric,Manual,0,3,3.1,7.0905
+Kia,2023,18263,Electric,Automatic,0,1,3.6,20.9377
+Renault,2011,129367,Petrol,Manual,1497,3,22.1,3.5877
+Hyundai,2024,31527,Petrol,Manual,1497,1,21.1,9.5633
+Tata,2023,34115,Diesel,Manual,1497,1,23.6,10.5616
+Honda,2010,161532,Hybrid,Automatic,998,1,23.2,7.1484
+Maruti Suzuki,2013,127222,Petrol,Manual,2494,2,18.9,5.2667
+Hyundai,2020,134973,Petrol,Automatic,1968,1,15.0,8.6231
+Honda,2017,88208,Diesel,Manual,1497,1,20.5,9.2995
+Volkswagen,2011,120411,CNG,Manual,796,2,26.6,6.066
+Mahindra,2012,136311,Diesel,Manual,998,3,23.0,6.1235
+Hyundai,2010,212475,Petrol,Manual,1497,1,21.2,4.5181
+Honda,2016,88578,Diesel,Automatic,998,1,22.4,10.467
+Honda,2015,105931,Petrol,Automatic,998,1,17.8,7.4955
+Hyundai,2015,123172,Petrol,Manual,998,1,13.3,6.2047
+Maruti Suzuki,2011,117777,Electric,Automatic,0,4,3.7,4.7421
+Toyota,2018,89569,Petrol,Manual,998,1,14.6,10.7548
+Skoda,2021,61680,Petrol,Manual,1197,1,15.7,15.0091
+Honda,2022,52616,Petrol,Manual,1197,1,12.7,11.5132
+Tata,2019,71954,Diesel,Manual,998,1,23.0,7.6837
+Maruti Suzuki,2012,189038,Diesel,Automatic,1497,1,17.2,5.0838
+Honda,2023,120674,Electric,Automatic,0,1,4.3,14.5987
+Toyota,2021,76921,Hybrid,Automatic,1968,3,27.7,16.3831
+Mahindra,2023,21552,Diesel,Manual,1968,1,13.3,14.7747
+Maruti Suzuki,2023,72955,Petrol,Manual,1197,1,15.4,7.1656
+Skoda,2012,248994,Petrol,Manual,1197,4,19.3,5.3408
+Honda,2023,44770,Diesel,Manual,1968,1,16.9,11.8366
+Skoda,2012,198207,CNG,Automatic,796,1,31.5,7.3886
+Skoda,2021,34129,Diesel,Manual,1197,2,16.7,14.7597
+Hyundai,2010,160505,Petrol,Automatic,998,3,17.5,4.2596
+Volkswagen,2016,79219,Diesel,Manual,1598,2,22.5,12.4596
+Kia,2018,176317,Petrol,Manual,1968,1,17.9,9.9513
+Hyundai,2012,133478,Petrol,Manual,2179,2,15.9,5.8613
+Hyundai,2020,51301,Diesel,Automatic,998,2,19.5,9.8513
+Toyota,2012,168912,Petrol,Manual,2179,3,23.7,5.9932
+Mahindra,2017,128213,CNG,Automatic,1197,3,23.1,8.0406
+Mahindra,2012,136340,Petrol,Manual,1497,2,13.5,6.0804
+Tata,2010,128737,Diesel,Manual,1968,1,24.3,4.9399
+Mahindra,2024,52726,Petrol,Automatic,1598,1,17.2,13.4781
+Honda,2024,90184,Petrol,Manual,998,2,14.4,10.7396
+Honda,2012,113023,Diesel,Automatic,796,2,16.3,7.1033
+Volkswagen,2010,134430,Petrol,Automatic,1968,2,16.5,8.5737
+Volkswagen,2010,130865,Petrol,Manual,1497,1,18.9,7.9788
+Tata,2012,119362,Diesel,Automatic,998,1,19.6,5.4159
+Hyundai,2010,152869,CNG,Manual,796,2,31.8,3.4422
+Kia,2010,131494,Petrol,Manual,1497,3,18.1,5.4785
+Volkswagen,2017,71917,Petrol,Manual,1968,2,21.1,10.7853
+Renault,2021,36864,Diesel,Automatic,1497,1,22.9,9.5667
+Hyundai,2023,26526,Petrol,Manual,1598,4,21.1,7.4395
+Kia,2010,154325,Petrol,Manual,1497,2,17.3,5.6957
+Skoda,2020,47444,Petrol,Manual,998,3,18.7,11.0101
+Tata,2017,66960,Diesel,Manual,1968,2,21.1,7.6483
+Honda,2011,123175,Petrol,Automatic,1968,1,19.4,6.7054
+Toyota,2024,22056,Diesel,Automatic,998,1,17.2,16.6601
+Toyota,2024,38096,CNG,Manual,796,1,32.0,13.5184
+Tata,2020,46391,Petrol,Manual,1497,1,10.2,8.2016
+Renault,2020,48840,Petrol,Manual,1497,2,19.9,6.6101
+Mahindra,2020,70894,Petrol,Automatic,998,1,15.4,12.199
+Volkswagen,2021,66462,Petrol,Manual,1497,2,18.7,13.814
+Tata,2011,181263,Petrol,Manual,1497,2,18.2,3.6471
+Skoda,2020,53828,CNG,Manual,1197,1,23.2,11.7577
+Volkswagen,2012,126892,Petrol,Manual,998,1,22.6,8.8193
+Volkswagen,2012,139670,Diesel,Manual,1197,1,16.9,9.3617
+Mahindra,2017,91763,Diesel,Manual,1197,1,18.6,11.004
+Kia,2013,224848,Petrol,Manual,998,2,21.0,5.9473
+Maruti Suzuki,2013,99046,Diesel,Automatic,1598,2,19.8,5.0258
+Kia,2010,129791,Diesel,Manual,1197,1,23.1,6.4795
+Toyota,2023,18673,Petrol,Automatic,1197,2,18.8,13.6189
+Volkswagen,2019,55980,Petrol,Manual,1197,1,13.3,13.8885
+Renault,2024,11411,CNG,Manual,998,3,27.7,7.628
+Renault,2017,76326,Petrol,Manual,998,2,12.6,6.3347
+Kia,2017,72728,CNG,Automatic,998,1,23.4,9.2927
+Kia,2020,61704,Petrol,Automatic,1197,2,19.1,12.4229
+Hyundai,2013,138136,Diesel,Manual,1968,3,13.8,5.9741
+Hyundai,2012,115937,Electric,Manual,0,2,3.1,6.0707
+Mahindra,2019,70337,Petrol,Manual,2179,2,12.4,9.1999
+Skoda,2022,49298,Petrol,Automatic,2179,2,21.9,16.7189
+Volkswagen,2012,143744,Diesel,Automatic,2494,3,21.4,11.1595
+Toyota,2020,42987,Petrol,Manual,1497,2,17.2,11.3179
+Honda,2010,167296,Petrol,Automatic,1968,2,23.6,6.0047
+Renault,2022,47670,Petrol,Manual,998,2,18.3,7.7503
+Maruti Suzuki,2016,86155,Petrol,Manual,1598,2,14.7,5.3408
+Hyundai,2011,160135,Petrol,Automatic,1598,1,19.2,4.831
+Tata,2011,128014,Petrol,Manual,998,2,19.1,4.5889
+Maruti Suzuki,2022,74962,Petrol,Automatic,1197,2,12.2,7.8881
+Volkswagen,2022,34605,Petrol,Manual,1497,1,18.1,13.8879
+Toyota,2012,108687,Petrol,Automatic,2494,1,17.4,10.0507
+Skoda,2024,21037,Petrol,Automatic,796,1,11.4,16.9034
+Kia,2022,81724,Petrol,Manual,1497,3,15.1,10.6355
+Skoda,2013,98628,Petrol,Manual,1197,3,19.6,8.653
+Maruti Suzuki,2020,58937,Petrol,Automatic,1497,1,14.8,7.179
+Kia,2022,36470,Hybrid,Manual,1197,1,27.6,14.483
+Tata,2024,37285,Diesel,Automatic,1968,1,15.6,12.3252
+Hyundai,2011,114238,Petrol,Manual,1968,2,22.5,4.8141
+Skoda,2024,28424,CNG,Manual,796,2,26.5,15.0638
+Honda,2019,57999,Petrol,Manual,1968,1,20.7,11.1592
+Renault,2018,64388,Diesel,Automatic,1197,2,20.1,8.5963
+Tata,2020,124143,Petrol,Manual,1968,1,15.5,7.2857
+Honda,2023,28396,Petrol,Manual,1497,2,16.7,11.3069
+Kia,2017,97572,Diesel,Manual,998,1,19.8,9.2607
+Kia,2021,88798,Petrol,Manual,1497,1,20.7,11.9412
+Maruti Suzuki,2020,58068,Petrol,Manual,1598,2,16.1,7.334
+Toyota,2011,150197,Diesel,Manual,1497,2,25.2,6.918
+Toyota,2018,73592,Petrol,Manual,2179,1,11.3,13.0297
+Kia,2016,75505,Hybrid,Manual,1197,1,25.9,11.4449
+Hyundai,2012,104519,Diesel,Automatic,1197,1,24.8,7.4504
+Renault,2017,94425,Petrol,Automatic,2494,4,14.0,6.614
+Toyota,2018,82176,Diesel,Automatic,1497,1,22.8,14.9487
+Mahindra,2023,25044,Diesel,Manual,1197,1,24.3,13.7038
+Mahindra,2010,138268,Petrol,Manual,1598,1,18.2,6.206
+Honda,2018,77913,Hybrid,Automatic,1197,2,20.3,12.4843
+Volkswagen,2020,48474,Petrol,Manual,1197,2,15.9,13.0667
+Kia,2019,121845,Petrol,Manual,2494,1,19.7,11.7248
+Maruti Suzuki,2017,93456,Electric,Manual,0,1,4.4,8.1983
+Renault,2012,123848,Electric,Automatic,0,1,2.4,7.3691
+Tata,2011,117584,Hybrid,Automatic,1197,1,24.7,5.7399
+Volkswagen,2011,156651,Petrol,Manual,1197,1,12.6,8.2222
+Renault,2010,142373,Petrol,Automatic,2494,1,13.3,4.6869
+Volkswagen,2010,121330,Diesel,Manual,1197,1,25.5,7.8123
+Skoda,2024,14787,Petrol,Manual,998,2,17.3,16.5969
+Renault,2017,66883,Diesel,Manual,1497,4,23.2,5.4807
+Hyundai,2019,48056,Diesel,Automatic,1598,1,13.2,10.0221
+Renault,2015,103524,Petrol,Manual,998,3,16.9,4.3974
+Toyota,2022,56395,Diesel,Automatic,998,2,22.0,15.8237
+Volkswagen,2018,57410,Petrol,Automatic,1598,1,13.6,13.0703
+Renault,2022,119755,Diesel,Automatic,998,3,24.5,8.3739
+Skoda,2015,86170,Petrol,Manual,1497,3,18.7,8.7657
+Maruti Suzuki,2013,151040,Diesel,Automatic,1497,3,21.5,4.3863
+Honda,2019,132726,Petrol,Automatic,1497,1,16.0,10.2458
+Toyota,2017,89345,Petrol,Automatic,796,1,13.9,10.2229
+Hyundai,2016,78975,Electric,Automatic,0,1,3.8,9.8503
+Volkswagen,2010,137195,Petrol,Manual,1598,3,14.8,7.0125
+Maruti Suzuki,2015,87127,Petrol,Automatic,1197,1,13.4,5.5184
+Mahindra,2015,88566,Hybrid,Manual,796,1,19.1,10.3488
+Renault,2021,48269,Hybrid,Manual,1497,4,18.1,8.764
+Renault,2011,136460,Diesel,Manual,1968,2,13.6,5.5727
+Volkswagen,2024,8040,Petrol,Manual,1497,1,18.4,16.4808
+Volkswagen,2010,128021,Petrol,Automatic,1197,2,19.6,7.4362
+Honda,2013,137285,Petrol,Manual,796,1,19.3,5.6495
+Maruti Suzuki,2023,49603,Petrol,Manual,998,1,17.6,8.2829
+Renault,2013,114447,Petrol,Manual,998,2,21.8,4.9036
+Tata,2017,72539,Petrol,Manual,1968,3,19.5,5.9207
+Volkswagen,2018,62608,CNG,Automatic,1197,2,25.2,11.1506
+Hyundai,2022,50847,Hybrid,Automatic,998,1,25.8,11.3887
+Renault,2014,128129,Petrol,Automatic,796,3,17.5,4.2493
+Mahindra,2022,74318,Diesel,Automatic,1497,3,16.6,13.4307
+Maruti Suzuki,2011,140045,Petrol,Automatic,1197,1,15.8,4.0802
+Toyota,2011,131679,Petrol,Manual,998,3,12.8,5.4273
+Renault,2021,44687,Hybrid,Automatic,1197,1,18.7,11.3803
+Mahindra,2015,176362,Petrol,Automatic,998,1,11.2,8.5113
+Tata,2014,135823,Hybrid,Manual,1968,2,26.6,6.3213
+Hyundai,2019,144512,Petrol,Manual,998,3,11.3,5.731
+Hyundai,2015,153219,Electric,Manual,0,1,3.9,8.2813
+Volkswagen,2017,64108,Diesel,Automatic,1197,2,22.2,12.9229
+Hyundai,2016,84783,Diesel,Manual,1497,1,19.6,7.3118
+Honda,2018,70681,Petrol,Manual,1197,4,17.6,7.0709
+Toyota,2018,57048,Electric,Manual,0,1,4.0,16.5634
+Kia,2023,33618,Diesel,Manual,998,1,18.4,14.8761
+Skoda,2014,138600,Electric,Manual,0,1,4.0,14.4962
+Tata,2011,144973,Petrol,Manual,796,2,17.5,4.3616
+Kia,2016,90876,Diesel,Manual,2179,2,22.4,11.6088
+Renault,2021,56512,Petrol,Manual,998,1,19.7,8.381
+Renault,2013,114522,Petrol,Manual,998,3,13.7,4.0878
+Hyundai,2020,41658,CNG,Automatic,998,1,22.7,9.0976
+Skoda,2023,85045,Electric,Automatic,0,1,4.4,21.6236
+Toyota,2010,121025,Diesel,Automatic,1968,1,18.9,8.9478
+Skoda,2014,95853,Diesel,Manual,1197,2,26.6,10.3599
+Kia,2020,43149,Petrol,Automatic,1497,1,20.1,14.6666
+Kia,2013,96648,Petrol,Manual,998,2,17.6,8.006
+Skoda,2020,53357,Petrol,Automatic,1968,4,14.0,12.085
+Kia,2010,134251,Petrol,Manual,1197,1,15.9,6.645
+Hyundai,2012,107491,Petrol,Manual,1968,1,15.9,5.7428
+Honda,2015,126741,Petrol,Manual,1968,2,20.6,7.5562
+Volkswagen,2017,100625,Petrol,Automatic,1197,2,15.7,10.9965
+Toyota,2020,68468,Diesel,Manual,1497,2,23.4,13.4706
+Tata,2011,136422,Diesel,Automatic,998,3,19.6,4.9066
+Renault,2016,91116,Petrol,Automatic,998,2,22.2,6.7195
+Hyundai,2019,155546,Petrol,Automatic,1968,1,11.9,8.3476
+Renault,2021,88817,Electric,Manual,0,1,4.4,10.7826
+Hyundai,2022,83661,CNG,Manual,796,1,26.6,7.3759
+Maruti Suzuki,2023,58302,Hybrid,Manual,1197,1,24.4,8.4956
+Maruti Suzuki,2020,153357,Petrol,Manual,998,2,12.1,5.7965
+Honda,2023,34738,Petrol,Manual,998,2,19.0,10.9036
+Kia,2013,103147,Hybrid,Automatic,2494,2,19.5,10.8961
+Tata,2023,48083,CNG,Automatic,796,1,20.4,8.6678
+Toyota,2022,63288,Diesel,Manual,1197,4,21.4,10.6449
+Hyundai,2011,118098,Petrol,Manual,998,1,19.2,4.9262
+Maruti Suzuki,2016,92103,Hybrid,Manual,1197,1,25.8,6.1188
+Mahindra,2022,49233,Diesel,Automatic,1598,2,23.6,14.6773
+Hyundai,2012,111551,Hybrid,Manual,1197,1,21.6,7.096
+Toyota,2020,97344,Diesel,Automatic,1197,1,22.0,15.6994
+Honda,2015,181356,Electric,Automatic,0,3,2.0,8.2921
+Skoda,2019,57566,Electric,Manual,0,1,3.3,20.1263
+Hyundai,2012,135726,Petrol,Manual,1197,1,17.4,4.7416
+Honda,2018,122640,Diesel,Automatic,998,1,19.9,8.8468
+Maruti Suzuki,2016,125430,Diesel,Automatic,1197,2,24.1,5.9764
+Skoda,2012,122277,Petrol,Manual,1197,1,16.9,9.26
+Skoda,2024,69082,Petrol,Manual,2494,1,13.7,16.4722
+Tata,2011,145234,Diesel,Manual,1197,1,18.6,5.3093
+Renault,2020,104166,Diesel,Manual,1598,1,22.3,8.0654
+Toyota,2013,99277,Diesel,Manual,1497,4,23.0,7.2253
+Kia,2021,66499,Petrol,Manual,796,1,13.8,11.784
+Honda,2011,162400,CNG,Manual,1197,1,33.9,5.183
+Renault,2017,90182,Diesel,Manual,1497,1,21.3,6.8696
+Honda,2010,121469,Petrol,Automatic,1968,2,19.4,5.8094
+Hyundai,2022,50854,Diesel,Manual,796,1,23.0,9.3883
+Skoda,2016,117559,Diesel,Manual,1968,1,21.9,12.7048
+Hyundai,2020,52668,Petrol,Automatic,1598,1,21.2,8.87
+Tata,2020,52956,Hybrid,Automatic,2494,2,21.3,10.3828
+Maruti Suzuki,2013,176084,Hybrid,Manual,1598,2,25.9,5.4232
+Toyota,2011,124111,Petrol,Manual,1598,3,20.5,5.7607
+Renault,2012,118296,Electric,Manual,0,1,4.4,5.6839
+Volkswagen,2023,18259,Diesel,Manual,796,1,15.8,16.5764
+Honda,2014,94757,Diesel,Manual,1197,3,21.0,6.2658
+Kia,2016,80804,Diesel,Manual,2494,3,21.8,10.8158
+Renault,2024,20955,Petrol,Automatic,796,4,12.6,7.1081
+Renault,2022,44123,Diesel,Manual,1197,2,21.1,7.7554
+Renault,2018,58294,Diesel,Automatic,1197,1,20.8,7.9771
+Honda,2022,36029,Petrol,Automatic,1497,2,13.1,11.5988
+Mahindra,2024,74586,Petrol,Manual,1197,2,13.2,10.9414
+Mahindra,2017,72405,Electric,Manual,0,1,3.1,12.2861
+Toyota,2021,44023,Electric,Automatic,0,1,4.0,17.8315
+Honda,2012,143236,Diesel,Manual,1497,1,25.0,6.6052
+Kia,2022,28052,Diesel,Manual,998,1,20.3,13.8852
+Volkswagen,2010,132639,Petrol,Manual,1197,2,14.4,7.5042
+Mahindra,2014,171532,Petrol,Automatic,998,1,15.5,6.6791
+Kia,2019,79154,Petrol,Automatic,796,2,15.4,10.0696
+Mahindra,2013,113050,Diesel,Automatic,998,2,17.7,8.061
+Renault,2022,36896,Petrol,Manual,998,2,17.1,8.0032
+Renault,2014,118598,Petrol,Manual,1497,2,14.7,5.6166
+Volkswagen,2019,107139,Petrol,Automatic,1968,3,17.9,11.0063
+Honda,2017,86063,Petrol,Automatic,1968,1,20.7,10.7226
+Mahindra,2018,97873,Hybrid,Automatic,2494,1,22.0,15.3796
+Volkswagen,2016,92561,Electric,Automatic,0,1,2.3,15.9227
+Tata,2020,83662,Petrol,Manual,1598,2,19.1,7.5889
+Renault,2023,17587,Diesel,Manual,1968,3,15.1,10.208
+Kia,2018,61106,Electric,Manual,0,1,2.2,13.0096
+Volkswagen,2010,154958,Petrol,Automatic,2494,2,23.2,8.9521
+Volkswagen,2020,66220,Diesel,Manual,1197,1,23.9,13.8145
+Volkswagen,2015,81232,Petrol,Automatic,1968,3,15.8,11.5698
+Mahindra,2019,98968,Hybrid,Manual,1968,1,26.6,14.244
+Honda,2015,119245,Hybrid,Manual,998,1,28.2,8.3596
+Mahindra,2020,91657,Petrol,Manual,796,1,19.5,10.1779
+Honda,2016,112163,Diesel,Manual,1598,1,17.6,9.1038
+Maruti Suzuki,2022,38060,CNG,Manual,1197,1,21.9,6.2499
+Tata,2019,65073,Diesel,Automatic,1598,1,19.0,9.2319
+Volkswagen,2020,71821,Petrol,Manual,998,1,14.4,12.9097
+Volkswagen,2016,202062,Diesel,Manual,796,3,17.6,9.4336
+Volkswagen,2017,72253,Petrol,Manual,998,1,15.9,11.0841
+Kia,2023,103055,Diesel,Automatic,1197,1,17.8,16.3178
+Volkswagen,2019,66292,Petrol,Manual,998,1,12.9,12.0126
+Tata,2017,122260,CNG,Manual,998,1,34.1,4.8611
+Skoda,2012,140779,Hybrid,Automatic,2494,2,28.4,13.6923
+Mahindra,2015,90897,Electric,Automatic,0,3,3.7,9.1531
+Maruti Suzuki,2012,117671,Diesel,Manual,998,2,24.1,4.2661
+Tata,2013,118440,Electric,Manual,0,2,3.3,6.9571
+Honda,2016,94622,Petrol,Manual,1197,1,21.5,7.0496
+Hyundai,2017,92483,Diesel,Automatic,1197,2,21.0,8.3183
+Skoda,2022,57438,Diesel,Automatic,998,4,21.2,13.3399
+Toyota,2016,90214,CNG,Automatic,1197,1,19.6,9.3881
+Skoda,2011,177234,Petrol,Manual,1197,1,19.9,7.5113
+Renault,2022,54536,Petrol,Automatic,1968,4,13.7,7.0351
+Toyota,2013,140539,Petrol,Manual,1598,2,19.9,7.1973
+Hyundai,2020,190443,CNG,Automatic,796,3,29.2,5.0375
+Kia,2021,39180,Petrol,Manual,2179,4,14.3,9.4039
+Hyundai,2011,118205,Petrol,Automatic,2494,3,18.8,5.2151
+Kia,2017,94522,Petrol,Automatic,1197,2,20.9,10.3887
+Mahindra,2011,130956,Electric,Manual,0,1,2.1,9.1519
+Mahindra,2017,69593,Hybrid,Automatic,2179,2,18.2,12.9574
+Tata,2017,71021,Hybrid,Manual,1598,3,24.7,7.3638
+Kia,2013,100916,Petrol,Manual,1968,1,19.6,8.7093
+Toyota,2023,32168,Petrol,Manual,1497,1,14.7,13.8427
+Toyota,2013,104912,Diesel,Manual,1497,1,17.1,9.4278
+Kia,2023,34949,Diesel,Automatic,796,2,16.3,15.4561
+Volkswagen,2011,148056,Petrol,Automatic,1197,1,16.5,8.3888
+Kia,2024,9301,Hybrid,Manual,998,1,23.3,16.8928
+Hyundai,2014,245506,CNG,Manual,998,1,29.2,4.5793
+Tata,2024,149042,Electric,Automatic,0,4,3.0,8.057
+Honda,2018,85914,Petrol,Manual,1598,3,19.2,7.8526
+Volkswagen,2017,98118,Petrol,Manual,1968,1,16.7,11.2378
+Tata,2022,35309,Petrol,Manual,1968,1,16.0,8.35
+Mahindra,2017,86793,Diesel,Automatic,998,1,20.5,11.6185
+Hyundai,2012,155840,Diesel,Automatic,1197,3,23.2,5.4183
+Skoda,2015,97555,Petrol,Automatic,1598,1,8.6,12.042
+Tata,2021,107142,Petrol,Manual,1197,1,17.8,7.9603
+Hyundai,2011,175700,Electric,Manual,0,2,2.2,5.0972
+Hyundai,2013,101521,Petrol,Automatic,1497,1,19.5,6.3001
+Honda,2020,72143,CNG,Automatic,998,1,31.7,8.675
+Volkswagen,2023,41576,Petrol,Manual,998,2,22.0,15.5253
+Maruti Suzuki,2018,57620,Diesel,Manual,1197,1,18.7,7.1438
+Renault,2011,124718,Hybrid,Manual,998,4,26.3,4.2814
+Skoda,2014,112323,Petrol,Automatic,998,1,17.3,10.0851
+Toyota,2022,56006,Diesel,Manual,1197,2,17.4,14.9788
+Honda,2021,87375,Electric,Automatic,0,3,4.4,12.5503
+Skoda,2023,68632,Petrol,Automatic,1197,1,12.2,18.4284
+Toyota,2016,96106,Petrol,Automatic,796,2,16.0,10.0823
+Hyundai,2023,130548,Petrol,Manual,2179,1,19.4,9.8835
+Hyundai,2024,22610,Diesel,Automatic,2494,4,19.8,12.1707
+Renault,2010,153610,Petrol,Automatic,1197,1,17.8,4.2168
+Honda,2014,140817,Petrol,Manual,1197,2,19.0,6.558
+Volkswagen,2013,166868,Petrol,Manual,998,4,16.6,6.3096
+Hyundai,2012,123745,Petrol,Manual,1968,2,19.2,5.2921
+Kia,2017,79844,Petrol,Automatic,1197,2,15.5,10.5044
+Renault,2012,150339,Petrol,Manual,998,1,16.3,4.3989
+Toyota,2012,110549,Diesel,Manual,1968,2,23.0,8.7546
+Kia,2014,123155,Diesel,Automatic,1497,3,16.3,9.2382
+Hyundai,2010,134551,Petrol,Manual,1197,1,16.5,4.932
+Maruti Suzuki,2017,89969,Diesel,Manual,2179,2,14.6,6.5509
+Volkswagen,2019,123973,Electric,Manual,0,1,4.4,16.5113
+Volkswagen,2021,58472,Petrol,Automatic,998,1,16.8,16.7622
+Kia,2013,99655,Petrol,Automatic,796,1,18.0,9.2357
+Mahindra,2016,105238,Electric,Manual,0,2,2.6,9.9409
+Skoda,2022,49447,Diesel,Manual,1497,1,14.9,15.9395
+Renault,2015,111662,Petrol,Manual,1497,2,22.1,6.0005
+Honda,2014,183515,Diesel,Manual,998,1,24.2,7.3303
+Honda,2010,132124,Petrol,Manual,1197,1,18.3,5.6547
+Volkswagen,2024,28987,Electric,Automatic,0,2,3.0,23.4631
+Tata,2021,87440,Diesel,Manual,1497,3,21.0,7.0269
+Mahindra,2024,43655,CNG,Automatic,998,1,26.2,12.7504
+Mahindra,2015,127301,Petrol,Automatic,1197,2,16.8,8.4975
+Mahindra,2017,79256,Electric,Automatic,0,2,2.6,13.1344
+Kia,2012,127755,Petrol,Automatic,1197,1,23.1,7.4549
+Kia,2018,57931,Hybrid,Automatic,1497,4,20.1,10.4218
+Volkswagen,2020,53906,Electric,Automatic,0,3,3.7,15.839
+Hyundai,2011,127628,Petrol,Manual,1197,1,18.7,5.2091
+Honda,2019,64076,Diesel,Automatic,1197,1,23.5,11.6643
+Tata,2010,138143,Petrol,Manual,1497,1,18.4,4.478
+Toyota,2012,137325,Electric,Manual,0,2,2.4,8.7286
+Maruti Suzuki,2019,83320,Petrol,Manual,998,1,14.1,5.5054
+Renault,2018,68579,Petrol,Automatic,2179,1,17.2,7.4747
+Toyota,2018,59165,Diesel,Manual,1197,1,17.5,13.4461
+Kia,2012,124274,Diesel,Manual,998,2,21.9,7.0403
+Toyota,2016,132339,Petrol,Manual,998,1,15.1,9.9124
+Hyundai,2021,108378,Petrol,Manual,1197,1,14.3,7.8898
+Toyota,2019,65450,Petrol,Manual,998,1,12.8,10.9132
+Maruti Suzuki,2013,147330,Diesel,Manual,1968,1,16.3,5.5907
+Maruti Suzuki,2023,99595,Petrol,Automatic,2494,2,18.2,7.4813
+Kia,2018,90235,Electric,Automatic,0,1,3.3,13.7379
+Maruti Suzuki,2016,77193,Petrol,Manual,1197,1,13.6,5.0259
+Honda,2012,114922,Diesel,Automatic,998,1,22.4,8.5111
+Mahindra,2019,69637,Petrol,Manual,1497,1,14.0,9.1173
+Hyundai,2016,96660,Petrol,Automatic,1598,1,13.1,7.3401
+Skoda,2018,58800,Electric,Manual,0,1,3.5,15.516
+Hyundai,2016,75825,Petrol,Manual,998,2,22.2,6.9519
+Honda,2020,50392,Electric,Manual,0,2,2.5,11.3317
+Renault,2019,66756,Electric,Automatic,0,1,4.4,11.6619
+Honda,2017,86338,Electric,Manual,0,1,3.1,11.2583
+Honda,2012,238199,Hybrid,Automatic,2494,4,24.0,6.9841
+Tata,2011,160167,CNG,Automatic,1197,1,21.9,4.0445
+Tata,2015,93513,Diesel,Manual,1497,4,22.9,5.8889
+Renault,2012,106300,Petrol,Manual,1497,3,20.0,4.6344
+Tata,2015,99966,Petrol,Automatic,1197,2,15.1,5.8009
+Honda,2016,112273,Petrol,Manual,1497,1,14.6,7.7889
+Mahindra,2018,67828,Hybrid,Manual,1968,2,25.0,12.918
+Honda,2023,28855,Hybrid,Manual,1968,1,24.6,15.0494
+Hyundai,2011,122231,Petrol,Manual,998,1,13.0,5.2212
+Skoda,2010,238960,Petrol,Manual,1197,2,16.2,5.5902
+Kia,2018,129207,Petrol,Manual,1197,2,13.5,8.7545
+Hyundai,2015,84950,CNG,Manual,1197,1,24.8,5.3609
+Toyota,2017,66461,Petrol,Manual,2494,2,16.4,11.5877
+Renault,2021,51508,Diesel,Automatic,1497,1,25.8,10.4615
+Maruti Suzuki,2017,79407,CNG,Manual,1197,1,21.8,4.8852
+Hyundai,2017,70713,Diesel,Manual,796,2,24.6,7.9426
+Skoda,2024,16700,Electric,Automatic,0,2,2.6,23.4473
+Toyota,2014,104731,Petrol,Automatic,1197,2,22.0,8.7021
+Skoda,2022,41218,Petrol,Manual,998,1,18.1,16.8161
+Kia,2020,43275,Petrol,Manual,796,2,13.2,9.9626
+Honda,2015,104985,Petrol,Manual,1197,2,14.7,7.1479
+Volkswagen,2013,123153,Electric,Manual,0,2,4.4,11.8892
+Skoda,2017,123481,Petrol,Automatic,796,2,12.5,10.4928
+Kia,2013,121055,CNG,Manual,998,1,21.7,6.3333
+Maruti Suzuki,2019,82141,Diesel,Manual,1197,3,13.9,6.1779
+Volkswagen,2010,192214,Petrol,Automatic,1598,2,23.7,7.9307
+Toyota,2019,60613,Petrol,Automatic,1497,1,18.4,12.7927
+Skoda,2021,34412,Diesel,Manual,1497,2,22.7,15.88
+Tata,2012,153783,Petrol,Manual,1497,1,16.4,4.643
+Toyota,2022,107710,Electric,Automatic,0,2,2.9,17.0872
+Volkswagen,2011,113060,Petrol,Manual,1598,3,15.1,7.8078
+Volkswagen,2019,61573,Petrol,Manual,1497,1,19.8,14.551
+Tata,2010,192656,Petrol,Automatic,1598,1,17.5,3.9932
+Hyundai,2015,115851,Petrol,Manual,2179,4,13.9,5.5259
+Honda,2021,47043,Diesel,Manual,2179,2,21.6,12.5819
+Maruti Suzuki,2019,119489,Petrol,Automatic,2179,3,20.4,6.2748
+Kia,2011,114257,CNG,Manual,998,2,23.2,6.2437
+Tata,2012,124767,Diesel,Automatic,998,1,16.9,5.4759
+Skoda,2015,80384,Petrol,Automatic,1968,4,15.8,10.8648
+Hyundai,2012,114544,Petrol,Manual,1497,1,13.1,5.633
+Hyundai,2019,82738,Petrol,Automatic,1497,2,15.6,8.509
+Mahindra,2021,43082,Diesel,Automatic,1197,1,22.7,13.9652
+Toyota,2016,83744,Hybrid,Manual,1197,3,25.6,10.9566
+Tata,2021,38483,Petrol,Manual,1968,1,19.5,9.4164
+Honda,2021,40591,Petrol,Automatic,1598,1,15.8,13.1992
+Mahindra,2018,100641,CNG,Manual,796,1,24.4,7.4866
+Hyundai,2023,36194,Petrol,Manual,2494,1,14.8,10.4307
+Honda,2013,110922,Diesel,Manual,1497,1,23.9,7.586
+Maruti Suzuki,2018,129887,Electric,Automatic,0,1,3.5,7.9278
+Tata,2020,110216,Petrol,Automatic,1598,2,20.8,6.8992
+Tata,2011,148882,Diesel,Manual,1197,1,22.9,5.0706
+Skoda,2014,89359,Petrol,Manual,1197,1,11.2,10.8984
+Volkswagen,2014,89048,Petrol,Manual,1598,2,14.8,10.1346
+Honda,2019,62988,Diesel,Manual,998,2,18.4,8.9518
+Renault,2019,73387,CNG,Automatic,1197,1,28.8,6.279
+Hyundai,2022,78387,Petrol,Manual,1497,2,17.2,8.1815
+Volkswagen,2010,174402,Petrol,Automatic,1197,1,21.6,8.207
+Honda,2020,68696,Petrol,Manual,998,1,18.2,9.6209
+Honda,2015,111294,Petrol,Manual,998,3,20.1,6.8805
+Mahindra,2015,91783,Hybrid,Manual,998,2,27.6,10.0128
+Renault,2012,109130,Hybrid,Automatic,1197,1,25.0,6.3094
+Hyundai,2024,8832,Diesel,Manual,1497,2,24.0,11.4579
+Skoda,2015,93995,Petrol,Manual,998,2,17.8,10.571
+Hyundai,2015,82621,Hybrid,Manual,998,1,27.2,7.5769
+Kia,2017,82064,Diesel,Manual,998,2,20.1,9.0637
+Toyota,2012,115706,Diesel,Automatic,1197,3,25.0,8.0132
+Mahindra,2018,61838,Diesel,Automatic,1598,1,19.6,12.9668
+Mahindra,2018,74400,Electric,Manual,0,1,4.1,11.2361
+Tata,2018,57071,Petrol,Automatic,1497,1,15.7,8.2233
+Kia,2019,112958,Petrol,Manual,1497,1,16.5,11.1553
+Mahindra,2021,44598,Petrol,Manual,1197,1,16.0,11.355
+Volkswagen,2023,38661,Petrol,Automatic,1598,1,13.1,17.2677
+Renault,2019,56377,Petrol,Automatic,1197,1,10.5,8.9087
+Mahindra,2013,113626,Petrol,Manual,1497,1,13.3,6.7354
+Honda,2010,242263,Diesel,Manual,1197,1,18.9,4.6063
+Skoda,2020,48884,Petrol,Manual,1197,1,11.8,16.2061
+Toyota,2013,103082,Diesel,Automatic,1598,2,17.9,9.1141
+Kia,2015,89906,Hybrid,Automatic,998,1,18.5,11.0523
+Tata,2011,118328,Petrol,Manual,998,4,20.3,3.3286
+Toyota,2021,32156,Diesel,Manual,1197,2,26.3,14.9469
+Mahindra,2019,53200,Electric,Manual,0,3,2.4,12.1248
+Toyota,2016,189361,Electric,Automatic,0,1,2.8,11.7988
+Kia,2022,65004,Diesel,Automatic,1197,4,23.2,12.9056
+Maruti Suzuki,2012,123197,Petrol,Manual,796,4,15.1,2.9522
+Kia,2019,179021,Petrol,Manual,1197,1,22.2,9.7827
+Kia,2016,104338,Petrol,Manual,1497,1,16.4,9.6513
+Tata,2014,195582,Petrol,Automatic,998,1,21.7,5.0122
+Hyundai,2021,33138,Petrol,Manual,1497,1,20.2,8.6565
+Tata,2020,54152,Petrol,Automatic,2494,2,17.1,9.4856
+Renault,2019,76344,Petrol,Manual,1497,3,13.9,6.0233
+Tata,2021,40545,Hybrid,Automatic,1968,1,20.8,11.1512
+Maruti Suzuki,2014,116433,CNG,Automatic,796,1,29.5,5.1245
+Volkswagen,2015,111108,Petrol,Automatic,2494,1,17.7,11.3466
+Volkswagen,2016,73426,Petrol,Automatic,1197,1,19.8,11.4473
+Honda,2019,58575,Petrol,Manual,2494,2,20.6,9.2837
+Skoda,2010,143088,Petrol,Automatic,998,2,18.3,8.3959
+Renault,2011,122965,Petrol,Automatic,1197,4,17.0,3.6394
+Maruti Suzuki,2023,20285,Hybrid,Manual,1197,1,17.1,10.786
+Skoda,2018,73375,Petrol,Automatic,2494,2,18.7,14.3031
+Kia,2022,38739,Petrol,Manual,1497,2,15.6,11.7569
+Skoda,2020,125657,Petrol,Automatic,1197,2,13.9,14.9607
+Kia,2024,80095,Diesel,Manual,1497,1,24.2,14.4234
+Kia,2021,33405,Petrol,Automatic,1197,3,19.9,12.7012
+Skoda,2013,108860,Electric,Automatic,0,1,2.4,14.6707
+Mahindra,2011,122251,Petrol,Automatic,2494,1,24.4,8.3088
+Skoda,2018,93833,Hybrid,Manual,1197,1,19.9,17.6438
+Mahindra,2014,89404,Electric,Manual,0,1,3.3,11.521
+Hyundai,2019,49166,Electric,Manual,0,2,2.4,10.5063
+Mahindra,2013,135778,Diesel,Manual,998,3,20.1,6.606
+Skoda,2022,51354,Diesel,Automatic,2494,1,16.0,21.0809
+Toyota,2019,59527,Diesel,Manual,1497,1,19.5,14.2071
+Tata,2018,57974,Diesel,Automatic,1497,2,20.7,8.9996
+Renault,2015,82590,Petrol,Manual,2179,1,16.4,6.5527
+Volkswagen,2023,163956,Diesel,Manual,1598,2,20.4,14.4736
+Honda,2020,48977,Petrol,Manual,998,2,18.8,8.6982
+Renault,2010,149909,Electric,Manual,0,2,3.0,4.9614
+Mahindra,2018,129787,Diesel,Manual,1197,1,21.4,8.8089
+Maruti Suzuki,2023,106261,Diesel,Manual,796,1,13.3,8.1635
+Honda,2013,96695,CNG,Automatic,1197,2,27.3,6.0181
+Renault,2010,186035,Electric,Manual,0,2,2.8,5.1243
+Volkswagen,2017,86162,Petrol,Automatic,1598,2,16.6,11.948
+Honda,2013,218265,Diesel,Manual,998,2,15.1,5.1921
+Mahindra,2019,62083,Petrol,Automatic,1197,1,21.4,9.8599
+Hyundai,2014,104353,Diesel,Manual,1197,1,20.1,6.1036
+Maruti Suzuki,2020,62428,Petrol,Manual,2179,1,20.2,7.4497
+Renault,2013,124778,Petrol,Manual,1497,1,10.9,4.8165
+Toyota,2021,58163,Petrol,Manual,2494,1,19.9,15.1589
+Honda,2021,40479,Petrol,Automatic,1497,1,13.0,11.2426
+Hyundai,2020,55588,Petrol,Manual,1497,4,20.1,7.1951
+Kia,2018,83261,Petrol,Automatic,1497,2,12.9,10.1431
+Hyundai,2018,133845,Petrol,Manual,1497,3,22.4,5.7077
+Toyota,2013,101374,Petrol,Manual,1968,1,13.1,8.7078
+Kia,2010,153699,Petrol,Manual,1598,1,20.8,6.812
+Honda,2023,55218,Diesel,Manual,1968,1,20.1,12.3984
+Mahindra,2017,89900,Petrol,Automatic,998,1,20.3,10.6155
+Renault,2015,101423,Petrol,Automatic,796,1,16.2,6.8308
+Mahindra,2014,119536,Diesel,Automatic,1197,2,24.7,8.9842
+Volkswagen,2023,41483,Petrol,Manual,1197,2,17.8,12.9166
+Maruti Suzuki,2015,99662,Petrol,Automatic,1197,3,17.6,5.4435
+Kia,2010,137347,Petrol,Manual,1598,3,20.6,5.907
+Tata,2020,94158,Electric,Manual,0,2,4.0,9.0275
+Mahindra,2016,83895,Petrol,Manual,1197,1,15.7,9.7017
+Honda,2023,54803,Diesel,Automatic,1497,1,21.0,12.5147
+Volkswagen,2018,56043,Petrol,Manual,998,3,13.4,10.5257
+Maruti Suzuki,2023,21045,Diesel,Automatic,796,1,24.3,8.9662
+Toyota,2018,63573,Petrol,Manual,1197,2,11.2,10.5969
+Hyundai,2020,68088,Petrol,Manual,1968,2,18.9,7.9805
+Tata,2022,123225,Diesel,Automatic,1197,2,25.1,7.9189
+Skoda,2010,128920,Petrol,Manual,1197,3,19.1,6.7426
+Skoda,2019,60914,Diesel,Manual,1598,1,13.8,16.4196
+Skoda,2018,148223,Diesel,Automatic,1197,1,17.1,14.1001
+Kia,2010,125488,Petrol,Automatic,1968,2,21.0,7.0551
+Skoda,2010,147895,Diesel,Automatic,998,1,17.6,9.8046
+Mahindra,2019,102132,Diesel,Manual,1497,1,26.9,11.3725
+Volkswagen,2020,76351,Diesel,Automatic,1197,2,21.2,16.26
+Mahindra,2015,204931,Hybrid,Automatic,998,2,25.8,9.1085
+Honda,2010,124042,Petrol,Manual,1968,2,17.1,5.2456
+Tata,2017,74288,Petrol,Manual,998,3,17.7,5.1474
+Honda,2018,62527,Diesel,Manual,1497,2,18.8,10.2314
+Hyundai,2013,131336,Petrol,Automatic,1197,1,20.1,6.5897
+Honda,2011,133128,Petrol,Automatic,2179,1,22.2,6.8547
+Honda,2022,30078,Electric,Manual,0,1,2.6,15.4943
+Renault,2024,79930,CNG,Manual,1197,3,31.7,6.0937
+Hyundai,2019,82362,Petrol,Automatic,998,2,17.9,8.0208
+Toyota,2011,188577,Electric,Manual,0,1,2.2,8.0714
+Maruti Suzuki,2015,104926,CNG,Manual,796,1,29.3,4.864
+Honda,2020,51324,Diesel,Automatic,1497,1,21.2,12.2497
+Mahindra,2010,148488,Petrol,Manual,1197,2,16.9,5.8968
+Honda,2013,107142,Petrol,Manual,998,2,14.2,6.1864
+Maruti Suzuki,2020,52566,Petrol,Automatic,1197,1,20.0,6.9551
+Volkswagen,2011,134690,Hybrid,Manual,1968,2,21.5,10.1335
+Tata,2023,32796,Petrol,Manual,1598,2,24.1,7.5608
+Renault,2013,123167,Petrol,Automatic,1197,3,19.3,4.3455
+Skoda,2011,114537,Diesel,Manual,2179,1,19.4,11.5004
+Volkswagen,2017,217043,Petrol,Manual,1968,1,19.0,10.674
+Maruti Suzuki,2010,238172,CNG,Manual,1197,1,33.3,2.8257
+Maruti Suzuki,2017,113377,CNG,Manual,1197,2,21.8,4.7493
+Tata,2013,117041,CNG,Manual,1197,1,21.3,4.9691
+Honda,2022,52352,Diesel,Manual,1197,4,19.4,9.4785
+Renault,2024,21485,Electric,Automatic,0,2,2.2,13.6564
+Volkswagen,2020,41927,Petrol,Manual,1497,4,14.5,12.3954
+Mahindra,2022,36081,Hybrid,Automatic,2179,1,14.0,19.6132
+Kia,2012,181622,Diesel,Manual,1598,2,18.2,6.5946
+Tata,2020,48991,Petrol,Automatic,1497,1,11.2,9.4533
+Toyota,2016,100841,Hybrid,Manual,2179,1,25.2,14.3077
+Skoda,2022,29328,Petrol,Automatic,998,2,21.7,14.9487
+Mahindra,2020,51117,Petrol,Automatic,1497,1,14.9,12.6889
+Kia,2021,102172,Diesel,Manual,1197,2,20.1,10.4259
+Renault,2013,106557,Petrol,Automatic,1968,1,13.2,5.8463
+Hyundai,2024,31039,Hybrid,Manual,1197,1,16.7,12.8784
+Honda,2011,179298,Petrol,Automatic,1497,3,15.0,5.7745
+Renault,2014,98337,CNG,Manual,1197,3,30.6,4.7748
+Kia,2013,102326,Diesel,Automatic,1197,2,23.0,8.6549
+Maruti Suzuki,2017,117630,Diesel,Automatic,1497,1,19.7,7.5302
+Maruti Suzuki,2015,94357,Petrol,Manual,1598,3,19.7,4.347
+Toyota,2015,82873,Petrol,Manual,1497,3,17.6,7.8177
+Skoda,2013,98417,Diesel,Manual,1197,3,20.6,9.0166
+Maruti Suzuki,2023,39695,Electric,Manual,0,2,3.4,10.6077
+Kia,2013,147653,Petrol,Manual,796,2,19.1,6.6373
+Toyota,2021,65864,Petrol,Manual,2179,2,21.3,13.1799
+Honda,2023,64465,Diesel,Automatic,796,4,19.7,10.0808
+Skoda,2022,34099,Petrol,Automatic,998,1,10.6,16.186
+Mahindra,2021,45420,Petrol,Manual,796,1,15.5,10.8795
+Tata,2013,137688,Petrol,Manual,1197,1,12.9,4.6494
+Honda,2010,134641,Petrol,Automatic,1598,1,17.0,5.6385
+Mahindra,2018,57545,Petrol,Automatic,1497,1,15.2,11.9812
+Kia,2012,118277,Petrol,Manual,2179,1,12.3,8.4146
+Volkswagen,2022,47864,Electric,Automatic,0,2,2.7,20.7461
+Tata,2011,219174,Electric,Automatic,0,4,3.7,4.8745
+Mahindra,2016,110171,Petrol,Manual,796,1,13.0,7.8978
+Tata,2011,121365,Petrol,Manual,998,2,12.8,4.0103
+Volkswagen,2014,98023,Petrol,Manual,1197,1,15.1,8.8497
+Skoda,2024,37888,Electric,Manual,0,1,3.4,24.949
+Maruti Suzuki,2023,16060,Diesel,Automatic,1197,1,17.6,10.7421
+Renault,2012,210894,Petrol,Manual,1497,3,19.1,3.3979
+Mahindra,2023,18926,CNG,Manual,796,1,32.8,9.4797
+Mahindra,2015,91241,Petrol,Automatic,2494,1,18.5,9.5215
+Renault,2012,120686,Diesel,Manual,1598,2,25.2,5.0411
+Hyundai,2020,94261,Petrol,Manual,1497,1,15.0,8.1472
+Renault,2020,66497,Diesel,Automatic,1497,1,20.1,9.1951
+Mahindra,2022,33021,Diesel,Automatic,1197,1,18.1,14.4552
+Honda,2020,64506,Petrol,Automatic,1197,2,12.3,9.4115
+Mahindra,2019,50824,Diesel,Automatic,1197,1,15.4,13.6849
+Tata,2015,96006,CNG,Manual,796,1,31.0,5.1245
+Mahindra,2018,85407,Diesel,Manual,1497,1,15.9,9.8793
+Hyundai,2017,77028,Electric,Automatic,0,2,3.2,9.7262
+Honda,2016,72422,Petrol,Automatic,998,4,10.9,7.3747
+Tata,2015,115852,CNG,Manual,796,2,25.6,4.7043
+Renault,2023,45792,Petrol,Manual,1197,1,16.8,9.0004
+Toyota,2015,81377,Diesel,Manual,1197,1,15.9,9.8033
+Honda,2011,124557,Diesel,Manual,1197,2,16.8,5.6119
+Kia,2011,124932,Petrol,Automatic,1598,1,18.6,8.331
+Honda,2021,47728,Petrol,Automatic,998,2,21.1,11.5776
+Hyundai,2010,122041,Diesel,Manual,2494,2,23.1,5.933
+Volkswagen,2019,53323,Diesel,Manual,1197,1,18.6,13.8168
+Skoda,2021,61689,Electric,Manual,0,1,3.3,21.6372
+Renault,2011,116376,Electric,Automatic,0,1,3.3,7.06
+Toyota,2011,114553,CNG,Manual,796,2,18.6,5.931
+Volkswagen,2012,115510,Diesel,Automatic,1197,2,19.8,10.7555
+Honda,2016,75123,Petrol,Manual,2494,1,13.6,8.8055
+Renault,2010,122094,Hybrid,Manual,998,1,20.3,5.2503
+Volkswagen,2016,83820,Petrol,Manual,2494,1,17.8,12.5191
+Skoda,2012,140122,Petrol,Manual,1968,2,14.8,8.1973
+Maruti Suzuki,2018,135629,Petrol,Manual,1497,3,21.6,4.4033
+Mahindra,2021,40254,Petrol,Manual,1497,1,19.2,10.9555
+Renault,2023,18801,Petrol,Manual,1497,1,16.8,8.2517
+Volkswagen,2017,68480,Diesel,Manual,1197,2,18.0,12.0943
+Renault,2011,182294,Petrol,Automatic,998,2,19.1,4.5712
+Hyundai,2018,101300,Diesel,Manual,1197,3,24.8,7.0866
+Kia,2019,81820,Diesel,Manual,998,1,15.3,11.6915
+Hyundai,2024,44580,Petrol,Manual,1598,1,22.9,11.0015
+Volkswagen,2012,149548,Diesel,Automatic,1497,3,26.6,10.0496
+Honda,2018,69808,Diesel,Manual,1197,2,15.3,8.4433
+Toyota,2024,38773,Petrol,Manual,1497,2,18.3,12.9227
+Skoda,2021,64205,Petrol,Manual,1598,2,12.8,13.0062
+Hyundai,2011,129630,Petrol,Manual,998,1,17.9,4.3514
+Volkswagen,2012,132162,CNG,Manual,796,2,31.3,7.426
+Renault,2015,104333,Hybrid,Automatic,1197,1,23.4,8.18
+Toyota,2024,9510,Petrol,Automatic,1197,1,12.0,17.7135
+Tata,2015,81411,Diesel,Manual,1197,1,16.3,7.2716
+Mahindra,2020,115375,Petrol,Manual,1497,3,13.5,7.7826
+Hyundai,2019,52078,Petrol,Manual,2494,4,18.7,7.201
+Skoda,2020,65204,Diesel,Manual,796,2,22.4,14.869
+Tata,2011,115797,Diesel,Manual,1497,2,20.6,5.0645
+Honda,2013,109380,Petrol,Automatic,1598,2,15.6,6.4258
+Renault,2016,77150,Hybrid,Automatic,1197,1,22.7,8.4048
+Toyota,2024,27064,Petrol,Manual,1497,2,14.9,13.6672
+Honda,2012,151222,CNG,Automatic,998,1,21.3,5.7537
+Toyota,2024,10345,Petrol,Manual,1968,2,13.3,15.7297
+Skoda,2023,45775,Petrol,Manual,1598,2,18.3,16.7991
+Hyundai,2015,103455,Petrol,Manual,2179,3,17.8,6.6921
+Toyota,2014,117583,Petrol,Manual,1197,1,17.1,7.617
+Honda,2011,118347,Diesel,Automatic,1968,2,23.8,8.1135
+Toyota,2014,137491,CNG,Manual,1197,1,28.3,7.0997
+Tata,2011,150744,Petrol,Manual,1497,1,23.8,4.8974
+Honda,2010,192109,Petrol,Automatic,1197,1,19.6,4.9085
+Honda,2022,118740,Diesel,Manual,1598,4,23.1,8.8389
+Renault,2022,33407,Petrol,Manual,1968,1,11.5,9.2706
+Maruti Suzuki,2010,123654,Diesel,Automatic,998,2,16.3,4.5822
+Kia,2013,96300,Petrol,Manual,1497,1,16.6,8.116
+Kia,2016,101525,Diesel,Manual,998,1,19.1,10.8774
+Maruti Suzuki,2024,32057,Hybrid,Automatic,1197,1,27.2,11.6803
+Kia,2013,121736,Hybrid,Automatic,1968,4,20.8,9.2391
+Renault,2014,89701,Diesel,Manual,1197,1,15.6,5.8229
+Skoda,2013,118875,Petrol,Manual,1197,2,15.2,8.6556
+Renault,2016,157317,CNG,Manual,1197,1,28.8,5.1008
+Kia,2022,38379,Electric,Manual,0,1,2.1,18.1839
+Kia,2011,113088,Petrol,Manual,2179,4,11.7,5.7038
+Volkswagen,2018,113302,Petrol,Manual,2179,1,11.5,13.6247
+Tata,2012,118373,Petrol,Manual,1497,1,17.2,5.0417
+Volkswagen,2012,107315,CNG,Automatic,1197,2,30.7,8.5745
+Renault,2014,138340,Petrol,Automatic,1968,2,20.2,5.961
+Honda,2018,56949,Diesel,Manual,2179,1,18.8,10.5733
+Honda,2021,45705,Petrol,Manual,1197,1,15.3,10.2547
+Mahindra,2018,94602,Petrol,Manual,1598,1,12.3,8.9534
+Kia,2018,85174,Petrol,Automatic,1598,1,17.5,12.2854
+Volkswagen,2022,61840,Diesel,Automatic,1497,1,20.2,20.14
+Volkswagen,2019,110658,Petrol,Automatic,1497,1,17.4,13.8754
+Maruti Suzuki,2013,190471,Petrol,Manual,1197,1,20.2,4.3145
+Tata,2021,40754,Petrol,Automatic,1968,2,19.3,9.4951
+Kia,2023,63446,Electric,Manual,0,2,2.5,14.909
+Tata,2014,88937,Electric,Automatic,0,3,2.3,7.7714
+Toyota,2019,55049,Petrol,Manual,1968,2,14.0,11.8628
+Mahindra,2019,95395,Petrol,Manual,998,1,22.7,9.1659
+Honda,2010,124135,Hybrid,Automatic,1197,2,28.4,6.7571
+Toyota,2011,120224,Petrol,Automatic,1197,1,15.6,7.8349
+Toyota,2014,89084,Diesel,Manual,1197,1,18.9,11.157
+Skoda,2012,107558,Petrol,Manual,1497,1,14.6,9.2341
+Tata,2016,80546,Petrol,Manual,998,1,15.0,5.5204
+Kia,2016,179946,Electric,Automatic,0,2,4.2,11.608
+Hyundai,2016,88965,Petrol,Manual,1497,4,16.6,5.3944
+Maruti Suzuki,2024,75874,Petrol,Automatic,1968,3,17.0,7.4806
+Volkswagen,2015,112374,Diesel,Manual,998,1,23.9,11.8928
+Toyota,2016,135461,Petrol,Manual,2179,1,10.3,10.5904
+Kia,2015,105254,CNG,Automatic,1197,2,30.7,7.3823
+Volkswagen,2013,170051,Diesel,Automatic,998,1,23.8,9.7478
+Mahindra,2023,37620,Petrol,Automatic,2179,1,16.1,13.4711
+Mahindra,2014,112673,Petrol,Automatic,998,1,17.9,8.7306
+Tata,2021,83271,Hybrid,Manual,998,1,22.9,8.9879
+Tata,2013,103746,Petrol,Manual,1497,2,19.2,4.6121
+Skoda,2015,85668,Petrol,Manual,1598,1,19.1,11.6485
+Hyundai,2022,146892,CNG,Automatic,796,1,32.3,6.6368
+Maruti Suzuki,2013,102232,Petrol,Manual,796,3,15.5,4.1613
+Hyundai,2010,137761,CNG,Automatic,1197,1,23.2,5.0994
+Mahindra,2010,130948,CNG,Manual,1197,1,23.7,5.2545
+Maruti Suzuki,2017,85662,Petrol,Automatic,1497,2,17.4,5.5237
+Volkswagen,2011,124745,Petrol,Manual,1497,2,17.5,6.9986
+Mahindra,2019,72087,Hybrid,Manual,998,1,27.2,10.925
+Kia,2020,41832,Petrol,Automatic,1197,1,17.3,14.1572
+Volkswagen,2012,106673,Diesel,Automatic,1497,1,18.9,11.3914
+Renault,2019,91354,Diesel,Automatic,1197,1,18.0,8.3527
+Skoda,2014,96195,Diesel,Manual,998,2,21.4,10.163
+Kia,2021,274839,Petrol,Manual,1497,1,16.6,8.163
+Mahindra,2016,84629,Petrol,Manual,1598,2,22.4,9.258
+Volkswagen,2018,90848,Petrol,Manual,1598,2,15.6,12.0452
+Skoda,2022,25214,Petrol,Automatic,1197,3,15.0,13.8499
+Skoda,2024,39394,Petrol,Automatic,1497,2,21.0,15.955
+Skoda,2015,80397,Hybrid,Manual,1197,2,24.7,13.9151
+Kia,2011,113235,Electric,Manual,0,2,2.2,8.0733
+Honda,2013,107012,CNG,Manual,998,2,25.4,5.3891
+Honda,2011,119349,Hybrid,Automatic,2494,3,28.4,8.6005
+Kia,2015,107376,CNG,Automatic,796,2,29.5,7.3834
+Maruti Suzuki,2018,59171,Petrol,Automatic,998,1,15.1,6.5603
+Skoda,2022,35743,Petrol,Automatic,1197,2,14.7,17.8484
+Mahindra,2014,135799,Petrol,Automatic,796,1,18.4,8.2343
+Toyota,2021,132452,Hybrid,Automatic,2179,1,24.4,16.0725
+Toyota,2011,139542,Hybrid,Manual,998,2,28.8,8.3996
+Honda,2011,268988,Petrol,Automatic,1197,2,19.5,4.9528
+Tata,2023,80180,Petrol,Manual,1197,2,16.1,6.9524
+Honda,2016,78702,Petrol,Manual,998,1,18.6,8.5757
+Mahindra,2013,111868,Diesel,Automatic,1497,1,16.6,9.2893
+Maruti Suzuki,2024,45900,Electric,Automatic,0,2,2.9,10.5081
+Skoda,2023,22357,Petrol,Manual,1197,4,14.8,13.3018
+Maruti Suzuki,2019,53243,Petrol,Manual,1197,2,17.5,6.7152
+Volkswagen,2017,82674,Diesel,Automatic,2494,1,23.0,15.9842
+Volkswagen,2014,101473,Petrol,Automatic,1968,1,15.2,13.1508
+Honda,2023,20484,Diesel,Automatic,2179,2,21.0,15.7611
+Honda,2022,62720,Diesel,Manual,998,1,15.0,10.5968
+Toyota,2018,108994,Diesel,Manual,998,1,17.2,12.1692
+Hyundai,2017,72094,Diesel,Automatic,1598,1,17.1,8.9797
+Mahindra,2024,31742,Diesel,Automatic,998,1,20.6,13.7817
+Honda,2010,142694,Petrol,Automatic,1968,1,19.5,7.0974
+Hyundai,2024,15453,Diesel,Manual,1598,2,19.6,11.2398
+Mahindra,2018,94889,Hybrid,Automatic,998,1,28.9,13.8033
+Skoda,2015,133669,Diesel,Automatic,1197,2,23.2,13.0293
+Skoda,2023,37238,Petrol,Manual,1968,1,14.4,16.1636
+Maruti Suzuki,2024,50708,Petrol,Manual,2494,2,21.5,8.4863
+Mahindra,2012,132341,Hybrid,Manual,1497,1,24.0,9.6108
+Tata,2011,213452,Hybrid,Manual,2494,1,26.6,6.182
+Mahindra,2022,67727,Diesel,Manual,2179,1,22.4,15.4234
+Honda,2022,67721,Petrol,Automatic,2179,1,13.0,12.1018
+Honda,2021,89378,Diesel,Manual,1598,1,21.1,11.4742
+Tata,2024,110690,CNG,Manual,796,4,27.7,5.9334
+Maruti Suzuki,2012,121609,Petrol,Manual,1197,1,20.9,4.6508
+Tata,2020,48423,Electric,Manual,0,1,3.9,8.9355
+Honda,2020,54727,Diesel,Automatic,1497,3,20.2,10.7842
+Honda,2013,130342,Diesel,Manual,1497,3,19.2,6.4377
+Renault,2017,68066,Petrol,Automatic,1497,1,22.9,8.2331
+Volkswagen,2022,53496,Petrol,Manual,1197,3,20.1,12.1749
+Maruti Suzuki,2020,42805,Petrol,Automatic,1598,4,22.8,6.7623
+Toyota,2012,148572,Petrol,Manual,998,1,20.0,6.8311
+Hyundai,2013,162245,Diesel,Automatic,1598,4,18.7,5.8158
+Renault,2017,93714,Diesel,Manual,998,1,24.8,7.4072
+Kia,2015,96527,Petrol,Manual,1197,2,20.7,7.4692
+Skoda,2019,80500,Petrol,Automatic,1497,1,15.2,15.0466
+Skoda,2019,81180,Petrol,Manual,1497,1,17.7,12.9996
+Mahindra,2019,79233,Petrol,Automatic,2494,3,19.5,11.4973
+Tata,2022,38578,Diesel,Automatic,1497,4,15.3,8.93
+Toyota,2012,105812,Hybrid,Manual,1197,1,22.1,9.0769
+Volkswagen,2017,108440,Diesel,Manual,796,1,18.6,12.089
+Skoda,2012,174744,Diesel,Automatic,1497,1,20.4,10.3755
+Mahindra,2019,66670,CNG,Manual,796,2,33.7,8.0983
+Mahindra,2010,139443,Petrol,Automatic,1497,2,12.3,5.9925
+Hyundai,2024,24904,Petrol,Manual,998,3,13.3,8.7441
+Maruti Suzuki,2015,97178,Diesel,Automatic,1497,2,17.1,5.5678
+Tata,2016,78478,Electric,Manual,0,2,3.4,7.8751
+Maruti Suzuki,2016,116254,Petrol,Automatic,1497,1,14.8,6.6188
+Kia,2011,130285,Electric,Automatic,0,3,2.3,7.4801
+Kia,2021,37243,Electric,Manual,0,2,3.6,13.9681
+Kia,2017,85847,Petrol,Manual,1197,1,12.1,8.6462
+Renault,2024,8735,Petrol,Automatic,1598,2,14.4,10.857
+Honda,2010,183901,Diesel,Manual,1497,2,16.5,5.6624
+Tata,2013,127676,Petrol,Manual,1968,2,15.5,5.4951
+Hyundai,2016,94462,Petrol,Manual,1197,1,19.2,7.2915
+Mahindra,2015,97652,Petrol,Manual,1197,2,16.0,7.9876
+Mahindra,2016,72365,Petrol,Automatic,1598,1,12.5,9.5811
+Hyundai,2020,52731,Petrol,Manual,998,1,22.0,8.5677
+Honda,2013,137519,Diesel,Manual,1497,3,19.7,6.647
+Mahindra,2013,117424,Diesel,Manual,2179,1,20.6,8.8347
+Toyota,2010,120131,Petrol,Manual,1197,1,12.7,7.715
+Hyundai,2023,71580,Petrol,Automatic,1497,1,13.5,11.2766
+Volkswagen,2015,93584,Hybrid,Automatic,1497,1,25.6,15.6363
+Volkswagen,2024,39938,Petrol,Automatic,1197,1,24.1,16.2293
+Tata,2019,104172,Petrol,Manual,2179,1,18.3,7.0117
+Maruti Suzuki,2022,116447,Petrol,Automatic,998,1,16.5,6.9756
+Honda,2011,125114,Petrol,Manual,1197,1,13.0,5.2569
+Mahindra,2013,137100,Hybrid,Automatic,1197,2,25.2,8.9251
+Volkswagen,2015,118134,Petrol,Automatic,1968,2,19.1,12.2551
+Honda,2019,69817,Petrol,Manual,1197,2,22.1,8.7111
+Toyota,2019,82439,Electric,Automatic,0,4,3.8,13.1474
+Hyundai,2016,94193,Petrol,Manual,1968,1,21.0,7.6126
+Maruti Suzuki,2016,90229,Hybrid,Manual,1197,1,20.3,7.0102
+Mahindra,2017,65499,CNG,Manual,1197,2,32.4,8.3357
+Mahindra,2023,34848,Petrol,Automatic,1598,1,16.0,15.2104
+Maruti Suzuki,2015,114886,Petrol,Automatic,1598,2,11.2,5.3671
+Tata,2014,183518,Diesel,Automatic,1968,2,19.2,5.9491
+Tata,2024,51089,CNG,Manual,998,1,25.9,8.5926
+Mahindra,2012,108162,Petrol,Automatic,796,2,18.5,7.4004
+Kia,2018,66522,Petrol,Manual,2494,2,19.1,10.0028
+Tata,2010,158890,Petrol,Manual,1598,1,14.9,4.2281
+Honda,2021,63371,Electric,Automatic,0,2,2.6,12.16
+Skoda,2023,64416,Hybrid,Automatic,998,4,21.3,16.51
+Maruti Suzuki,2021,105972,Petrol,Manual,1197,3,12.0,6.2041
+Kia,2013,97345,CNG,Automatic,1197,1,34.5,7.3467
+Volkswagen,2015,96160,Electric,Manual,0,1,3.0,15.4489
+Mahindra,2010,160628,Diesel,Automatic,1598,2,17.9,7.6029
+Hyundai,2024,66574,CNG,Automatic,796,1,30.4,8.4833
+Toyota,2023,83867,Diesel,Automatic,1197,2,19.2,15.2341
+Toyota,2023,16169,Diesel,Manual,1197,1,24.0,17.7916
+Renault,2017,77285,Diesel,Manual,1197,1,22.4,7.3159
+Maruti Suzuki,2017,115035,Petrol,Automatic,1598,1,16.4,6.1943
+Renault,2010,125336,Petrol,Automatic,796,1,17.9,4.581
+Hyundai,2019,99709,Hybrid,Manual,998,1,22.8,10.0312
+Skoda,2021,58152,Electric,Manual,0,1,2.7,21.5277
+Honda,2011,116684,Petrol,Manual,796,2,19.3,5.3151
+Tata,2020,88118,Diesel,Manual,998,2,15.9,7.5228
+Mahindra,2023,83655,Diesel,Automatic,1968,1,18.1,16.1187
+Skoda,2016,84938,Diesel,Automatic,1497,2,19.4,13.462
+Mahindra,2022,45250,Petrol,Manual,1598,2,14.0,10.7714
+Honda,2011,132308,Electric,Automatic,0,3,4.4,7.3969
+Tata,2014,97712,Petrol,Automatic,1968,2,19.2,6.0572
+Tata,2017,69612,Hybrid,Automatic,1497,1,21.9,8.7267
+Mahindra,2021,110993,Diesel,Manual,998,1,18.8,11.2651
+Hyundai,2018,56741,CNG,Automatic,1197,1,28.2,7.1788
+Mahindra,2019,57941,Petrol,Automatic,1598,2,20.4,11.8428
+Tata,2019,96431,Petrol,Automatic,2494,1,15.0,9.0317
+Maruti Suzuki,2019,218527,Electric,Manual,0,1,3.6,6.3631
+Hyundai,2014,207733,Hybrid,Manual,1497,1,24.1,7.1254
+Volkswagen,2021,49124,Petrol,Manual,1968,3,14.7,13.6442
+Kia,2019,59328,Electric,Manual,0,1,3.8,13.1175
+Kia,2024,36592,Petrol,Manual,998,1,19.0,12.1804
+Honda,2022,45916,Petrol,Manual,998,2,14.2,10.4131
+Toyota,2017,101697,Hybrid,Manual,796,4,23.6,8.6632
+Skoda,2023,20299,Petrol,Manual,998,1,16.8,15.417
+Mahindra,2019,49341,Diesel,Manual,1598,3,21.3,10.1785
+Kia,2015,89083,Hybrid,Automatic,1197,2,26.8,10.3138
+Hyundai,2020,50236,Diesel,Automatic,1968,1,24.1,11.6351
+Honda,2023,28146,Petrol,Manual,998,1,21.2,10.3352
+Honda,2015,82205,Diesel,Automatic,1598,1,16.2,9.4714
+Skoda,2023,24659,Petrol,Manual,1197,2,21.5,16.1866
+Honda,2013,106664,Petrol,Manual,1197,2,24.6,6.0094
+Toyota,2011,130320,Electric,Manual,0,1,2.4,10.2747
+Kia,2020,70321,Diesel,Automatic,1197,1,26.7,15.3937
+Toyota,2018,64402,Diesel,Manual,998,1,18.0,13.3392
+Toyota,2011,122578,Petrol,Automatic,2494,1,18.7,9.0404
+Tata,2019,109082,Petrol,Manual,1497,1,21.0,6.9315
+Mahindra,2019,108728,Petrol,Automatic,1497,1,13.7,11.2045
+Kia,2014,88562,Diesel,Manual,1197,2,20.0,9.7404
+Maruti Suzuki,2010,134372,Diesel,Automatic,998,1,21.3,4.1289
+Honda,2010,154855,Petrol,Manual,1598,1,18.0,5.2289
+Hyundai,2023,69023,Diesel,Manual,1497,1,19.5,10.7691
+Toyota,2015,96893,Diesel,Manual,1197,4,20.7,8.1622
+Mahindra,2016,172093,Diesel,Manual,1497,1,18.5,8.0942
+Volkswagen,2021,46971,CNG,Automatic,796,1,27.8,13.6372
+Mahindra,2010,186108,Diesel,Automatic,1197,1,15.3,7.0661
+Mahindra,2019,49617,Diesel,Automatic,1497,4,19.3,10.5265
+Skoda,2023,26520,Petrol,Manual,1197,1,18.2,16.0747
+Mahindra,2024,86494,Petrol,Manual,1598,1,19.1,10.7849
+Skoda,2017,134620,Electric,Manual,0,2,3.7,14.4506
+Skoda,2023,37457,Petrol,Manual,1497,2,14.9,15.7246
+Hyundai,2012,111415,Diesel,Automatic,1197,2,17.3,5.5513
+Maruti Suzuki,2023,142182,Diesel,Manual,1497,1,22.6,6.9523
+Hyundai,2022,37333,Petrol,Manual,1197,2,21.3,9.1797
+Maruti Suzuki,2024,65770,Petrol,Automatic,1497,1,16.2,9.2402
+Toyota,2023,156409,Petrol,Manual,1197,1,21.2,11.8739
+Maruti Suzuki,2014,90209,Electric,Automatic,0,1,2.4,6.4871
+Kia,2022,105344,Petrol,Manual,998,1,16.2,10.4171
+Toyota,2022,53054,CNG,Automatic,796,1,31.2,13.0725
+Skoda,2015,83266,Petrol,Manual,796,2,16.9,9.2613
+Skoda,2015,137076,Diesel,Manual,2494,2,20.9,11.238
+Honda,2011,119344,Petrol,Manual,1598,1,17.9,5.6261
+Hyundai,2016,133262,Petrol,Manual,1197,1,19.9,6.7913
+Tata,2017,125543,Petrol,Automatic,1197,1,18.7,7.3621
+Honda,2010,184992,Petrol,Manual,2179,1,16.9,5.4549
+Toyota,2023,25652,Electric,Manual,0,3,2.3,17.1862
+Kia,2019,62268,CNG,Manual,998,2,23.8,9.3251
+Honda,2016,99924,CNG,Manual,1197,4,28.8,5.1078
+Maruti Suzuki,2010,189984,CNG,Automatic,1197,1,28.7,3.1844
+Tata,2012,154645,Diesel,Manual,1497,2,16.8,4.9985
+Toyota,2020,81586,Petrol,Automatic,2179,1,14.9,13.4412
+Hyundai,2022,113160,Electric,Manual,0,2,2.6,10.3795
+Honda,2010,130859,Petrol,Manual,2179,3,10.7,5.1558
+Kia,2013,103854,Diesel,Manual,1197,2,20.3,8.0116
+Tata,2023,22335,Petrol,Manual,1598,3,13.9,6.9896
+Skoda,2022,70175,Petrol,Manual,1497,1,15.4,14.1923
+Hyundai,2022,91522,Petrol,Manual,1968,2,14.0,7.6129
+Volkswagen,2010,186435,CNG,Automatic,998,1,31.2,6.5122
+Mahindra,2014,155746,Diesel,Automatic,2494,2,20.2,10.102
+Toyota,2013,121411,CNG,Manual,1197,1,26.7,6.6564
+Hyundai,2023,32068,Petrol,Automatic,1598,1,12.2,11.7083
+Skoda,2015,104928,Diesel,Automatic,1598,1,18.4,15.5032
+Hyundai,2013,183787,Petrol,Automatic,796,2,11.0,5.4477
+Volkswagen,2011,137696,CNG,Automatic,998,2,30.6,7.8366
+Mahindra,2020,56953,Petrol,Manual,1598,4,13.8,7.7946
+Mahindra,2017,88588,Hybrid,Manual,1197,3,19.0,9.7552
+Maruti Suzuki,2016,92072,Hybrid,Automatic,1968,1,22.7,8.9621
+Kia,2017,119955,Hybrid,Automatic,1497,3,28.6,10.1118
+Hyundai,2019,62671,Petrol,Manual,1968,2,15.8,8.8673
+Kia,2014,110367,Diesel,Automatic,2179,3,16.0,9.6202
+Hyundai,2018,60861,Petrol,Automatic,2494,1,14.9,9.2449
+Mahindra,2024,88444,Electric,Manual,0,1,2.5,16.0947
+Mahindra,2013,126821,Hybrid,Manual,998,1,20.4,9.031
+Volkswagen,2016,142056,CNG,Manual,998,1,33.9,9.1204
+Tata,2015,88040,Electric,Automatic,0,1,3.9,9.3703
+Tata,2016,78030,Diesel,Manual,1197,1,18.0,7.1475
+Honda,2020,55285,Petrol,Manual,2179,1,22.4,11.2203
+Maruti Suzuki,2015,80432,CNG,Manual,796,1,31.3,4.2139
+Kia,2017,147291,Electric,Manual,0,1,4.0,12.5163
+Toyota,2022,34909,Petrol,Manual,998,1,22.6,12.2775
+Honda,2013,117426,Electric,Automatic,0,1,4.2,9.441
+Hyundai,2019,50708,Diesel,Automatic,1497,3,21.4,8.2517
+Mahindra,2017,76279,Diesel,Automatic,1598,1,14.6,12.7082
+Toyota,2019,101980,Diesel,Manual,998,3,23.2,11.0252
+Mahindra,2020,63253,Diesel,Automatic,1197,1,19.8,14.0605
+Toyota,2023,69727,Diesel,Manual,1497,2,19.0,13.6106
+Mahindra,2021,36128,Hybrid,Manual,796,2,22.8,14.1055
+Mahindra,2018,83156,Diesel,Manual,1968,1,18.4,11.702
+Mahindra,2012,154330,CNG,Manual,1197,1,24.4,5.6511
+Maruti Suzuki,2018,61904,Petrol,Automatic,2179,1,19.5,6.9135
+Tata,2012,113196,Hybrid,Automatic,998,2,19.2,6.6985
+Mahindra,2020,96799,Diesel,Manual,998,1,23.7,12.1813
+Renault,2015,80205,Petrol,Manual,1197,2,15.2,5.3312
+Mahindra,2022,37441,Diesel,Automatic,1197,2,19.1,13.8032
+Renault,2016,84584,Electric,Manual,0,3,2.1,6.2515
+Volkswagen,2023,32178,Electric,Manual,0,1,2.3,22.4452
+Toyota,2021,48678,Diesel,Manual,2179,2,17.7,15.9817
+Skoda,2019,95387,Petrol,Manual,1598,2,15.1,14.0663
+Mahindra,2016,150372,Petrol,Manual,1968,2,18.3,7.9535
+Tata,2010,148190,Petrol,Manual,796,3,17.9,3.5222
+Renault,2013,105348,Electric,Manual,0,1,2.5,6.5548
+Hyundai,2013,98325,Petrol,Manual,998,3,19.6,5.2852
+Tata,2024,40107,Petrol,Automatic,1968,2,17.7,9.3239
+Hyundai,2022,25202,Electric,Automatic,0,2,3.8,12.9708
+Toyota,2010,152854,Petrol,Automatic,2179,1,19.9,8.112
+Tata,2016,83482,Petrol,Manual,1968,1,22.5,6.4216
+Toyota,2015,95573,Petrol,Manual,1497,2,21.5,7.9213
+Skoda,2015,111125,Petrol,Manual,1197,1,19.4,10.0248
+Kia,2021,59994,Petrol,Manual,1497,4,17.6,9.3436
+Hyundai,2024,52106,Electric,Automatic,0,1,2.7,12.8101
+Mahindra,2024,21149,Petrol,Automatic,2179,1,14.3,16.1967
+Hyundai,2014,118707,Diesel,Manual,1197,1,21.4,5.9369
+Kia,2010,121377,Petrol,Manual,1598,2,11.1,6.3638
+Toyota,2016,85736,Petrol,Automatic,1197,4,23.3,7.883
+Volkswagen,2019,49732,Petrol,Automatic,1197,1,18.2,14.9539
+Tata,2021,50473,Diesel,Automatic,796,1,17.8,10.4659
+Tata,2011,152652,Petrol,Manual,1598,1,19.6,4.2098
+Tata,2013,111748,Petrol,Automatic,1197,2,20.0,4.9555
+Volkswagen,2010,133585,Petrol,Automatic,1497,1,19.7,8.6581
+Hyundai,2012,121253,Diesel,Manual,998,1,26.4,5.8128
+Hyundai,2021,32885,Electric,Automatic,0,2,3.0,13.3413
+Mahindra,2012,118888,Hybrid,Automatic,1968,2,24.9,10.4207
+Renault,2021,33589,Electric,Manual,0,1,2.9,9.7532
+Renault,2012,139685,Electric,Manual,0,1,2.0,6.4201
+Skoda,2013,104579,CNG,Manual,796,1,27.7,7.9069
+Skoda,2018,85329,Diesel,Manual,1197,4,23.3,10.9972
+Maruti Suzuki,2013,111567,Petrol,Automatic,998,1,14.8,4.4702
+Skoda,2017,117194,Petrol,Manual,1497,1,14.2,12.2184
+Volkswagen,2018,65891,Hybrid,Automatic,2494,2,21.9,18.6694
+Skoda,2012,205421,Petrol,Manual,1598,1,17.7,7.7676
+Kia,2018,67209,Petrol,Manual,1197,1,19.9,9.8936
+Tata,2022,46669,Diesel,Manual,1497,4,16.3,7.6008
+Renault,2021,54887,CNG,Manual,1197,1,28.2,7.0138
+Mahindra,2011,127490,Petrol,Automatic,1497,2,20.1,6.6512
+Maruti Suzuki,2012,117198,Diesel,Automatic,998,1,17.4,4.716
+Honda,2018,75408,Petrol,Automatic,1197,1,16.0,10.1234
+Renault,2023,19904,Petrol,Automatic,998,1,14.0,9.7442
+Honda,2017,111538,Electric,Manual,0,1,3.4,9.4864
+Tata,2011,132206,Petrol,Automatic,1197,1,18.7,4.4979
+Kia,2017,114404,Diesel,Manual,1197,1,20.6,9.4875
+Maruti Suzuki,2013,115561,Diesel,Manual,1968,1,21.2,5.3151
+Toyota,2012,132944,Petrol,Automatic,998,3,15.9,6.7314
+Hyundai,2014,122866,Petrol,Automatic,998,1,16.2,6.882
+Toyota,2014,119875,CNG,Manual,998,1,31.9,7.8166
+Honda,2024,15794,CNG,Manual,796,4,32.6,9.1415
+Honda,2017,154479,Hybrid,Manual,2179,1,24.4,10.7718
+Hyundai,2023,25971,Petrol,Manual,1968,1,18.2,10.2085
+Volkswagen,2011,147094,Electric,Automatic,0,1,2.7,11.3518
+Volkswagen,2023,22556,CNG,Manual,1197,1,34.9,15.6051
+Kia,2021,83262,Petrol,Manual,998,1,15.5,12.189
+Mahindra,2022,55738,Diesel,Automatic,1968,3,22.5,12.8093
+Tata,2020,78159,Diesel,Automatic,1598,1,22.3,9.5563
+Hyundai,2014,153540,Hybrid,Automatic,998,1,28.6,7.4037
+Honda,2015,82349,Petrol,Automatic,1497,2,17.7,8.4153
+Tata,2022,50958,CNG,Automatic,1197,1,25.2,8.1595
+Volkswagen,2014,120146,Petrol,Automatic,1968,1,11.0,10.4663
+Maruti Suzuki,2015,158278,Petrol,Automatic,998,3,18.3,4.2645
+Renault,2016,82445,Petrol,Automatic,1497,4,19.4,5.3922
+Volkswagen,2012,115351,Diesel,Automatic,1197,1,17.8,9.5594
+Kia,2023,38103,CNG,Manual,998,1,29.5,11.0828
+Toyota,2016,109108,Petrol,Manual,1497,3,19.0,9.1171
+Honda,2019,60337,Electric,Manual,0,3,2.4,11.0165
+Hyundai,2017,142083,CNG,Automatic,796,1,28.7,6.5527
+Kia,2010,174126,Petrol,Automatic,1968,1,14.5,6.448
+Toyota,2024,153867,Diesel,Automatic,1598,2,17.3,14.3691
+Volkswagen,2018,70655,Diesel,Automatic,2494,3,23.1,15.6876
+Mahindra,2018,152646,Petrol,Manual,998,2,18.8,7.8925
+Mahindra,2017,79532,Petrol,Automatic,1598,1,22.3,11.6069
+Maruti Suzuki,2017,93902,Diesel,Automatic,796,3,18.1,5.2877
+Maruti Suzuki,2018,64994,Petrol,Automatic,1598,3,19.1,6.6303
+Volkswagen,2010,126488,Electric,Manual,0,2,3.7,8.8281
+Tata,2010,136269,Petrol,Automatic,998,1,17.8,4.654
+Renault,2021,105149,Petrol,Automatic,1497,1,17.6,7.3564
+Honda,2019,63887,Petrol,Manual,998,1,21.3,8.6216
+Hyundai,2016,77780,Petrol,Manual,1197,1,12.6,6.699
+Kia,2012,104622,Petrol,Automatic,1598,1,20.1,9.0906
+Hyundai,2024,9568,Petrol,Manual,1497,1,19.7,10.4901
+Skoda,2016,88500,Diesel,Manual,796,1,22.3,12.8694
+Toyota,2024,67894,Diesel,Manual,998,1,17.3,16.082
+Volkswagen,2011,177047,Petrol,Manual,1197,3,15.0,6.8303
+Honda,2024,25325,Diesel,Automatic,1197,3,23.0,13.9605
+Volkswagen,2024,32883,Petrol,Automatic,1598,2,21.0,15.3844
+Hyundai,2022,60078,Diesel,Automatic,1497,1,15.7,11.9175
+Volkswagen,2016,168580,Diesel,Manual,1197,3,16.7,9.3894
+Hyundai,2023,43062,Petrol,Manual,1968,1,18.1,9.2923
+Toyota,2018,91113,Diesel,Manual,998,2,21.7,9.6428
+Honda,2016,92729,CNG,Automatic,796,1,26.3,8.3961
+Kia,2011,117106,Petrol,Manual,1968,1,18.4,8.3203
+Skoda,2011,141737,CNG,Automatic,998,3,31.1,7.2939
+Skoda,2016,74847,Petrol,Automatic,1497,1,19.7,13.0444
+Maruti Suzuki,2022,61314,Diesel,Manual,998,1,20.5,8.2069
+Tata,2014,100294,CNG,Automatic,1197,1,23.2,5.5871
+Tata,2023,26170,Petrol,Automatic,1598,1,14.5,9.1421
+Maruti Suzuki,2013,142315,Petrol,Manual,998,2,11.9,4.461
+Hyundai,2019,60689,Diesel,Automatic,998,1,22.8,8.7971
+Toyota,2014,96560,Petrol,Automatic,1968,1,10.6,11.5586
+Toyota,2010,167157,Diesel,Manual,1197,1,17.9,6.9364
+Honda,2023,27713,Petrol,Automatic,1497,1,13.8,12.116
+Toyota,2010,126951,Diesel,Manual,998,1,18.1,8.3894
+Volkswagen,2014,147546,Diesel,Manual,1197,3,20.8,8.4752
+Tata,2014,91479,Petrol,Automatic,1197,1,18.3,6.5642
+Honda,2015,80394,Electric,Automatic,0,1,3.4,11.2201
+Tata,2011,122999,Petrol,Manual,2494,1,21.2,5.0709
+Mahindra,2023,40791,Hybrid,Manual,2179,2,27.3,17.0662
+Mahindra,2022,70899,Petrol,Automatic,1197,2,19.5,10.6258
+Maruti Suzuki,2014,112512,Diesel,Manual,1598,1,15.6,5.5693
+Honda,2022,50416,Electric,Automatic,0,2,4.3,15.2051
+Honda,2023,84140,Electric,Automatic,0,1,3.4,16.4558
+Kia,2023,24899,Petrol,Manual,1497,1,13.9,12.3549
+Honda,2014,98464,Petrol,Manual,1497,1,21.5,8.1074
+Maruti Suzuki,2022,26047,Petrol,Automatic,796,1,18.7,8.3566
+Hyundai,2012,121886,Diesel,Manual,1197,1,17.6,5.531
+Toyota,2015,113236,Diesel,Automatic,2179,2,14.8,12.202
+Hyundai,2021,48049,Diesel,Manual,1197,3,15.7,7.957
+Volkswagen,2017,82871,Electric,Automatic,0,1,3.2,15.5528
+Hyundai,2012,107191,Petrol,Automatic,998,1,13.2,6.5311
+Kia,2014,145039,CNG,Manual,998,1,29.8,6.1078
+Mahindra,2019,49195,Petrol,Manual,998,3,13.3,8.6248
+Maruti Suzuki,2020,96210,Diesel,Manual,1968,1,25.7,8.1699
+Kia,2017,73887,Diesel,Automatic,1497,1,20.1,11.3694
+Mahindra,2022,40571,Electric,Manual,0,2,2.4,13.0232
+Tata,2015,85742,Diesel,Automatic,998,1,21.2,6.3235
+Hyundai,2012,111485,Hybrid,Manual,1197,2,27.4,6.7244
+Kia,2021,64035,CNG,Automatic,998,3,28.5,9.243
+Volkswagen,2018,133471,Petrol,Manual,1598,2,17.2,11.5823
+Skoda,2016,79010,Diesel,Automatic,796,2,14.9,11.5388
+Honda,2024,50649,Electric,Manual,0,1,2.4,15.7241
+Toyota,2010,159736,Petrol,Automatic,1968,1,21.8,6.9931
+Maruti Suzuki,2021,65192,Hybrid,Manual,1497,1,21.2,9.9016
+Maruti Suzuki,2024,27393,Hybrid,Manual,1197,1,22.3,10.4933
+Maruti Suzuki,2013,99312,CNG,Manual,998,1,35.0,4.4362
+Volkswagen,2014,110997,Diesel,Manual,2494,3,24.9,11.1719
+Honda,2010,121884,Electric,Manual,0,1,3.9,7.8046
+Skoda,2010,130570,Petrol,Manual,998,4,18.0,6.9264
+Kia,2013,155164,Petrol,Manual,998,4,16.7,5.0311
+Renault,2022,42034,Petrol,Automatic,1598,1,18.0,10.0116
+Hyundai,2024,90855,Petrol,Manual,1197,4,21.7,6.3745
+Mahindra,2017,110273,Petrol,Automatic,1497,4,13.7,7.3195
+Kia,2015,103777,Electric,Automatic,0,1,4.4,12.4784
+Mahindra,2021,62343,Petrol,Automatic,1197,1,15.9,12.7138
+Mahindra,2013,101954,Petrol,Automatic,1497,1,18.2,7.7214
+Toyota,2010,139362,Petrol,Manual,1968,2,12.5,7.0485
+Honda,2019,48858,Diesel,Manual,1497,1,24.3,10.6285
+Skoda,2011,138798,CNG,Manual,796,1,34.4,7.4065
+Tata,2019,118223,Petrol,Automatic,998,1,22.9,7.2844
+Kia,2011,128851,Electric,Automatic,0,1,3.5,9.8219
+Hyundai,2010,120962,Petrol,Manual,796,1,12.4,4.6916
+Hyundai,2017,110151,Petrol,Manual,796,2,18.8,5.8563
+Tata,2024,33248,Hybrid,Manual,1197,2,26.6,10.7492
+Hyundai,2013,132508,Diesel,Automatic,998,1,22.6,7.1369
+Toyota,2022,85648,Petrol,Manual,1197,3,16.4,11.6724
+Tata,2020,61747,Diesel,Manual,998,2,20.2,8.475
+Kia,2017,82957,Hybrid,Manual,998,1,22.3,10.7778
+Toyota,2013,96781,Hybrid,Manual,2494,2,27.0,11.0807
+Maruti Suzuki,2017,91061,Petrol,Automatic,1197,1,17.2,6.1347
+Toyota,2014,95279,Petrol,Manual,998,1,16.7,9.4921
+Mahindra,2020,48772,Diesel,Automatic,1197,1,19.0,14.2203
+Mahindra,2010,124910,Petrol,Automatic,2179,2,18.4,7.252
+Mahindra,2010,185121,CNG,Automatic,998,3,28.7,4.0305
+Kia,2024,20740,Petrol,Manual,1197,2,14.4,11.885
+Maruti Suzuki,2024,9876,Diesel,Manual,998,1,18.4,8.9771
+Maruti Suzuki,2017,69307,Diesel,Manual,1497,2,17.7,6.4536
+Hyundai,2013,100610,Hybrid,Manual,1598,1,29.0,6.6858
+Mahindra,2022,32474,Hybrid,Automatic,1497,3,22.1,15.8967
+Tata,2016,93621,Electric,Manual,0,2,2.6,7.9872
+Mahindra,2022,78704,Petrol,Manual,2179,3,18.3,9.6382
+Kia,2019,93822,Petrol,Manual,1197,3,11.7,9.6597
+Toyota,2012,121024,Petrol,Manual,2494,1,16.8,9.066
+Toyota,2019,58041,Petrol,Automatic,1197,1,21.5,13.6212
+Kia,2024,27378,Diesel,Manual,1197,1,19.6,16.4899
+Maruti Suzuki,2023,18217,Hybrid,Automatic,1197,3,21.2,9.6101
+Tata,2016,79758,Hybrid,Manual,1598,2,21.4,8.0154
+Mahindra,2021,100528,Diesel,Manual,1197,2,19.8,10.7006
+Mahindra,2017,70639,Diesel,Automatic,1197,2,24.7,9.3261
+Hyundai,2022,90846,Petrol,Manual,1197,3,14.7,7.5602
+Renault,2010,136172,Petrol,Manual,1497,1,25.7,4.6575
+Maruti Suzuki,2015,118064,Petrol,Automatic,1497,2,14.8,5.1146
+Honda,2015,117431,CNG,Manual,1197,1,24.7,6.7894
+Volkswagen,2017,68344,Petrol,Manual,2179,3,20.6,12.0864
+Maruti Suzuki,2011,210312,CNG,Manual,796,2,31.4,2.8833
+Volkswagen,2014,100916,Electric,Manual,0,1,2.9,12.5579
+Hyundai,2011,117200,Petrol,Automatic,2179,1,14.8,6.6036
+Tata,2018,153013,Petrol,Manual,1497,2,18.7,5.3727
+Toyota,2017,79113,Petrol,Automatic,1497,1,20.3,10.7592
+Toyota,2021,81281,Petrol,Manual,1197,1,22.4,10.7176
+Renault,2010,131954,Petrol,Automatic,1197,1,25.3,5.0072
+Renault,2024,13876,Petrol,Automatic,1598,3,14.1,8.1488
+Renault,2019,108921,Petrol,Manual,1197,1,18.5,6.9638
+Volkswagen,2015,99682,CNG,Manual,796,1,25.3,8.6279
+Honda,2012,140699,Petrol,Manual,2179,1,17.8,6.8319
+Honda,2010,127860,Petrol,Manual,1197,2,11.8,5.1894
+Volkswagen,2012,110836,Petrol,Automatic,1598,1,15.0,10.8437
+Maruti Suzuki,2022,43852,CNG,Manual,796,2,25.4,6.1962
+Maruti Suzuki,2012,125963,Petrol,Manual,2494,2,13.6,4.0489
+Mahindra,2010,128142,CNG,Automatic,1197,4,23.5,4.9703
+Maruti Suzuki,2013,109561,Diesel,Manual,2179,3,22.4,5.2803
+Skoda,2023,74117,Petrol,Manual,2494,2,16.5,16.6678
+Honda,2011,132684,CNG,Automatic,998,1,31.9,5.1799
+Renault,2012,117821,Petrol,Automatic,1497,1,19.6,4.9736
+Mahindra,2020,43928,Petrol,Automatic,1497,1,16.5,12.2634
+Mahindra,2020,46518,Petrol,Automatic,1197,2,14.6,11.3643
+Maruti Suzuki,2013,148630,Diesel,Automatic,1497,1,24.0,5.154
+Renault,2010,151200,Diesel,Manual,1197,1,21.5,4.3902
+Hyundai,2020,45178,Petrol,Automatic,998,3,13.0,8.4951
+Skoda,2022,51475,Petrol,Automatic,1197,2,11.4,16.0451
+Skoda,2011,131785,Hybrid,Manual,998,2,15.5,9.7386
+Kia,2010,188776,Petrol,Automatic,1197,3,21.4,5.472
+Skoda,2020,123794,Hybrid,Manual,998,2,19.9,13.1799
+Maruti Suzuki,2024,18114,Petrol,Manual,1968,1,13.9,9.5469
+Tata,2014,110429,Petrol,Manual,1497,2,12.1,5.5817
+Toyota,2011,263380,Electric,Manual,0,4,2.4,6.2765
+Honda,2012,124774,Diesel,Manual,2179,2,18.2,6.8229
+Renault,2019,214520,Petrol,Manual,998,3,21.5,4.6153
+Kia,2019,76694,Diesel,Automatic,1197,2,13.6,11.3748
+Tata,2013,132269,Petrol,Automatic,1968,1,16.6,5.3572
+Mahindra,2016,96781,Hybrid,Manual,1968,2,23.2,11.3395
+Toyota,2019,81971,Diesel,Automatic,1197,1,17.3,12.8487
+Toyota,2023,63733,Petrol,Automatic,796,2,18.7,14.4088
+Kia,2016,132677,Petrol,Automatic,1598,1,19.5,11.0512
+Honda,2023,48895,Petrol,Manual,998,1,22.8,11.5953
+Hyundai,2020,53241,Petrol,Manual,1197,1,16.0,7.9641
+Renault,2017,70342,Petrol,Manual,998,2,17.5,5.4475
+Honda,2023,38768,Electric,Manual,0,1,4.5,15.125
+Honda,2018,139606,Hybrid,Manual,1497,1,24.6,9.9439
+Skoda,2022,44880,Hybrid,Manual,1497,1,23.9,21.7627
+Renault,2012,127796,Petrol,Automatic,1197,1,19.5,5.7664
+Tata,2010,244548,Diesel,Automatic,796,1,13.6,4.2323
+Toyota,2014,120838,Petrol,Automatic,2179,2,20.8,9.0177
+Hyundai,2013,120053,Petrol,Manual,1197,1,20.4,5.195
+Tata,2024,15468,CNG,Automatic,1197,4,24.4,7.1259
+Maruti Suzuki,2017,107801,Hybrid,Manual,1197,1,23.5,7.3628
+Maruti Suzuki,2021,45226,Petrol,Automatic,998,2,12.2,7.9705
+Volkswagen,2015,138417,Petrol,Manual,1497,2,14.7,10.1632
+Maruti Suzuki,2017,75306,Hybrid,Manual,1197,2,19.6,6.2335
+Maruti Suzuki,2012,105845,Diesel,Manual,796,2,14.1,4.4324
+Kia,2017,70658,Petrol,Manual,2494,1,18.5,10.4192
+Honda,2024,28603,Diesel,Manual,1497,2,24.0,11.2352
+Volkswagen,2012,166133,CNG,Manual,998,2,33.0,6.1307
+Toyota,2014,131149,Petrol,Manual,2179,1,13.8,10.378
+Mahindra,2019,127748,Electric,Automatic,0,3,2.2,11.2811
+Skoda,2023,30465,Petrol,Automatic,1598,4,17.8,15.1863
+Mahindra,2021,33970,Petrol,Automatic,1497,2,17.8,13.0807
+Honda,2021,42543,Petrol,Automatic,1968,1,10.6,11.2529
+Tata,2024,8029,Petrol,Manual,998,2,10.4,9.2188
+Volkswagen,2010,185429,CNG,Manual,998,1,26.6,5.8408
+Kia,2022,42622,Hybrid,Automatic,998,3,22.8,16.0044
+Skoda,2024,31125,Diesel,Automatic,1968,3,24.6,17.2126
+Hyundai,2020,82941,Petrol,Manual,1197,3,11.1,7.2623
+Toyota,2019,78459,Petrol,Manual,998,1,14.6,12.3213
+Maruti Suzuki,2022,35782,Electric,Automatic,0,2,3.0,11.0598
+Volkswagen,2012,138675,Petrol,Manual,1598,1,12.2,9.7099
+Maruti Suzuki,2017,70241,Petrol,Manual,998,1,15.6,6.4359
+Toyota,2022,43018,Electric,Manual,0,2,2.1,16.598
+Renault,2014,96495,CNG,Manual,796,1,35.7,5.083
+Honda,2018,57315,Petrol,Manual,1497,1,19.9,8.6785
+Renault,2012,160796,Petrol,Automatic,1968,2,19.7,4.6527
+Skoda,2024,21265,Diesel,Automatic,796,1,21.9,21.8907
+Toyota,2022,27433,Petrol,Manual,1497,1,11.9,14.1056
+Mahindra,2020,73810,Diesel,Automatic,998,1,19.5,13.1113
+Hyundai,2022,27672,Petrol,Manual,1197,1,18.0,9.28
+Hyundai,2016,102475,Electric,Automatic,0,1,4.2,10.7385
+Tata,2017,69727,Petrol,Manual,2494,4,18.7,5.4092
+Maruti Suzuki,2018,89277,Diesel,Manual,1197,2,22.1,6.9098
+Kia,2015,89889,Petrol,Manual,1197,1,16.9,9.0684
+Renault,2013,120324,Petrol,Manual,1497,1,19.5,5.7255
+Toyota,2012,155981,Petrol,Manual,1197,2,12.8,6.4665
+Volkswagen,2017,76400,Petrol,Automatic,1197,1,13.6,12.023
+Volkswagen,2018,64623,Petrol,Automatic,2179,1,21.9,13.5548
+Skoda,2022,39565,CNG,Manual,1197,2,18.9,13.3793
+Maruti Suzuki,2015,97302,Petrol,Automatic,1197,1,21.1,5.4018
+Mahindra,2013,188684,Electric,Manual,0,1,3.0,7.6457
+Tata,2020,49732,Diesel,Manual,1197,3,16.3,6.8644
+Kia,2014,109045,CNG,Manual,1197,2,27.0,7.5985
+Kia,2021,78930,Petrol,Automatic,1197,3,19.2,9.9397
+Hyundai,2024,12008,CNG,Manual,1197,2,31.3,8.0523
+Honda,2019,92306,Petrol,Manual,2179,4,21.4,8.2688
+Skoda,2018,97302,Petrol,Manual,1197,1,20.8,11.0959
+Maruti Suzuki,2020,107151,Diesel,Manual,998,2,19.9,5.7897
+Volkswagen,2017,130102,Petrol,Manual,1197,2,22.0,10.0447
+Honda,2012,167835,Diesel,Manual,1497,1,15.4,6.1824
+Renault,2021,53107,Petrol,Manual,1598,1,19.4,8.3955
+Maruti Suzuki,2024,39284,Diesel,Manual,1197,1,16.0,9.9049
+Volkswagen,2011,112960,Diesel,Manual,1197,3,18.1,7.9183
+Hyundai,2020,72014,Petrol,Manual,1497,1,19.0,9.0683
+Mahindra,2021,66326,Diesel,Manual,998,2,19.8,10.3285
+Skoda,2015,82068,Petrol,Manual,1497,1,17.0,12.8177
+Toyota,2013,108321,Petrol,Manual,1497,2,21.1,7.5038
+Toyota,2013,123598,Hybrid,Manual,1598,1,23.3,9.4286
+Volkswagen,2015,93393,Petrol,Manual,796,1,18.7,9.6942
+Honda,2021,111256,Petrol,Automatic,1197,3,15.4,8.6266
+Renault,2012,149216,Petrol,Automatic,1598,1,19.7,5.7328
+Renault,2016,92565,Petrol,Automatic,1197,1,17.7,7.2484
+Maruti Suzuki,2024,83065,Petrol,Manual,1197,1,19.5,7.0543
+Maruti Suzuki,2019,58245,Petrol,Automatic,1497,1,19.5,7.822
+Skoda,2011,112245,Diesel,Automatic,998,1,22.2,11.2627
+Volkswagen,2017,65557,Petrol,Manual,998,2,13.7,11.6973
+Renault,2021,42589,Diesel,Manual,1497,2,20.6,9.485
+Honda,2011,200253,Electric,Manual,0,1,2.1,7.7293
+Toyota,2021,59897,Petrol,Automatic,998,1,21.2,13.5172
+Renault,2019,52843,Electric,Automatic,0,1,2.4,10.6393
+Renault,2021,72818,Petrol,Manual,1968,1,16.9,8.4653
+Tata,2013,103596,Diesel,Automatic,998,2,20.9,6.0799
+Volkswagen,2016,112584,Petrol,Manual,1497,2,17.1,10.5161
+Honda,2010,127673,Petrol,Manual,1598,1,20.5,6.0503
+Honda,2020,50906,Petrol,Automatic,1968,3,16.2,10.0586
+Kia,2016,95511,Petrol,Automatic,1497,1,17.5,9.8237
+Toyota,2013,111139,Petrol,Automatic,1497,2,17.7,9.1274
+Maruti Suzuki,2014,89695,Diesel,Automatic,2494,1,24.4,7.1403
+Skoda,2020,145538,Diesel,Manual,1197,1,24.0,14.6844
+Hyundai,2022,32109,Petrol,Manual,1968,1,12.4,8.7985
+Hyundai,2015,101540,Petrol,Automatic,998,1,17.8,7.5038
+Renault,2020,143801,Petrol,Manual,1968,1,19.4,7.9488
+Renault,2019,115875,CNG,Automatic,796,1,31.1,6.9416
+Volkswagen,2023,34314,Petrol,Manual,1968,1,20.4,17.4535
+Toyota,2010,156716,Diesel,Manual,998,2,18.6,7.0204
+Maruti Suzuki,2024,16089,Petrol,Automatic,796,1,14.3,8.3615
+Volkswagen,2011,116295,Petrol,Automatic,998,1,19.2,8.5919
+Maruti Suzuki,2012,107209,Petrol,Automatic,1598,1,16.8,4.7979
+Skoda,2017,130869,Petrol,Manual,998,1,20.5,10.9697
+Toyota,2015,114149,Petrol,Manual,2179,1,14.8,8.9094
+Mahindra,2017,75579,Electric,Manual,0,1,4.4,13.3091
+Hyundai,2014,115076,Petrol,Manual,1598,1,16.2,6.8246
+Mahindra,2021,61221,Diesel,Automatic,998,2,21.1,10.9704
+Honda,2024,87850,Diesel,Manual,1968,1,22.7,13.8076
+Honda,2015,93819,Petrol,Manual,2494,2,17.0,7.9712
+Toyota,2017,133179,Petrol,Manual,1497,1,17.7,9.8755
+Honda,2012,130609,Electric,Manual,0,1,3.2,8.0772
+Renault,2010,122203,Electric,Automatic,0,1,4.3,6.034
+Tata,2016,86492,Diesel,Manual,1598,1,25.7,7.3747
+Tata,2020,138648,Diesel,Manual,1197,1,20.9,6.7299
+Skoda,2012,177573,CNG,Manual,796,1,25.5,7.0228
+Kia,2024,33610,Hybrid,Manual,1497,1,22.2,19.3419
+Renault,2012,256006,Hybrid,Automatic,1197,1,23.1,5.6628
+Honda,2011,134738,Petrol,Manual,2179,3,15.4,5.7693
+Tata,2015,138971,Petrol,Automatic,1497,1,16.0,6.8636
+Kia,2013,133891,CNG,Manual,1197,4,28.6,5.2543
+Mahindra,2017,82546,Diesel,Automatic,998,1,23.9,11.7992
+Maruti Suzuki,2019,71890,CNG,Manual,1197,1,20.5,5.9102
+Toyota,2012,221509,Diesel,Manual,998,1,20.2,7.3288
+Skoda,2022,28030,Diesel,Automatic,1968,2,23.6,20.4765
+Skoda,2023,31844,Petrol,Automatic,1197,2,19.3,14.9493
+Skoda,2014,163656,Petrol,Automatic,998,3,17.0,9.3027
+Kia,2020,79145,Petrol,Automatic,1197,1,19.6,12.5475
+Honda,2017,105777,Diesel,Manual,1497,2,14.5,9.3058
+Skoda,2020,94422,Diesel,Manual,1197,2,21.7,12.7403
+Tata,2019,132905,Diesel,Automatic,998,3,15.8,6.4442
+Toyota,2010,157361,Hybrid,Manual,1197,1,25.8,9.0428
+Mahindra,2012,107917,CNG,Manual,998,1,27.8,5.8125
+Toyota,2020,58410,Petrol,Manual,998,1,14.3,12.0047
+Mahindra,2012,119846,Petrol,Automatic,2179,4,20.3,6.4416
+Tata,2024,63069,CNG,Manual,796,1,33.5,6.9042
+Mahindra,2016,83101,Diesel,Manual,998,1,16.5,8.544
+Renault,2016,84471,Hybrid,Manual,998,2,28.0,6.5549
+Volkswagen,2024,11276,Diesel,Manual,1197,2,21.9,17.5626
+Toyota,2021,71695,Petrol,Automatic,1968,2,19.9,13.4078
+Honda,2020,136166,Petrol,Manual,1197,1,22.6,9.3692
+Maruti Suzuki,2017,75143,Petrol,Manual,1497,1,17.6,5.6712
+Mahindra,2021,42770,Diesel,Manual,1497,2,23.0,10.778
+Honda,2016,114816,CNG,Manual,1197,3,32.5,6.6632
+Renault,2020,91776,Petrol,Manual,1497,1,20.5,7.2923
+Tata,2012,106136,Petrol,Manual,1598,1,15.4,5.023
+Renault,2010,127205,Petrol,Automatic,1968,4,14.9,3.5431
+Tata,2010,129164,Diesel,Manual,1598,1,15.1,4.823
+Tata,2014,122512,Petrol,Automatic,1497,1,19.0,6.2359
+Mahindra,2013,110147,Petrol,Automatic,998,3,15.8,7.2469
+Maruti Suzuki,2019,80096,Diesel,Manual,998,1,19.6,7.1142
+Mahindra,2024,33673,Hybrid,Manual,998,1,22.3,16.3267
+Renault,2017,101333,Petrol,Manual,1497,2,18.3,6.3916
+Maruti Suzuki,2022,74985,Petrol,Automatic,1497,1,14.0,7.296
+Mahindra,2014,103806,Petrol,Automatic,796,1,17.4,7.7142
+Kia,2021,51167,CNG,Automatic,1197,2,35.6,10.0378
+Toyota,2021,49715,Petrol,Automatic,2494,1,17.5,15.4741
+Renault,2016,89749,Diesel,Automatic,1497,1,23.6,8.4032
+Honda,2019,111777,Diesel,Manual,1968,1,23.1,11.646
+Skoda,2020,44335,Petrol,Manual,1197,1,21.0,12.9306
+Maruti Suzuki,2011,125927,Petrol,Automatic,1497,3,15.4,4.3355
+Kia,2023,47935,Petrol,Manual,1968,2,21.2,11.9789
+Volkswagen,2019,66267,Petrol,Automatic,1197,1,12.1,15.3481
+Honda,2011,126243,Diesel,Automatic,998,1,21.6,6.9631
+Hyundai,2014,103136,Diesel,Manual,1197,1,20.8,6.1869
+Tata,2010,178564,Petrol,Automatic,796,1,12.6,3.8741
+Tata,2012,152597,Petrol,Manual,1497,2,21.0,4.3485
+Kia,2014,98134,CNG,Manual,796,1,23.9,7.7216
+Maruti Suzuki,2013,133919,Diesel,Automatic,1197,1,21.5,5.5762
+Toyota,2019,50042,Diesel,Manual,1598,2,21.4,13.1928
+Tata,2013,114192,Electric,Manual,0,3,2.3,5.7716
+Mahindra,2015,94254,Petrol,Automatic,1598,2,11.7,9.59
+Toyota,2011,123589,Diesel,Automatic,1497,2,20.7,8.7457
+Renault,2021,133201,Petrol,Automatic,1598,1,15.1,7.6741
+Skoda,2012,131258,Petrol,Manual,2179,2,17.0,8.4911
+Toyota,2020,62790,Petrol,Automatic,998,3,17.0,9.9955
+Tata,2021,32380,Petrol,Manual,2494,2,20.9,8.1008
+Toyota,2022,51928,Petrol,Automatic,1197,1,20.4,15.2124
+Renault,2017,72184,Petrol,Manual,1197,2,17.6,6.6886
+Volkswagen,2020,94283,Petrol,Automatic,998,2,16.8,13.9546
+Honda,2024,25711,Electric,Manual,0,1,3.6,14.0573
+Mahindra,2024,24828,Hybrid,Manual,1497,3,27.1,12.7019
+Mahindra,2014,135184,Petrol,Automatic,1497,1,22.4,7.6275
+Hyundai,2021,56135,Diesel,Manual,1497,1,20.7,10.8775
+Toyota,2019,106510,Electric,Manual,0,2,2.4,14.7953
+Toyota,2022,57151,CNG,Manual,1197,1,21.3,12.244
+Kia,2013,139348,Petrol,Manual,1197,1,14.6,7.13
+Skoda,2016,94525,Petrol,Manual,998,1,17.1,12.1067
+Volkswagen,2010,151884,Diesel,Manual,2494,1,24.7,8.4506
+Maruti Suzuki,2011,151656,Petrol,Automatic,2179,1,13.9,5.0864
+Maruti Suzuki,2016,91995,Petrol,Automatic,998,1,14.2,6.4353
+Skoda,2021,56475,Diesel,Manual,1197,1,18.8,16.1201
+Renault,2011,160628,Diesel,Manual,1197,2,23.6,5.0093
+Mahindra,2015,82967,Electric,Manual,0,1,2.5,11.0954
+Hyundai,2015,94466,Petrol,Automatic,1197,1,14.5,6.818
+Maruti Suzuki,2016,118781,Petrol,Manual,1497,1,15.9,5.9819
+Renault,2011,156850,Petrol,Automatic,998,1,12.3,4.8531
+Kia,2010,164134,Diesel,Manual,1197,2,20.4,6.2407
+Honda,2014,93688,Petrol,Automatic,998,2,19.1,6.5202
+Tata,2018,111828,Petrol,Manual,2494,2,15.9,7.1789
+Renault,2018,82008,Diesel,Manual,998,2,18.8,7.4814
+Toyota,2010,178592,Petrol,Automatic,2179,2,16.2,7.0491
+Skoda,2020,40613,CNG,Automatic,998,1,26.2,15.0413
+Renault,2020,123728,Diesel,Manual,998,1,22.2,6.8587
+Volkswagen,2016,100250,Petrol,Manual,1598,1,20.0,12.6559
+Volkswagen,2015,84257,Diesel,Manual,1598,1,23.4,12.2893
+Skoda,2011,134769,Diesel,Manual,1497,1,15.5,9.3283
+Hyundai,2015,128794,Petrol,Manual,796,1,14.2,5.7912
+Skoda,2023,31531,Petrol,Manual,1598,1,13.1,17.4434
+Maruti Suzuki,2013,118625,Diesel,Manual,796,2,19.9,4.4897
+Kia,2017,126572,Diesel,Manual,1497,2,20.5,10.609
+Mahindra,2017,85102,Electric,Manual,0,2,4.0,10.8821
+Hyundai,2019,56960,Petrol,Manual,1197,3,22.1,7.6781
+Renault,2016,79560,Petrol,Manual,998,1,19.1,6.8119
+Mahindra,2023,29671,Diesel,Manual,1968,2,24.0,14.2088
+Hyundai,2017,73492,Hybrid,Automatic,1497,1,27.1,10.5559
+Volkswagen,2012,110127,Diesel,Automatic,998,2,19.5,10.1895
+Mahindra,2016,96869,Petrol,Automatic,1497,1,22.8,9.3259
+Hyundai,2016,104840,Petrol,Automatic,998,2,14.3,7.3408
+Honda,2017,65285,Petrol,Automatic,1497,1,18.9,9.0654
+Toyota,2017,75080,Electric,Manual,0,2,4.2,13.5465
+Toyota,2021,47211,Petrol,Manual,2494,4,14.0,11.1863
+Hyundai,2023,17283,Electric,Manual,0,3,2.2,11.1314
+Renault,2018,110027,Petrol,Automatic,1197,1,17.2,7.0032
+Volkswagen,2014,113312,CNG,Manual,998,1,29.6,8.6034
+Volkswagen,2010,136925,Petrol,Manual,796,1,13.1,6.8026
+Honda,2012,175994,Petrol,Manual,998,3,17.6,4.5951
+Hyundai,2010,126289,Petrol,Automatic,998,1,18.6,5.6287
+Kia,2012,122852,Petrol,Automatic,1197,1,13.0,8.6189
+Skoda,2020,52695,Electric,Manual,0,2,4.4,18.861
+Mahindra,2020,68744,Diesel,Manual,1197,1,16.7,11.8705
+Renault,2018,145302,Hybrid,Manual,998,1,23.9,7.467
+Toyota,2021,49381,CNG,Manual,998,3,21.0,9.6678
+Renault,2019,54511,Petrol,Manual,1497,2,18.7,6.6921
+Mahindra,2019,75002,Electric,Automatic,0,3,2.7,11.8274
+Skoda,2011,130818,Petrol,Manual,1968,1,22.6,10.2503
+Kia,2015,97867,CNG,Manual,1197,2,32.7,6.6396
+Maruti Suzuki,2014,88766,Petrol,Automatic,1968,1,21.5,5.9252
+Toyota,2019,88098,Hybrid,Automatic,1197,1,25.2,14.9856
+Hyundai,2015,186894,Petrol,Automatic,998,1,15.0,6.2505
+Maruti Suzuki,2014,114543,Petrol,Manual,1598,2,18.6,4.4906
+Tata,2011,117923,Hybrid,Manual,1197,1,26.9,5.4944
+Skoda,2021,69198,Diesel,Automatic,1197,1,23.1,19.2754
+Volkswagen,2011,130524,Diesel,Manual,796,2,21.1,8.4918
+Toyota,2015,93737,Diesel,Automatic,998,1,21.6,10.3932
+Toyota,2023,139168,Diesel,Manual,1598,1,23.5,14.5313
+Renault,2020,48997,Diesel,Automatic,1968,4,21.6,7.7374
+Skoda,2021,89687,Petrol,Manual,1197,1,23.1,14.6166
+Kia,2024,24924,Petrol,Manual,998,1,13.1,11.9313
+Toyota,2014,122547,Petrol,Automatic,1197,1,15.9,8.465
+Maruti Suzuki,2017,64830,Diesel,Automatic,1197,1,25.1,6.4975
+Renault,2024,8231,Petrol,Automatic,1598,3,21.0,8.2268
+Volkswagen,2024,10649,Petrol,Automatic,796,2,13.1,17.764
+Volkswagen,2023,29934,CNG,Manual,1197,1,20.2,15.7866
+Maruti Suzuki,2024,11382,Diesel,Manual,1598,1,18.0,9.0602
+Renault,2018,60226,Diesel,Automatic,1497,1,19.9,8.6397
+Kia,2019,69811,Petrol,Automatic,1497,1,9.9,12.8002
+Skoda,2018,79894,Petrol,Automatic,998,2,19.9,12.8049
+Mahindra,2014,91578,CNG,Manual,998,2,26.9,7.1927
+Volkswagen,2015,80361,Petrol,Manual,1497,1,19.5,11.5318
+Skoda,2015,111374,Petrol,Automatic,1598,2,17.5,12.3499
+Skoda,2024,22040,Petrol,Automatic,998,3,13.4,15.8461
+Honda,2022,65361,Petrol,Manual,1497,1,19.1,11.6561
+Skoda,2014,98874,CNG,Manual,1197,1,27.7,8.9151
+Maruti Suzuki,2021,34024,Electric,Manual,0,3,2.3,8.4294
+Tata,2013,135027,Petrol,Manual,1197,2,18.5,4.532
+Renault,2019,59902,Diesel,Manual,2179,1,14.7,9.4047
+Toyota,2017,65586,Diesel,Automatic,998,1,21.0,11.9861
+Maruti Suzuki,2011,136046,Petrol,Manual,1197,1,19.5,3.6864
+Hyundai,2023,96090,Diesel,Manual,2179,1,25.0,10.8311
+Honda,2014,135631,Petrol,Manual,1497,2,19.9,6.6239
+Hyundai,2022,26244,Petrol,Automatic,1968,4,17.5,8.001
+Mahindra,2021,88141,Petrol,Automatic,796,2,14.8,9.268
+Tata,2011,129706,CNG,Manual,1197,1,33.6,4.5629
+Skoda,2022,81555,Petrol,Manual,998,1,14.1,15.8614
+Tata,2021,38936,Petrol,Manual,796,2,20.5,7.936
+Mahindra,2019,98554,Diesel,Automatic,998,2,13.8,10.2414
+Renault,2012,108198,Electric,Automatic,0,1,3.9,6.8637
+Mahindra,2016,162722,Electric,Automatic,0,1,3.6,10.1242
+Hyundai,2016,84784,Electric,Manual,0,2,3.2,8.6529
+Skoda,2016,77923,Petrol,Manual,998,1,23.6,11.6392
+Tata,2021,51565,CNG,Manual,796,1,18.8,7.5792
+Maruti Suzuki,2020,71627,Diesel,Manual,2179,1,26.1,7.5541
+Mahindra,2020,73091,Diesel,Automatic,2494,1,17.3,14.5068
+Volkswagen,2023,49832,Petrol,Manual,1497,1,19.1,14.886
+Skoda,2014,93151,Hybrid,Automatic,2179,4,18.6,11.2262
+Skoda,2014,143664,Petrol,Manual,1197,2,23.5,9.0888
+Honda,2013,117150,Hybrid,Automatic,2494,1,18.9,9.4137
+Maruti Suzuki,2024,63363,Petrol,Automatic,1197,4,14.6,7.1605
+Toyota,2024,41705,Petrol,Manual,796,1,13.2,14.1218
+Renault,2016,92181,Petrol,Automatic,998,1,17.3,7.3246
+Mahindra,2018,91236,Diesel,Manual,1197,1,18.6,10.0531
+Mahindra,2016,111824,Petrol,Manual,1598,3,17.9,6.6388
+Hyundai,2023,30184,Hybrid,Manual,1197,1,21.6,12.1249
+Honda,2015,168258,CNG,Automatic,1197,1,28.7,7.1365
+Mahindra,2017,65012,Diesel,Manual,1197,2,20.5,9.8564
+Volkswagen,2024,107279,Petrol,Automatic,1197,1,15.0,15.5142
+Honda,2011,121825,Petrol,Manual,1497,1,19.9,5.4042
+Skoda,2023,49914,Diesel,Manual,998,1,15.9,18.8255
+Renault,2021,72576,Diesel,Manual,1197,3,17.0,6.806
+Volkswagen,2014,128502,Diesel,Manual,998,3,20.9,9.6507
+Skoda,2022,43268,Petrol,Manual,998,1,14.5,15.6957
+Honda,2010,215529,Diesel,Manual,998,3,19.0,5.012
+Maruti Suzuki,2012,118345,Diesel,Automatic,2179,1,23.9,6.3948
+Toyota,2024,22299,Petrol,Automatic,998,1,17.4,14.5115
+Kia,2020,54583,CNG,Manual,1197,1,30.0,11.0065
+Volkswagen,2020,56056,CNG,Automatic,998,2,34.9,12.5943
+Maruti Suzuki,2011,113372,Petrol,Automatic,1497,2,19.5,4.2808
+Kia,2021,58348,Petrol,Manual,1197,1,19.1,10.6323
+Mahindra,2020,71050,Diesel,Manual,2494,3,21.3,10.0999
+Kia,2011,128036,Diesel,Manual,998,3,18.9,6.9203
+Skoda,2012,112677,Diesel,Automatic,998,3,23.8,10.8215
+Kia,2021,32799,Petrol,Automatic,1497,2,19.8,13.0993
+Toyota,2010,188045,Electric,Automatic,0,3,3.0,6.8788
+Volkswagen,2011,148951,Petrol,Manual,2494,1,21.1,7.8648
+Honda,2021,111401,Diesel,Automatic,1197,1,16.9,12.2642
+Kia,2015,104832,Petrol,Manual,1598,3,12.4,8.207
+Maruti Suzuki,2010,120043,Petrol,Manual,1968,1,15.6,3.9273
+Honda,2011,129089,Diesel,Manual,2179,1,20.8,7.569
+Volkswagen,2018,104334,Petrol,Automatic,1197,1,15.3,13.5215
+Maruti Suzuki,2021,72971,Petrol,Automatic,1197,2,16.4,6.313
+Honda,2018,132363,CNG,Manual,1197,2,23.0,6.763
+Kia,2016,73257,Petrol,Manual,1197,1,10.4,9.8582
+Skoda,2010,160826,Electric,Manual,0,1,3.8,11.1349
+Honda,2013,105210,Petrol,Automatic,1197,1,15.4,6.5859
+Renault,2021,35526,Petrol,Automatic,1598,2,12.6,9.422
+Renault,2018,104130,Petrol,Automatic,1197,2,19.1,7.5026
+Tata,2015,174578,Electric,Automatic,0,2,3.3,7.814
+Maruti Suzuki,2020,42031,Petrol,Manual,796,1,13.8,6.8472
+Kia,2023,31696,Petrol,Automatic,998,2,17.5,14.4087
+Skoda,2012,135808,Petrol,Automatic,998,1,13.1,8.6725
+Honda,2023,57963,Diesel,Manual,1598,2,26.3,11.158
+Toyota,2023,58609,Petrol,Automatic,1197,2,15.4,12.7645
+Kia,2024,42227,Petrol,Manual,1197,2,15.9,13.1121
+Kia,2016,83097,Diesel,Manual,2179,1,19.0,11.0016
+Volkswagen,2014,107717,Petrol,Manual,1197,2,17.4,9.0557
+Renault,2016,93894,Petrol,Automatic,1497,3,21.6,5.3782
+Volkswagen,2015,101030,Petrol,Automatic,1197,1,19.9,11.3745
+Hyundai,2013,139161,Electric,Manual,0,2,2.4,6.325
+Toyota,2012,114166,Diesel,Automatic,1197,1,17.9,9.2513
+Volkswagen,2012,125012,Diesel,Manual,998,1,24.4,9.0113
+Tata,2020,88671,Diesel,Automatic,1598,2,15.4,8.7053
+Kia,2024,13225,Diesel,Automatic,998,1,17.3,15.3604
+Hyundai,2020,46564,Petrol,Manual,1197,2,12.1,7.3137
+Toyota,2020,58397,Petrol,Manual,796,1,13.7,12.3724
+Tata,2013,141809,Petrol,Automatic,796,1,21.2,5.6279
+Maruti Suzuki,2012,186435,Petrol,Automatic,1497,1,20.2,4.1164
+Hyundai,2020,90871,Petrol,Automatic,1497,1,15.3,9.2301
+Kia,2014,113054,Petrol,Automatic,1197,2,18.6,8.7611
+Mahindra,2010,157555,Petrol,Automatic,1197,2,13.6,6.1087
+Renault,2018,151537,Electric,Manual,0,1,3.2,7.2658
+Mahindra,2024,64287,Electric,Automatic,0,3,2.8,15.1466
+Mahindra,2024,24189,Petrol,Automatic,1968,1,17.4,16.8595
+Mahindra,2014,97523,Electric,Automatic,0,3,2.8,10.5545
+Tata,2022,59815,Petrol,Automatic,1497,1,19.8,8.1114
+Kia,2023,95287,Diesel,Manual,1598,1,20.8,12.7572
+Maruti Suzuki,2021,87798,Petrol,Automatic,1197,2,14.7,6.9951
+Honda,2015,103436,Petrol,Manual,1598,2,12.1,7.7151
+Skoda,2018,74207,Petrol,Manual,1197,3,18.0,9.8443
+Hyundai,2020,64746,Petrol,Automatic,1197,1,22.2,7.9982
+Skoda,2022,52183,Diesel,Manual,1598,1,21.9,18.6059
+Volkswagen,2013,146432,Petrol,Automatic,1197,2,13.8,8.8908
+Volkswagen,2021,42207,Petrol,Manual,1968,2,11.3,16.1104
+Toyota,2020,70194,Petrol,Automatic,998,2,17.6,10.9578
+Toyota,2017,87782,Hybrid,Automatic,1497,1,28.0,14.3173
+Maruti Suzuki,2012,109946,Petrol,Automatic,1598,1,18.7,5.4759
+Kia,2021,55240,Diesel,Automatic,1197,1,19.2,13.4115
+Mahindra,2016,73682,Petrol,Automatic,1968,2,21.6,9.5956
+Honda,2014,109699,Petrol,Manual,1197,1,15.8,7.6958
+Mahindra,2024,9780,Electric,Automatic,0,1,2.9,20.845
+Hyundai,2021,59154,Diesel,Manual,2179,1,21.7,11.8511
+Toyota,2020,46392,Hybrid,Automatic,1598,1,20.3,19.5273
+Honda,2022,27488,Hybrid,Automatic,1968,2,21.2,16.0931
+Honda,2011,118814,Hybrid,Automatic,1598,2,19.7,7.934
+Honda,2010,175155,Petrol,Automatic,796,2,11.8,4.6542
+Honda,2024,13135,Diesel,Manual,1497,3,19.1,12.2587
+Mahindra,2021,33599,Diesel,Manual,1197,1,16.7,13.4979
+Tata,2018,64736,CNG,Automatic,796,1,22.2,6.6113
+Hyundai,2023,64904,Petrol,Manual,1497,1,19.8,10.1404
+Toyota,2017,64275,Petrol,Manual,2494,1,11.0,12.8007
+Skoda,2017,79445,CNG,Automatic,998,2,21.8,10.5381
+Renault,2020,42813,Petrol,Manual,1197,3,14.9,7.2032
+Kia,2011,136329,Petrol,Manual,998,4,19.5,4.794
+Hyundai,2022,50301,Diesel,Manual,1197,1,17.5,9.1928
+Mahindra,2023,53310,Petrol,Manual,1497,1,13.2,13.1646
+Mahindra,2012,190122,Electric,Manual,0,1,3.8,7.4139
+Toyota,2016,77552,CNG,Automatic,1197,2,23.9,8.2813
+Maruti Suzuki,2016,75806,Petrol,Automatic,1598,1,15.0,6.4603
+Mahindra,2015,119588,Diesel,Manual,1598,2,22.9,9.009
+Kia,2022,55414,Petrol,Manual,998,2,14.0,11.4827
+Honda,2024,10090,CNG,Manual,796,1,33.2,10.1964
+Tata,2017,79655,Petrol,Automatic,1197,1,16.4,7.6562
+Renault,2024,80571,Petrol,Manual,1197,3,15.4,7.8076
+Maruti Suzuki,2020,79510,Diesel,Manual,1968,1,21.7,7.2941
+Honda,2023,98186,Petrol,Automatic,1497,1,20.3,12.6465
+Renault,2016,72409,Diesel,Automatic,998,2,20.0,7.5897
+Hyundai,2011,126955,Petrol,Manual,1197,2,18.9,4.8334
+Mahindra,2023,126144,Petrol,Manual,1968,2,20.2,11.8799
+Kia,2024,36253,Petrol,Automatic,998,3,15.1,11.0793
+Tata,2011,145579,Petrol,Manual,1968,2,11.3,4.9201
+Hyundai,2022,39347,Petrol,Manual,2494,1,17.5,11.0043
+Hyundai,2019,97950,Petrol,Automatic,1497,1,12.9,7.6948
+Mahindra,2013,187730,Petrol,Manual,1197,1,19.4,6.8385
+Honda,2015,88234,Petrol,Manual,1197,1,22.2,8.2133
+Maruti Suzuki,2020,54851,Petrol,Manual,1197,1,12.4,6.5238
+Volkswagen,2014,109795,Petrol,Manual,1598,1,19.7,10.6137
+Hyundai,2021,58642,Diesel,Automatic,1197,3,26.5,8.7228
+Mahindra,2015,89995,Electric,Manual,0,1,2.8,11.8472
+Mahindra,2022,39168,Petrol,Automatic,1497,4,14.7,9.4699
+Renault,2014,136914,Petrol,Manual,796,2,18.6,4.8082
+Toyota,2010,134855,Petrol,Manual,2179,3,14.6,6.5968
+Tata,2019,64906,Petrol,Manual,796,1,18.4,6.9365
+Toyota,2020,42482,Petrol,Manual,1968,3,15.7,10.9546
+Renault,2013,212234,Petrol,Manual,1197,2,19.6,3.6905
+Toyota,2020,46489,CNG,Manual,1197,2,24.2,9.2437
+Renault,2015,87196,Electric,Manual,0,2,3.7,6.9904
+Maruti Suzuki,2020,44772,Diesel,Automatic,1197,1,17.8,7.732
+Renault,2016,75058,Diesel,Manual,796,4,14.0,5.7172
+Honda,2019,64677,Petrol,Manual,998,1,12.6,8.6145
+Volkswagen,2018,106624,CNG,Manual,998,1,21.9,10.4419
+Volkswagen,2018,151354,Electric,Manual,0,1,3.8,16.2624
+Kia,2010,123312,Petrol,Automatic,1197,1,22.8,7.5079
+Toyota,2010,138036,Petrol,Automatic,1497,2,9.5,7.9038
+Honda,2017,73472,Petrol,Manual,1197,1,16.2,8.891
+Hyundai,2010,126683,Petrol,Manual,1598,1,20.8,4.6547
+Maruti Suzuki,2012,159991,Petrol,Manual,796,1,19.8,3.8931
+Hyundai,2023,22697,Electric,Manual,0,3,3.2,11.6425
+Mahindra,2011,143418,Diesel,Manual,1497,1,19.7,7.9591
+Honda,2011,143123,Diesel,Manual,1497,1,24.9,7.4034
+Maruti Suzuki,2022,96853,Petrol,Manual,1497,2,12.6,7.2891
+Toyota,2024,28733,Petrol,Manual,1197,2,18.4,12.1526
+Hyundai,2021,53683,Hybrid,Manual,1197,2,25.0,10.0175
+Toyota,2018,64729,CNG,Automatic,998,1,21.8,12.0223
+Toyota,2015,89189,Petrol,Automatic,1968,2,22.6,10.1954
+Renault,2019,71752,Petrol,Automatic,1197,1,15.5,7.1623
+Volkswagen,2016,95275,Electric,Automatic,0,1,3.4,15.5215
+Kia,2014,120568,Petrol,Manual,1598,1,18.0,8.6084
+Kia,2021,32256,Electric,Manual,0,2,3.8,13.9949
+Renault,2012,116077,Petrol,Manual,1197,1,21.4,5.0466
+Renault,2015,136212,Petrol,Manual,1598,1,12.0,5.9558
+Volkswagen,2019,50839,Hybrid,Manual,1497,3,24.7,15.3395
+Toyota,2019,49840,Petrol,Manual,1598,1,12.4,13.4961
+Maruti Suzuki,2016,73555,Petrol,Automatic,1598,2,18.4,6.4331
+Honda,2010,146217,Diesel,Automatic,1968,2,17.8,6.0387
+Renault,2018,96578,Electric,Automatic,0,1,3.8,10.5595
+Toyota,2016,198981,Diesel,Automatic,1197,1,22.4,9.1209
+Skoda,2021,64873,Petrol,Automatic,1197,4,10.1,11.4683
+Renault,2013,97600,Petrol,Automatic,1968,1,20.9,6.6827
+Honda,2016,80744,Petrol,Automatic,998,1,12.9,7.9574
+Skoda,2018,126952,Electric,Manual,0,2,4.2,14.9545
+Tata,2013,151150,CNG,Automatic,1197,2,24.5,4.6196
+Kia,2023,66081,Electric,Automatic,0,1,2.7,18.267
+Honda,2010,148454,Diesel,Automatic,2494,2,21.7,7.2177
+Honda,2023,52308,Petrol,Automatic,2494,1,16.7,14.1088
+Toyota,2010,176562,Petrol,Automatic,1497,1,23.4,7.4412
+Volkswagen,2020,49082,Diesel,Automatic,1497,4,19.2,13.9721
+Toyota,2021,41769,Petrol,Automatic,998,1,22.2,12.3922
+Honda,2014,94032,Electric,Manual,0,1,3.6,10.4072
+Tata,2014,89238,Electric,Manual,0,2,4.0,7.4489
+Skoda,2013,100778,Petrol,Automatic,1497,1,17.6,10.6407
+Toyota,2013,158166,Petrol,Automatic,998,2,20.3,8.5969
+Toyota,2015,98691,Diesel,Automatic,1497,1,16.6,11.2097
+Honda,2021,33527,Diesel,Manual,1197,2,19.1,11.7997
+Honda,2011,253090,Petrol,Manual,2494,1,21.0,5.263
+Renault,2024,84528,CNG,Manual,1197,1,34.9,8.3044
+Honda,2022,43657,Electric,Automatic,0,1,2.2,14.9371
+Volkswagen,2011,123848,Diesel,Manual,1197,2,22.5,8.9017
+Tata,2024,56934,Diesel,Automatic,1197,1,23.5,9.8053
+Mahindra,2022,51666,Diesel,Automatic,796,2,19.5,13.096
+Toyota,2013,123349,Petrol,Manual,1497,1,16.6,8.4499
+Mahindra,2022,41838,Hybrid,Automatic,2494,1,27.9,19.6208
+Hyundai,2013,110974,Diesel,Manual,998,1,15.7,6.8044
+Tata,2012,150177,Petrol,Automatic,1497,3,18.6,4.3281
+Skoda,2023,18102,Petrol,Manual,998,3,18.5,13.6555
+Mahindra,2011,113101,CNG,Manual,998,1,29.1,5.1621
+Tata,2015,83517,CNG,Manual,1197,2,28.4,5.3739
+Tata,2018,139427,CNG,Manual,1197,1,35.4,5.5832
+Honda,2016,121039,CNG,Manual,998,1,18.7,6.8041
+Volkswagen,2015,106676,Petrol,Automatic,1497,1,16.6,12.8026
+Honda,2014,151257,CNG,Automatic,1197,2,30.5,5.4321
+Skoda,2023,48437,Diesel,Automatic,1497,2,22.8,16.8799
+Volkswagen,2019,141505,Diesel,Automatic,1497,1,20.2,14.8567
+Renault,2016,114417,Diesel,Automatic,1497,1,20.9,6.7521
+Renault,2017,79361,Hybrid,Manual,1598,2,23.5,7.48
+Volkswagen,2012,203328,Electric,Automatic,0,2,4.3,11.1182
+Maruti Suzuki,2010,126466,Petrol,Automatic,1497,2,15.3,3.9162
+Mahindra,2010,143049,Petrol,Manual,998,1,20.3,5.983
+Skoda,2016,85157,Petrol,Manual,1197,1,13.8,10.4637
+Mahindra,2018,77083,Petrol,Automatic,1598,1,18.4,10.7522
+Mahindra,2020,40603,Hybrid,Automatic,1598,2,25.2,15.8766
+Skoda,2010,182871,Petrol,Manual,1497,1,17.0,7.2878
+Tata,2014,174494,Petrol,Manual,1598,1,14.7,5.5369
+Maruti Suzuki,2021,49622,Electric,Automatic,0,1,3.3,9.9333
+Mahindra,2010,151504,Petrol,Manual,998,3,19.0,5.1774
+Tata,2020,55549,Hybrid,Automatic,2494,2,31.7,11.8862
+Maruti Suzuki,2021,75738,Electric,Manual,0,1,2.8,8.5445
+Kia,2021,41182,Diesel,Automatic,2179,2,24.6,14.0724
+Kia,2015,83854,Diesel,Automatic,1197,1,21.0,10.8456
+Tata,2010,124290,Diesel,Automatic,1497,3,19.6,4.7867
+Maruti Suzuki,2018,101228,Petrol,Manual,1497,2,13.5,5.5025
+Skoda,2012,110570,Diesel,Automatic,1497,1,19.4,10.8182
+Hyundai,2016,90355,Petrol,Manual,998,2,9.7,6.3658
+Maruti Suzuki,2011,200191,Diesel,Manual,2179,1,22.7,4.1568
+Volkswagen,2024,23677,Petrol,Automatic,998,1,16.7,15.8008
+Renault,2016,74202,Diesel,Manual,1497,3,18.5,5.5229
+Volkswagen,2015,117916,CNG,Manual,998,1,35.8,10.0373
+Renault,2021,36315,Diesel,Manual,796,1,17.6,8.3235
+Mahindra,2011,166901,Electric,Manual,0,3,3.8,6.8089
+Skoda,2016,104535,Diesel,Manual,1197,1,19.8,13.5255
+Renault,2022,43371,Diesel,Automatic,998,3,15.0,8.1725
+Maruti Suzuki,2019,93233,Diesel,Automatic,1197,1,22.6,7.3451
+Hyundai,2019,63621,Petrol,Automatic,2494,1,14.8,10.853
+Skoda,2012,106590,Petrol,Automatic,1497,1,20.8,10.8984
+Maruti Suzuki,2015,116701,Petrol,Manual,1968,4,20.7,4.5372
+Maruti Suzuki,2020,136991,Petrol,Manual,1497,4,15.1,5.4685
+Hyundai,2013,127450,Petrol,Automatic,1197,2,13.6,5.317
+Hyundai,2013,99615,Petrol,Automatic,2494,2,21.6,7.4704
+Toyota,2013,154780,Petrol,Manual,2494,2,17.4,9.0567
+Kia,2023,54349,Diesel,Manual,1197,3,21.4,11.741
+Renault,2020,81640,Petrol,Manual,1197,1,18.0,7.6287
+Kia,2023,20247,Diesel,Automatic,1497,3,18.8,15.5816
+Kia,2019,91157,Diesel,Automatic,1197,1,24.5,14.0837
+Skoda,2010,153799,Petrol,Manual,998,1,22.3,8.3195
+Maruti Suzuki,2020,46167,Petrol,Manual,2494,1,17.7,7.8986
+Kia,2011,134434,Petrol,Automatic,1197,1,20.2,7.5366
+Hyundai,2015,81306,Petrol,Automatic,1497,1,13.5,7.6123
+Maruti Suzuki,2012,144040,Diesel,Automatic,1497,2,14.3,5.3739
+Mahindra,2016,73313,Petrol,Manual,1197,2,14.6,8.7793
+Hyundai,2020,84655,CNG,Manual,1197,1,34.3,7.4723
+Renault,2019,145354,CNG,Automatic,796,1,21.1,6.8265
+Volkswagen,2014,94771,Hybrid,Automatic,1497,1,27.1,15.3593
+Maruti Suzuki,2016,109695,Electric,Manual,0,1,2.8,7.3987
+Tata,2010,126442,Petrol,Automatic,1497,1,19.4,5.1551
+Honda,2017,87693,Petrol,Manual,1197,2,22.4,7.9446
+Mahindra,2012,155355,Diesel,Automatic,1497,3,16.5,6.8774
+Maruti Suzuki,2016,83956,Hybrid,Automatic,2494,1,26.3,7.6446
+Tata,2018,132955,Diesel,Manual,1497,2,16.8,6.0157
+Maruti Suzuki,2021,42318,Diesel,Manual,1497,1,19.6,8.5019
+Skoda,2017,156742,Hybrid,Manual,1497,1,22.1,13.7536
+Tata,2013,134001,Petrol,Automatic,1197,1,14.6,5.7998
+Renault,2018,84431,Diesel,Manual,2179,2,21.1,6.7916
+Skoda,2023,46604,Petrol,Manual,1197,2,16.9,15.6084
+Mahindra,2016,134796,Diesel,Automatic,1197,1,18.4,10.0005
+Toyota,2021,43506,Petrol,Manual,1497,1,24.5,13.2847
+Volkswagen,2021,43386,Electric,Automatic,0,1,4.3,21.9505
+Toyota,2015,129377,Diesel,Manual,1598,2,20.5,10.3162
+Skoda,2024,27679,Petrol,Automatic,1197,1,17.0,20.0339
+Tata,2015,148306,Petrol,Manual,2179,3,20.1,5.447
+Maruti Suzuki,2013,127316,Petrol,Manual,796,1,21.4,3.9262
+Mahindra,2020,44095,Diesel,Manual,1197,2,14.0,12.4784
+Honda,2019,80193,Petrol,Manual,1197,3,15.1,7.3749
+Honda,2010,141630,Petrol,Manual,1197,1,15.1,4.8942
+Kia,2024,89900,Diesel,Manual,998,1,16.7,13.9842
+Skoda,2016,106443,Diesel,Manual,998,1,20.5,13.5233
+Skoda,2015,93978,Diesel,Automatic,998,1,18.3,13.1611
+Tata,2014,96434,Petrol,Manual,2179,1,10.9,5.8384
+Skoda,2016,102494,Diesel,Manual,1197,1,25.9,11.4045
+Skoda,2024,224576,Diesel,Manual,1598,1,17.4,15.5405
+Skoda,2011,146602,Hybrid,Automatic,1497,3,22.3,9.4509
+Renault,2020,91602,Diesel,Manual,1197,2,14.7,6.9155
+Maruti Suzuki,2019,119314,Diesel,Manual,1497,1,15.1,7.0481
+Tata,2012,124508,CNG,Manual,1197,3,33.1,3.4627
+Honda,2012,104929,Electric,Manual,0,1,2.8,9.2111
+Kia,2014,123677,Diesel,Manual,1197,1,21.4,8.6791
+Kia,2023,30559,Petrol,Manual,1497,1,16.4,12.3824
+Hyundai,2024,35523,Petrol,Automatic,1197,2,23.1,10.6487
+Toyota,2020,97011,Diesel,Automatic,1197,2,25.4,13.5879
+Renault,2024,23058,Diesel,Manual,1598,1,18.2,10.1334
+Kia,2019,64159,CNG,Manual,998,1,31.9,10.0881
+Toyota,2019,53119,Petrol,Automatic,1497,2,18.6,13.3982
+Tata,2017,108088,Electric,Automatic,0,2,4.3,8.5382
+Kia,2013,110345,Diesel,Manual,998,1,16.2,7.841
+Volkswagen,2015,82872,Petrol,Manual,2494,1,19.7,13.2503
+Mahindra,2023,31541,Diesel,Automatic,1497,1,19.2,16.6914
+Volkswagen,2011,115602,Petrol,Automatic,2179,4,15.1,8.6519
+Maruti Suzuki,2022,162450,Electric,Manual,0,1,2.9,9.0504
+Toyota,2010,166281,Hybrid,Manual,998,2,21.1,6.9645
+Hyundai,2010,161730,Petrol,Manual,998,1,19.3,3.9234
+Maruti Suzuki,2016,76735,Petrol,Manual,1197,2,23.3,5.7444
+Volkswagen,2013,98487,Petrol,Automatic,998,1,20.7,9.293
+Renault,2014,131203,CNG,Automatic,998,2,29.6,5.0461
+Kia,2024,14219,Petrol,Manual,2179,1,17.3,15.2302
+Volkswagen,2010,147573,CNG,Automatic,796,1,30.3,7.4694
+Kia,2014,88845,Petrol,Automatic,1598,1,16.1,9.266
+Hyundai,2011,178356,Petrol,Manual,1598,3,20.9,4.6144
+Maruti Suzuki,2023,107344,CNG,Manual,796,1,30.2,6.1565
+Honda,2023,31611,CNG,Automatic,998,3,26.8,10.486
+Maruti Suzuki,2016,79634,Petrol,Manual,1497,1,20.5,5.9121
+Hyundai,2020,67322,Electric,Automatic,0,2,4.3,12.0555
+Tata,2016,91326,CNG,Manual,1197,1,28.3,5.4005
+Volkswagen,2012,119798,Petrol,Manual,1598,1,22.9,9.3312
+Volkswagen,2022,24667,Petrol,Automatic,1197,4,18.6,13.8677
+Kia,2011,121184,Petrol,Automatic,1968,3,18.5,7.6213

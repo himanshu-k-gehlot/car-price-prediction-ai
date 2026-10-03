@@ -1,0 +1,20 @@
+{
+  "algorithm": "Random Forest Regression",
+  "n_estimators": 200,
+  "training_samples": 2400,
+  "test_samples": 600,
+  "mae_lakhs": 0.8514,
+  "rmse_lakhs": 1.1304,
+  "r2_score": 0.91,
+  "features": [
+    "brand",
+    "model_year",
+    "kilometers_driven",
+    "fuel_type",
+    "transmission",
+    "engine_cc",
+    "owner_count",
+    "mileage"
+  ],
+  "target": "price"
+}
