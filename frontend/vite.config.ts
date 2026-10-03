@@ -6,8 +6,9 @@ export default defineConfig({
 
   server: {
     port: 5173,
+
     allowedHosts: [
-      'car-price-prediction-ai-production.up.railway.app'
+      'car-price-prediction-ai-production-2b3.up.railway.app'
     ],
 
     proxy: {
@@ -17,11 +18,5 @@ export default defineConfig({
         rewrite: (path) => path.replace(/^\/api/, ''),
       },
     },
-  },
-
-  preview: {
-    allowedHosts: [
-      'car-price-prediction-ai-production.up.railway.app'
-    ],
   },
 })
