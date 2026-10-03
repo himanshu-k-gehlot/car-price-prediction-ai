@@ -94,8 +94,8 @@ export default function Home({ onNavigate }: HomeProps) {
       const message = err instanceof Error ? err.message : String(err)
       if (message.includes('Failed to fetch') || message.includes('NetworkError') || message.includes('network')) {
         setApiError(
-          'Unable to connect to the prediction server. Please make sure the FastAPI backend is running on http://localhost:8000.'
-        )
+  'Unable to connect to the prediction server. Please try again in a moment.'
+)
       } else {
         setApiError(message)
       }
